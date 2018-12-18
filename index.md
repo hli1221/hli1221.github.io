@@ -15,8 +15,21 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 
 ## Current research
 
-1. Image fusion(multi-focus, infrared and visible)
-2. Style transfer
+1. Image processing
+- Image fusion(multi-focus, infrared and visible)
+- Image style transfer
+
+2. Sparse/low-rank representation
+
+3. Deep learning
+
+
+## Publications
+
+**DenseFuse: A Fusion Approach to Infrared and Visible Images**  
+Hui Li and Xiao-Jun Wu  
+IEEE Transactions on Image Processing (TIP), to appear, 2019.
+
 
 
 ```markdown
