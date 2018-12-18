@@ -7,9 +7,9 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 ---
 ## Current research
 
-1. Image processing
--Image fusion(multi-focus, infrared and visible)  
--Image style transfer  
+1. Image processing  
+- Image fusion(multi-focus, infrared and visible)  
+- Image style transfer  
 2. Sparse/low-rank representation  
 3. Deep learning
 
