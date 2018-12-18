@@ -16,31 +16,37 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 ---
 ## Publications
 
+
 ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 **Hui Li**, Xiao-Jun Wu  
 *IEEE Transactions on Image Processing*(**TIP**), to appear, 2019.  
 [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 ![]({{site.baseurl}}/figures/densefuse.png)
 
-**Infrared and Visible Image Fusion using a Deep Learning Framework**  
+
+***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 **Hui Li**, Xiao-Jun Wu, Josef Kittler  
 *IEEE International Conference of Pattern Recognition*(**ICPR**), 2018.  
 [*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)
 
-**Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation**  
+
+***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
 **Hui Li**, Xiao-Jun Wu  
 *International Conference on Image and Graphics*(**ICIG**), Springer, Cham, 2017: 675-686.  
 [*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)
 
-**DDLatLRR: A novel decomposition method for infrared and visible image fusion**  
+
+***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 **Hui Li**, Xiao-Jun Wu, Josef Kittler  
 [*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition)
 
-**Multi-focus Noisy Image Fusion using Low-Rank Representation**  
+
+***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 **Hui Li**, Xiao-Jun Wu  
 [*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)
 
-**Infrared and Visible Image Fusion with ResNet and zero-phase component analysis**  
+
+***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 **Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
 [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)
 
