@@ -1,19 +1,7 @@
 # Setup
-title:        Hui Li
-tagline:      PRCI Lab, Jiangnan University.
-baseurl:      ""
-paginate:     1
-locale:       "en"
-
-# About/contact
-author:
-  name:       Hui Li
-  url:        https://hli1221.github.io/
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+title: Hui Li
+logo: /figures/logo.png
+description: PRCI Lab, Jiangnan University.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
