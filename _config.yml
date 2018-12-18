@@ -1,14 +1,14 @@
 # Setup
 title:        Hui Li
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Good artists copy, great artists steal
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Hui Li
+  url:        https://hli1221.github.io/
 
 # Gems
 gems:
