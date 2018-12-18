@@ -23,14 +23,24 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 
 3. Deep learning
 
+---
 
 ## Publications
 
 **DenseFuse: A Fusion Approach to Infrared and Visible Images**  
 **Hui Li**, Xiao-Jun Wu  
-*IEEE Transactions on Image Processing*(TIP), to appear, 2019. [preprint](https://arxiv.org/abs/1804.08361), [code](https://github.com/hli1221/imagefusion_densefuse)
+*IEEE Transactions on Image Processing*(**TIP**), to appear, 2019. [*preprint*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)
+
+**Infrared and Visible Image Fusion using a Deep Learning Framework**  
+**Hui Li**, Xiao-Jun Wu, Josef Kittler  
+*IEEE International Conference of Pattern Recognition*(**ICPR**), 2018. [*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)
+
+**Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation**  
+**Hui Li**, Xiao-Jun Wu  
+**International Conference on Image and Graphics**(ICIG), Springer, Cham, 2017: 675-686. [*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)
 
 
+---
 
 ```markdown
 Syntax highlighted code block
