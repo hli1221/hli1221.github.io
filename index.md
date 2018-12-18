@@ -37,7 +37,7 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 
 **Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation**  
 **Hui Li**, Xiao-Jun Wu  
-**International Conference on Image and Graphics**(ICIG), Springer, Cham, 2017: 675-686. [*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)
+*International Conference on Image and Graphics*(**ICIG**), Springer, Cham, 2017: 675-686. [*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)
 
 
 ---
