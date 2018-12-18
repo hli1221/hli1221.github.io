@@ -16,7 +16,7 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 ## Current research
 
 1. Image processing
->Image fusion(multi-focus, infrared and visible)
+>Image fusion(multi-focus, infrared and visible)  
 >Image style transfer
 
 2. Sparse/low-rank representation
