@@ -3,14 +3,6 @@ I am currently a first-year Ph.D student in [Jiangnan University](http://www.jia
 I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. Now I am working on Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
 ---
-## Contact
-
-**Email:** *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*  
-**Researchgate:** [website](https://www.researchgate.net/profile/Hui_Li294)
-
-Laboratory of Pattern Recognition and Computational Intelligence, School of Internet of Things Engineering.
-
----
 ## Current research
 
 1. Image processing
@@ -49,4 +41,12 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 **Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
 [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)
 
+
+---
+## Contact
+
+**Email:** *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*  
+**Researchgate:** [website](https://www.researchgate.net/profile/Hui_Li294)
+
+Laboratory of Pattern Recognition and Computational Intelligence, School of Internet of Things Engineering.
 
