@@ -7,9 +7,17 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 ## Contact
 
-Email: *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*
+**Email:** *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*
 
-Laboratory of Pattern Recognition and Computational Intelligence
+Laboratory of Pattern Recognition and Computational Intelligence, School of Internet of Things Engineering.
+
+---
+
+## Current research
+
+1. Image fusion(multi-focus, infrared and visible)
+2. Style transfer
+
 
 ```markdown
 Syntax highlighted code block
