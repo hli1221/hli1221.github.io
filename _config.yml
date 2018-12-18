@@ -1,7 +1,7 @@
 # Setup
 title:        Hui Li
 tagline:      PRCI Lab, Jiangnan University.
-baseurl:      ""
+baseurl:      figures
 paginate:     1
 locale:       "en"
 
