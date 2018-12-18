@@ -16,7 +16,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 ---
 ## Publications
 
-**DenseFuse: A Fusion Approach to Infrared and Visible Images**  
+***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 **Hui Li**, Xiao-Jun Wu  
 *IEEE Transactions on Image Processing*(**TIP**), to appear, 2019.  
 [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
