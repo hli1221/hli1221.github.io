@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hli1221/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a first-year Ph.D student in [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu. I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. Now I am working on Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: hui_li_jnu@163.com; lihui@stu.jiangnan.edu.cn
+Laboratory of Pattern Recognition and Computational Intelligence
 
 ```markdown
 Syntax highlighted code block
