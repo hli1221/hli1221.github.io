@@ -27,8 +27,8 @@ Laboratory of Pattern Recognition and Computational Intelligence, School of Inte
 ## Publications
 
 **DenseFuse: A Fusion Approach to Infrared and Visible Images**  
-Hui Li and Xiao-Jun Wu  
-IEEE Transactions on Image Processing (TIP), to appear, 2019.
+**Hui Li**, Xiao-Jun Wu  
+*IEEE Transactions on Image Processing*(TIP), to appear, 2019. [preprint](https://arxiv.org/abs/1804.08361), [code](https://github.com/hli1221/imagefusion_densefuse)
 
 
 
