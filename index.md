@@ -1,6 +1,6 @@
 I am currently a first-year Ph.D student in [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by **Pro. Xiao-Jun Wu**. 
 
-I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. Now I am working on Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
+I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.
 
 ---
 ## Current research
