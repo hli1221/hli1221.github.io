@@ -3,7 +3,11 @@ I am currently a first-year Ph.D student in [Jiangnan University](http://www.jia
 
 ## Contact
 
-Email: hui_li_jnu@163.com; lihui@stu.jiangnan.edu.cn
+Email: 
+hui_li_jnu@163.com
+
+lihui@stu.jiangnan.edu.cn
+
 Laboratory of Pattern Recognition and Computational Intelligence
 
 ```markdown
