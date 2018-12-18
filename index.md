@@ -20,7 +20,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 **Hui Li**, Xiao-Jun Wu  
 *IEEE Transactions on Image Processing*(**TIP**), to appear, 2019.  
 [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
-![](https://github.com/hli1221/hli1221.github.io/blob/master/figures/densefuse.png)
+<img src="https://github.com/hli1221/hli1221.github.io/blob/master/figures/densefuse.png">
 
 **Infrared and Visible Image Fusion using a Deep Learning Framework**  
 **Hui Li**, Xiao-Jun Wu, Josef Kittler  
