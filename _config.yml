@@ -1,6 +1,6 @@
 # Setup
 title: Hui Li
-logo: /figures/logo.png
+logo: {{site.baseurl}}//figures/logo.png
 description: PRCI Lab, Jiangnan University.
 show_downloads: true
 google_analytics:
