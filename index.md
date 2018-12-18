@@ -27,27 +27,32 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 **Hui Li**, Xiao-Jun Wu, Josef Kittler  
 *IEEE International Conference of Pattern Recognition*(**ICPR**), 2018.  
 [*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)
+<img src="{{site.baseurl}}/figures/vggml.png" width="500">
 
 
 ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
 **Hui Li**, Xiao-Jun Wu  
 *International Conference on Image and Graphics*(**ICIG**), Springer, Cham, 2017: 675-686.  
 [*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)
+<img src="{{site.baseurl}}/figures/dllrr.png" width="500">
 
 
 ***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 **Hui Li**, Xiao-Jun Wu, Josef Kittler  
 [*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition)
+<img src="{{site.baseurl}}/figures/ddlatlrr.png" width="500">
 
 
 ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 **Hui Li**, Xiao-Jun Wu  
 [*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)
+<img src="{{site.baseurl}}/figures/mniflrr.png" width="500">
 
 
 ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 **Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
 [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)
+<img src="{{site.baseurl}}/figures/resnet50.png" width="500">
 
 
 
