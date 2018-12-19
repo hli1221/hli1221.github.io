@@ -5,7 +5,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 **Email:** *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*  
 
 ---
-## Current research
+# Current research
 
 1. Image processing  
 - Image fusion(multi-focus, infrared and visible)  
@@ -14,7 +14,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 3. Deep learning
 
 ---
-## Publications
+# Publications
 
 ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 **Hui Li**, Xiao-Jun Wu  
