@@ -4,7 +4,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 **Email:** *hui_li_jnu@163.com*, *lihui@stu.jiangnan.edu.cn*  
 
----
+
 # Current research
 
 1. Image processing  
