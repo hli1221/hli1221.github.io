@@ -18,7 +18,7 @@ avatar: /images/photo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hui_li_jnu@163.com
   facebook:
   flickr:
   github: hli1221/
@@ -82,5 +82,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
   - CNAME
