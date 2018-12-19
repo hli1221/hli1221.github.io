@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hui_li_jnu@163.com](hui_li_jnu@163.com)
+
+[lihui@stu.jiangnan.edu.cn](lihui@stu.jiangnan.edu.cn)
