@@ -37,12 +37,6 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 <!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
-***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
-**Hui Li**, Xiao-Jun Wu, Josef Kittler  
-[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition)  
-<!-- <img src="{{site.baseurl}}/figures/ddlatlrr.png" width="400"> -->
-
-
 ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 **Hui Li**, Xiao-Jun Wu  
 [*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)  
@@ -55,5 +49,9 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 <!-- <img src="{{site.baseurl}}/figures/resnet50.png" width="400"> -->
 
 
+***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
+**Hui Li**, Xiao-Jun Wu, Josef Kittler  
+[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition)  
+<!-- <img src="{{site.baseurl}}/figures/ddlatlrr.png" width="400"> -->
 
 
