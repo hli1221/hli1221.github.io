@@ -55,3 +55,17 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 <!-- <img src="{{site.baseurl}}/figures/ddlatlrr.png" width="400"> -->
 
 
+---
+# Experience
+
+2011.09 ~ 2015.06: Bachelor in Computer science and technology in school of IOT, Jiangnan University, China.  
+2015.06 ~ 2016.12: Software engineers in Nanjing.  
+2016.09 ~ 2018.06: Master in Computer science and technology in Jiangnan University, China.  
+2018.09 ~ now    : Ph.D student in Control Science and Engineering in school of IOT, Jiangnan University, China.
+
+---
+# Professional Activities
+
+Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
+Reviewer: Electronics Letters
+
