@@ -18,8 +18,8 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 1. ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu  
-	*IEEE Transactions on Image Processing*(**TIP**), to appear, 2019.  
-	[*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
+	*IEEE Transactions on Image Processing*(**TIP**), Early Access, 2018.  
+	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->
 
 
@@ -37,22 +37,19 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
-4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
+<!-- 4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu  
 	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)  
-	<!-- <img src="{{site.baseurl}}/figures/mniflrr.png" width="400"> -->
-
+	
 
 5. ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 	**Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
 	[*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
-<!-- <img src="{{site.baseurl}}/figures/resnet50.png" width="400"> -->
 
 
 6. ***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu, Josef Kittler  
-	[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition)  
-	<!-- <img src="{{site.baseurl}}/figures/ddlatlrr.png" width="400"> -->
+	[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition) -->
 
 
 ---
