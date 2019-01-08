@@ -83,3 +83,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - CNAME
+
+theme: jekyll-theme-cayman
