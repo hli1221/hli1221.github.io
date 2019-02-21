@@ -65,6 +65,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 ---
 # Professional Activities
 
+Reviewer: Soft Computing
 Reviewer: Electronics Letters  
 Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
 
