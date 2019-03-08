@@ -58,14 +58,14 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 # Experience
 
 **2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IOT, Jiangnan University, China.  
-**2015.06 ~ 2016.12:** Software engineer(Android, Java) in Nanjing.  
+**2015.06 ~ 2016.12:** Software engineer in Nanjing.  
 **2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
 **2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of IOT, Jiangnan University, China.
 
 ---
 # Professional Activities
 
-Reviewer: Soft Computing
+Reviewer: Soft Computing  
 Reviewer: Electronics Letters  
 Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
 
