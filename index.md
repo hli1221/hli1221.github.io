@@ -18,11 +18,12 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 ---
 # Publications
 
-1. ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
+
+1. ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu  
-	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019.  
-	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
-	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->
+	*International Conference on Image and Graphics*(**ICIG**), Springer, Cham, 2017: 675-686.  
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
+	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
 2. ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
@@ -32,11 +33,17 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 	<!-- <img src="{{site.baseurl}}/figures/vggml.png" width="400"> -->
 
 
-3. ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
+3. ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu  
-	*International Conference on Image and Graphics*(**ICIG**), Springer, Cham, 2017: 675-686.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
-	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
+	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019.  
+	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
+	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->
+
+
+4. ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
+	**Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
+	*Journal of Infrared Physics & Technology*, In Press, Journal Pre-proof, Available online 12 September 2019.  
+	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
 
 
 <!-- 4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
@@ -63,10 +70,16 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 **2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of IOT, Jiangnan University, China.
 
 ---
+
+<!-- 
 # Professional Activities
 
 Reviewer: Soft Computing  
 Reviewer: Electronics Letters  
 Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
+-->
+
+
+
 
 
