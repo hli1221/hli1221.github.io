@@ -14,6 +14,8 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 - Image fusion(multi-focus, infrared and visible)  
 - Image style transfer  
 2. Sparse/low-rank representation  
+3. Multi-modality tracking under RGB and thermal/infrared
+
 
 ---
 # Publications
