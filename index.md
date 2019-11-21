@@ -69,7 +69,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 1. ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th**)  
-	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*paper*](http://prints.vicos.si/publications/375)
+	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375)
 	
 	
 ---
