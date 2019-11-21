@@ -56,7 +56,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 	[*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
 
 
-6. ***DDLatLRR: A novel decomposition method for infrared and visible image fusion***  
+6. ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu, Josef Kittler  
 	[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition) -->
 
@@ -66,7 +66,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 
 ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
-	VOT2019 RGB thermal and infrared subchallenge (FSRPN, 4th)  
+	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*paper*](http://prints.vicos.si/publications/375)
 	
 	
