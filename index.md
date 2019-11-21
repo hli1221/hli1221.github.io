@@ -64,6 +64,15 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 
 ---
+# Preprint
+
+
+1. ***Infrared and visible image fusion using Latent Low-Rank Representation***  
+	**Hui Li**, Xiao-Jun Wu  
+	[*arxiv*](https://arxiv.org/abs/1804.08992), [*code*](https://github.com/hli1221/imagefusion_Infrared_visible_latlrr) 
+
+
+---
 # Contest
 
 
