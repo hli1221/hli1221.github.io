@@ -57,10 +57,12 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 6. ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
 	*IEEE Transactions on Image Processing*(**TIP**), Early Access, 2020.  
-	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
+	[*paper*](https://ieeexplore.ieee.org/document/9018389), *arxiv*, [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
 
 
-<!-- 4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
+<!-- 
+[*arxiv*](https://arxiv.org/abs/1811.02291)
+4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu  
 	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)  
 	
