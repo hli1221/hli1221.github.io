@@ -108,7 +108,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 # Activities
 
-Reviewer: IEEE Transactions on Image Processing
+Reviewer: IEEE Transactions on Image Processing  
 Reviewer: Soft Computing  
 Reviewer: Electronics Letters  
 Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
