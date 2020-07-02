@@ -1,6 +1,6 @@
-I am currently a Ph.D student at [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by [Pro. Xiao-Jun Wu](http://iot.jiangnan.edu.cn/info/1059/1532.htm). 
+I am currently a Ph.D student at [School of Artificial Intelligence and Computer Science](http://ai.jiangnan.edu.cn/index.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI&CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm). 
 
-I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, School of Artificial Intelligence and Computer Science, Jiangnan University.
+I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
 **Email:**  
 *lihui@stu.jiangnan.edu.cn*  
@@ -21,28 +21,28 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 # Publications
 
 
-1. ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
++ ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu*  
 	*International Conference on Image and Graphics*(**ICIG 2017**), Springer, Cham, 2017: 675-686.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
 	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
-2. ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
++ ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
 	*IEEE International Conference of Pattern Recognition*(**ICPR 2018**), 2018.  
 	[*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)  
 	<!-- <img src="{{site.baseurl}}/figures/vggml.png" width="400"> -->
 
 
-3. ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
++ ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu*  
 	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019.  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->
 
 
-4. ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
++ ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
 	*Journal of Infrared Physics & Technology*, Volume 102, November 2019, 103039.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
