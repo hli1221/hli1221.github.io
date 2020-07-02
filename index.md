@@ -52,7 +52,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
 	<tbody>
 		<tr>
-			<td width="440"><a><img src ="https://raw.githubusercontent.com/zhanghang1989/MSG-Net/master/images/figure1.jpg" width="420px" border="1"></a></td>
+			<td width="440"><a><img src ="{{site.baseurl}}/images/densefuse.png" width="420px" border="1"></a></td>
 			<td>
 			<b>Multi-style Generative Network for Real-time Transfer</b>  [<a href="https://arxiv.org/pdf/1703.06953.pdf">arXiv</a>] [<a href="http://computervisionrutgers.github.io/MSG-Net/">project</a>]  <br>
 			  <a href="http://hangzh.com/">Hang Zhang</a>,  <a href="http://eceweb1.rutgers.edu/vision/dana.html">Kristin Dana</a>
