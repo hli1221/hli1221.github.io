@@ -44,7 +44,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	**Hui Li**, Xiao-Jun Wu*  
 	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019.  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
-	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->
+	<img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400">
 
 
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
@@ -61,16 +61,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
-+ <table width="100%" border="0">
-		<tbody>
-			<tr>
-				<td><img src ="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="100px" border="1"></td>
-				<td> 
-					DenseFuse: A Fusion Approach to Infrared and Visible Images Hui Li,  Xiao-Jun Wu
-				</td>
-			</tr>
-		</tbody>
-	</table>
 
 
 ---
