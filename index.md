@@ -52,7 +52,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<table width="100%" border="0" cellspacing="15" cellpadding="0">
 		<tbody>
 			<tr>
-				<td width="440"><a><img src ="{{site.baseurl}}/images/densefuse.png" width="420px" border="1"></a></td>
+				<td width="440"><a><img src ="https://github.com/hli1221/hli1221.github.io/blob/master/images/densefuse.png" width="420px" border="1"></a></td>
 				<td>
 				<b>Multi-style Generative Network for Real-time Transfer</b> 
 				  <a href="http://hangzh.com/">Hang Zhang</a>,  <a href="http://eceweb1.rutgers.edu/vision/dana.html">Kristin Dana</a>
