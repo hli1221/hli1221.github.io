@@ -49,21 +49,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 
-+ 	<table width="100%" border="0" cellspacing="15" cellpadding="0">
-		<tbody>
-			<tr>
-				<td width="110"><img src ="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="100px" border="1"></td>
-				<td>
-				<b>Multi-style Generative Network for Real-time Transfer</b> 
-				  <a href="http://hangzh.com/">Hang Zhang</a>,  <a href="http://eceweb1.rutgers.edu/vision/dana.html">Kristin Dana</a>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-
-
-
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
 	*IEEE International Conference of Pattern Recognition*(**ICPR 2018**), 2018.  
