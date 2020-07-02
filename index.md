@@ -10,11 +10,8 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Current research
 
-1. Image processing  
-- Image fusion(multi-focus, infrared and visible)  
-- Image style transfer  
-2. Sparse/low-rank representation  
-3. Multi-modality tracking under RGB and thermal/infrared
++ Image processing (image fusion)  
++ Multi-modality tracking under RGB and thermal/infrared
 
 
 ---
