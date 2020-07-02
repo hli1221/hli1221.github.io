@@ -61,6 +61,19 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
 
++ <table width="100%" border="0" cellspacing="15" cellpadding="0">
+		<tbody>
+			<tr>
+				<td width="110"><img src ="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="100px" border="1"></td>
+				<td>
+				<b>DenseFuse: A Fusion Approach to Infrared and Visible Images</b> 
+				  Hui Li,  Xiao-Jun Wu
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+
 ---
 # Preprint
 
