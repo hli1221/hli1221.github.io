@@ -71,13 +71,13 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu  
-	*arXiv 2017*
+	*arXiv 2017*  
 	[*arxiv*](https://arxiv.org/abs/1804.08992), [*code*](https://github.com/hli1221/imagefusion_Infrared_visible_latlrr) 
 
 
 + ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu, Tariq Durrani  
-	*arXiv 2017*
+	*arXiv 2017*  
 	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr) 
 
 
