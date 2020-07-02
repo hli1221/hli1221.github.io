@@ -1,4 +1,4 @@
-I am currently a Ph.D student at [School of Artificial Intelligence and Computer Science](http://ai.jiangnan.edu.cn/index.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI&CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
+I am currently a Ph.D student at [School of Artificial Intelligence and Computer Science](http://ai.jiangnan.edu.cn/index.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
 
 I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
@@ -69,16 +69,23 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 # Preprint
 
 
-1. ***Infrared and visible image fusion using Latent Low-Rank Representation***  
++ ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu  
+	*arXiv 2017*
 	[*arxiv*](https://arxiv.org/abs/1804.08992), [*code*](https://github.com/hli1221/imagefusion_Infrared_visible_latlrr) 
+
+
++ ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
+	**Hui Li**, Xiao-Jun Wu, Tariq Durrani  
+	*arXiv 2017*
+	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr) 
 
 
 ---
 # Contest
 
 
-1. ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
++ ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375)
 	
@@ -89,7 +96,7 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 **2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IOT, Jiangnan University, China.  
 **2015.06 ~ 2016.12:** Software engineer in Nanjing.  
 **2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
-**2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of IOT, Jiangnan University, China.
+**2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of AI & CS, Jiangnan University, China.
 
 ---
 
