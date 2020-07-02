@@ -1,6 +1,6 @@
 I am currently a Ph.D student at [School of Artificial Intelligence and Computer Science](http://ai.jiangnan.edu.cn/index.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
 
-I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
+I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
 **Email:**  
 *lihui@stu.jiangnan.edu.cn*  
