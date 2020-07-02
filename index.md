@@ -5,7 +5,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 **Email:**  
 *lihui@stu.jiangnan.edu.cn*  
 *hui_li_jnu@163.com*  
-*hui.li.cv@gmail.com*
 
 ---
 # Current research
