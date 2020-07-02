@@ -1,6 +1,6 @@
 I am currently a Ph.D student at [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by [Pro. Xiao-Jun Wu](http://iot.jiangnan.edu.cn/info/1059/1532.htm). 
 
-I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.
+I received my B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I worked as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, School of Artificial Intelligence and Computer Science, Jiangnan University.
 
 **Email:**  
 *lihui@stu.jiangnan.edu.cn*  
@@ -60,22 +60,14 @@ I received my B.A. degree from School of Internet of Things Engineering at Jiang
 	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
 
 
-<!-- 
-
-4. ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu  
-	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr)  
-	
-
-5. ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
-	**Hui Li**, Xiao-Jun Wu, Tariq S. Durrani  
-	[*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
+7. ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
+	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
+	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Early Access, 2020.  
+	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
 
 
-6. ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
-	**Hui Li**, Xiao-Jun Wu, Josef Kittler  
-	[*preprint*](https://www.researchgate.net/publication/328783865_DDLatLRR_A_novel_decomposition_method_for_infrared_and_visible_image_fusion), [*code*](https://github.com/hli1221/imagefusion_deepdecomposition) -->
 
+https://arxiv.org/abs/2007.00328
 
 ---
 # Preprint
