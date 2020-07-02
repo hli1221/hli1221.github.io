@@ -62,7 +62,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 + 	<div>
-	    <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" style="vertical-align:middle;">
+	    <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400" style="vertical-align:middle;">
 	    <span>DenseFuse: A Fusion Approach to Infrared and Visible Images</span>
 	</div>
 
