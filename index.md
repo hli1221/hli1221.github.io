@@ -48,7 +48,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<!-- <img src="{{site.baseurl}}/images/densefuse.png" width="400"> -->  
 
 
-
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
 	*IEEE International Conference of Pattern Recognition*(**ICPR 2018**), 2018.  
