@@ -49,7 +49,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
-	*IEEE International Conference of Pattern Recognition*(**ICPR 2018**), 2018.  
+	*IEEE International Conference on Pattern Recognition*(**ICPR 2018**), 2018.  
 	[*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)  
 	<!-- <img src="{{site.baseurl}}/figures/vggml.png" width="400"> -->
 
