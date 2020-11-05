@@ -89,15 +89,19 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
+
++ ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
+	VOT2020 RGB thermal and infrared subchallenge (**DFAT, The winning tracker award**)  
+	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://www.votchallenge.net/vot2020/trackers.html)
 	
 	
 ---
 # Experience
 
-**2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IOT, Jiangnan University, China.  
+**2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IoT, Jiangnan University, China.  
 **2015.06 ~ 2016.12:** Software engineer in Nanjing.  
 **2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
-**2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of AI & CS, Jiangnan University, China.
+**2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of IoT, Jiangnan University, China.
 
 ---
 
