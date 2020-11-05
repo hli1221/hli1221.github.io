@@ -1,4 +1,4 @@
-I am currently a Ph.D student at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [School of Artificial Intelligence and Computer Science](http://ai.jiangnan.edu.cn/index.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
+I am currently a Ph.D student at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
 
 I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I studied as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
@@ -86,14 +86,15 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 # Contest
 
 
-+ ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
-	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
-	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
-
 + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
 	VOT2020 RGB thermal and infrared subchallenge (**DFAT, The winning tracker award**)  
 	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://www.votchallenge.net/vot2020/trackers.html)
 	
+	
++ ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
+	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
+	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
+
 	
 ---
 # Experience
@@ -109,9 +110,11 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 # Activities
 
 Reviewer: IEEE Transactions on Image Processing  
+Reviewer: IEEE Sensors Letters  
 Reviewer: Soft Computing  
 Reviewer: Electronics Letters  
-Reviewer: IEEE International Smart Cities Conference (ISC2 2018)  
+Reviewer: IEEE International Conference on Pattern Recognition   
+Reviewer: IEEE International Smart Cities Conference
 
 
 
