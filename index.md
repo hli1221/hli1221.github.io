@@ -18,13 +18,13 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
-	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Early Access, 2020.  
+	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
 	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
 
 
 + ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
-	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733 - 4746, February, 2020.  
+	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733-4746, February, 2020.  
 	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
 
 
