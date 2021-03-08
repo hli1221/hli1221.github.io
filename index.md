@@ -21,6 +21,13 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	*Information Fusion*, Available online 1 March 2021.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*], [*code*](https://github.com/hli1221/imagefusion-rfn-nest)
 
+
++ ***Subspace Clustering Via Joint Unsupervised Feature Selection***  
+	Wenhua Dong, Xiaojun Wu*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
+	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2020.  
+	[*paper*], [*arxiv*], [*code*]
+
+
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
 	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
