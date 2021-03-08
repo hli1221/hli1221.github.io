@@ -17,7 +17,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 # Publications
 
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
-	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
+	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*Information Fusion*, Available online 1 March 2021.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*], [*code*](https://github.com/hli1221/imagefusion-rfn-nest)
 
@@ -29,45 +29,45 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
-	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
+	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
 	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
 	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
 
 
 + ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
-	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
+	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733-4746, February, 2020.  
 	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
 
 
 + ***MSDNet for Medical Image Fusion***  
-	Xu Song, , Xiao-Jun Wu* , **Hui Li**  
+	Xu Song, , Xiao-Jun Wu\* , **Hui Li**  
 	*International Conference on Image and Graphics*(**ICIG 2019**), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24), [*preprint*](https://www.researchgate.net/publication/337574155_MSDNet_for_Medical_Image_Fusion), [*code*](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion) 
 
 
 + ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
-	**Hui Li**, Xiao-Jun Wu* , Tariq S. Durrani  
+	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
 	*Journal of Infrared Physics & Technology*, Volume 102, November 2019, 103039.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
 
 
 + ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
-	**Hui Li**, Xiao-Jun Wu*  
+	**Hui Li**, Xiao-Jun Wu\*  
 	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (**Highly Cited Paper**)  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
 
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
-	**Hui Li**, Xiao-Jun Wu* , Josef Kittler  
+	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*IEEE International Conference on Pattern Recognition*(**ICPR 2018**), 2018.  
 	[*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)  
 	<!-- <img src="{{site.baseurl}}/figures/vggml.png" width="400"> -->
 
 
 + ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu*  
+	**Hui Li**, Xiao-Jun Wu\*  
 	*International Conference on Image and Graphics*(**ICIG 2017**), Springer, Cham, 2017: 675-686.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
 	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
@@ -83,13 +83,13 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu  
+	**Hui Li**, Xiao-Jun Wu\*  
 	*arXiv 2017*  
 	[*arxiv*](https://arxiv.org/abs/1804.08992), [*code*](https://github.com/hli1221/imagefusion_Infrared_visible_latlrr) 
 
 
 + ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu, Tariq Durrani  
+	**Hui Li**, Xiao-Jun Wu\*, Tariq Durrani  
 	*arXiv 2017*  
 	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr) 
 
