@@ -23,7 +23,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 + ***Subspace Clustering Via Joint Unsupervised Feature Selection***  
-	Wenhua Dong, Xiaojun Wu*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
+	Wenhua Dong, Xiao-Jun Wu\*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
 	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2020.  
 	[*paper*], [*arxiv*], [*code*]
 
