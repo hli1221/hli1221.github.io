@@ -18,7 +18,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*Information Fusion*, Volume: 73, Pages: 72-86.  
+	*Information Fusion*, Volume: 73, Pages: 72-86, September 2021.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*], [*code*](https://github.com/hli1221/imagefusion-rfn-nest)
 
 
