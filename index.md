@@ -22,10 +22,10 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)
 
 
-+ ***Subspace Clustering Via Joint Unsupervised Feature Selection***  
++ ***Subspace Clustering via Joint Unsupervised Feature Selection***  
 	Wenhua Dong, Xiao-Jun Wu\*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
-	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2020.  
-	[*paper*], [*arxiv*], [*code*]
+	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2021, Page(s): 3892 - 3898.  
+	[*paper*](https://ieeexplore.ieee.org/document/9413101), [*arxiv*], [*code*]
 
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
@@ -61,22 +61,16 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*IEEE International Conference on Pattern Recognition*(**ICPR 2018**), 2018.  
+	*IEEE International Conference on Pattern Recognition*(**ICPR 2018**), 2018, Page(s):2705 - 2710.  
 	[*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)  
 	<!-- <img src="{{site.baseurl}}/figures/vggml.png" width="400"> -->
 
 
 + ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu\*  
-	*International Conference on Image and Graphics*(**ICIG 2017**), Springer, Cham, 2017: 675-686.  
+	*International Conference on Image and Graphics*(**ICIG 2017**), Springer, Cham, 2017: 675 - 686.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
-	<!-- <img src="{{site.baseurl}}/figures/dllrr.png" width="400"> -->
 
-
-<!-- + 	<div>
-	    <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="200" style="vertical-align:middle;">
-	    <span>DenseFuse: A Fusion Approach to Infrared and Visible Images</span>
-	</div> -->
 
 ---
 # Preprint
