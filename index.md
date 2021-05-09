@@ -105,10 +105,10 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Experience
 
-**2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IoT, Jiangnan University, China.  
-**2015.06 ~ 2016.12:** Software engineer in Nanjing.  
-**2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
 **2018.09 ~ now    :** Ph.D student in Control Science and Engineering in school of IoT, Jiangnan University, China.
+**2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
+**2015.06 ~ 2016.12:** Software engineer in Nanjing.  
+**2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IoT, Jiangnan University, China.  
 
 ---
 
@@ -117,6 +117,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 Reviewer: IEEE Transactions on Image Processing  
 Reviewer: IEEE Transactions on Neural Networks and Learning Systems  
+Reviewer: IEEE Transactions on Instrumentation & Measurement  
 Reviewer: IEEE Sensors Journal  
 Reviewer: IEEE Sensors Letters  
 Reviewer: IEEE International Conference on Pattern Recognition   
