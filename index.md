@@ -1,4 +1,4 @@
-I am currently a Ph.D student at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of IoT](http://iot.jiangnan.edu.cn/info/1059/1532.htm), [School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
+I am currently a Ph.D student at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [School of AI & CS](http://ai.jiangnan.edu.cn/), [Jiangnan University](http://www.jiangnan.edu.cn/), supervised by Pro. Xiao-Jun Wu ([School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
 
 I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I studied as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
