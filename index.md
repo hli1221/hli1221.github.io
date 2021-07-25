@@ -3,8 +3,9 @@ I am currently a Ph.D student at Jiangsu Provincial Engineering Laboratory of Pa
 I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I studied as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
 **Email:**  
-*lihui@stu.jiangnan.edu.cn*  
 *hui_li_jnu@163.com*  
+*lihui@stu.jiangnan.edu.cn*  
+*hui.li.cv@gmail.com*  
 
 ---
 # Current research
