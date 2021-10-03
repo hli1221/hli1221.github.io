@@ -17,10 +17,17 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Publications
 
+
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*Information Fusion*, Volume: 73, Pages: 72-86, September 2021.  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)
+
+
++ ***UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation***  
+	Dongyu Rao, Xiao-Jun Wu\*, **Hui Li**, Josef Kittler, Tianyang Xu  
+	*Journal of Electronic Imaging*, Volume: 30, issue: 5, pp. 053013, September 2021.  
+	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*]
 
 
 + ***Subspace Clustering via Joint Unsupervised Feature Selection***  
