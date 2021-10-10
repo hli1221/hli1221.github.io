@@ -15,9 +15,9 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 ---
-# Publications (10)
+# Publications
 
-## Journal papers
+## Journal papers (6)
 
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
@@ -56,7 +56,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
 
-## Conference papers
+## Conference papers (5)
 
 + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
 	Guo-Yang Chen, Xiao-Jun Wu\* , **Hui Li**, Tian-Yang Xu  
@@ -118,6 +118,11 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
+
+
++ ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
+	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
+	[*home page*](https://anti-uav.github.io/leaderboard2/)
 
 	
 ---
