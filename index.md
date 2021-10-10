@@ -111,16 +111,19 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
+    **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
 	VOT2020 RGB thermal and infrared subchallenge (**DFAT, The winning tracker award**)  
 	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://www.votchallenge.net/vot2020/trackers.html)
 	
 	
 + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
+    **Hui Li**, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
 
 
 + ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
+    Xuefeng Zhu, Zhangyong Tang, **Hui Li**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler  
 	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
 	[*home page*](https://anti-uav.github.io/leaderboard2/)
 
