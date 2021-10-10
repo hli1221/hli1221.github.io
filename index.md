@@ -17,6 +17,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Publications (10)
 
+## Journal papers
 
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
@@ -30,12 +31,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*]
 
 
-+ ***Subspace Clustering via Joint Unsupervised Feature Selection***  
-	Wenhua Dong, Xiao-Jun Wu\*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
-	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2021, Page(s): 3892 - 3898.  
-	[*paper*](https://ieeexplore.ieee.org/document/9413101), [*arxiv*], [*code*]
-
-
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
 	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
@@ -46,12 +41,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733-4746, February, 2020.  
 	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
-
-
-+ ***MSDNet for Medical Image Fusion***  
-	Xu Song, , Xiao-Jun Wu\* , **Hui Li**  
-	*International Conference on Image and Graphics*(**ICIG 2019**), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24), [*preprint*](https://www.researchgate.net/publication/337574155_MSDNet_for_Medical_Image_Fusion), [*code*](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion) 
 
 
 + ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
@@ -67,6 +56,26 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
 
+## Conference papers
+
++ ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
+	Guo-Yang Chen, Xiao-Jun Wu\* , **Hui Li**, Tian-Yang Xu  
+	*International Conference on Image and Graphics*(**ICIG 2021**), 30 September 2021, Lecture Notes in Computer Science, vol 12888. Springer, Cham.  
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4), [*arxiv*], [*code*]
+
+
++ ***Subspace Clustering via Joint Unsupervised Feature Selection***  
+	Wenhua Dong, Xiao-Jun Wu\*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
+	*IEEE International Conference on Pattern Recognition*(**ICPR 2020**), 2021, Page(s): 3892 - 3898.  
+	[*paper*](https://ieeexplore.ieee.org/document/9413101), [*arxiv*], [*code*]
+
+
++ ***MSDNet for Medical Image Fusion***  
+	Xu Song, , Xiao-Jun Wu\* , **Hui Li**  
+	*International Conference on Image and Graphics*(**ICIG 2019**), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24), [*preprint*](https://www.researchgate.net/publication/337574155_MSDNet_for_Medical_Image_Fusion), [*code*](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion) 
+
+
 + ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*IEEE International Conference on Pattern Recognition*(**ICPR 2018**), 2018, Page(s):2705 - 2710.  
@@ -78,6 +87,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	**Hui Li**, Xiao-Jun Wu\*  
 	*International Conference on Image and Graphics*(**ICIG 2017**), Springer, Cham, 2017: 675 - 686.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)  
+
 
 
 ---
