@@ -8,22 +8,11 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 <!--*hui.li.cv@gmail.com*  -->
 
 ---
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                # Current research
-                + Image processing (image fusion)  
-				+ Multi-modality tracking under RGB and thermal/infrared
-            </td>
-            <td>
-                <!--右侧内容-->
-                ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
-            </td>
-        </tr>
-    </table>
-</html>
+# Current research
+
++ Image processing (image fusion)  
++ Multi-modality tracking under RGB and thermal/infrared  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
 
 
 ---
@@ -159,12 +148,6 @@ Reviewer: IEEE Transactions on Neural Networks and Learning Systems
 Reviewer: IEEE Transactions on Instrumentation & Measurement  
 Reviewer: IEEE International Conference on Pattern Recognition   
 Reviewer: IEEE International Smart Cities Conference
-
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
-
-
 
 
 
