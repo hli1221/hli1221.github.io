@@ -15,11 +15,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 
 ---
-GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
-
-
----
 # Publications
 
 ## Journal papers (6)
@@ -152,6 +147,11 @@ Reviewer: IEEE Transactions on Neural Networks and Learning Systems
 Reviewer: IEEE Transactions on Instrumentation & Measurement  
 Reviewer: IEEE International Conference on Pattern Recognition   
 Reviewer: IEEE International Smart Cities Conference
+
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
+
 
 
 
