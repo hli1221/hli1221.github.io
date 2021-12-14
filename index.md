@@ -29,7 +29,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation***  
 	Dongyu Rao, Xiao-Jun Wu\*, **Hui Li**, Josef Kittler, Tianyang Xu  
 	*Journal of Electronic Imaging*, Volume: 30, issue: 5, pp. 053013, September 2021.  
-	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*]
+	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*](https://github.com/dongyuya/UMFA)
 
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
