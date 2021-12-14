@@ -114,7 +114,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
     **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
 	VOT2020 RGB thermal and infrared subchallenge (**DFAT, The winning tracker award**)  
-	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://www.votchallenge.net/vot2020/trackers.html)
+	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://github.com/Zhangyong-Tang/DFAT)
 	
 	
 + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
