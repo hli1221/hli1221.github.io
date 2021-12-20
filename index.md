@@ -52,7 +52,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 + ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu\*  
-	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (**Highly Cited Paper & Hot Paper**)  
+	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (**Highly Cited Paper**)  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
@@ -62,7 +62,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
 	Guo-Yang Chen, Xiao-Jun Wu\* , **Hui Li**, Tian-Yang Xu  
 	*International Conference on Image and Graphics*(**ICIG 2021**), 30 September 2021, Lecture Notes in Computer Science, vol 12888. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4), [*arxiv*], [*code*]
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4), [*arxiv*], [*code*](https://github.com/cgyfocus/icig_mscfuse)
 
 
 + ***Subspace Clustering via Joint Unsupervised Feature Selection***  
