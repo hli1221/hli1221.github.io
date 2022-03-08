@@ -142,7 +142,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 # Activities
 
-Reviewer: Information Fuison  
+Reviewer: Information Fusion  
 Reviewer: IEEE Transactions on Image Processing  
 Reviewer: IEEE Transactions on Circuits and Systems for Video Technology  
 Reviewer: IEEE Transactions on Neural Networks and Learning Systems  
