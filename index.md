@@ -132,6 +132,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Experience
 
+**2022.01 ~ now:** Lecturer, School of Artificial Intelligence and Computer Science, Jiangnan University, China.  
 **2018.09 ~ 2021.12:** Ph.D candidate in Control Science and Engineering in school of IoT, Jiangnan University, China.  
 **2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
 **2015.06 ~ 2016.08:** Software engineer in Nanjing, China.  
