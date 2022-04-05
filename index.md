@@ -102,7 +102,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 + ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
 	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
 	*arXiv 2021*  
-	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*]() 
+	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*] 
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu\*  
