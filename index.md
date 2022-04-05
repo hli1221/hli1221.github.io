@@ -94,6 +94,15 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Preprint
 
++ ***Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking***  
+	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu, Xuefeng Zhu, Josef Kittler  
+	*arXiv 2022*  
+	[*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT) 
+
++ ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
+	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
+	*arXiv 2021*  
+	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*]() 
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu\*  
@@ -110,6 +119,15 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Contest
 
++ ***The Ninth Visual Object Tracking VOT2021 Challenge Results***  
+    Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler  
+	VOT2021 RGBD subchallenge (**TALGD, 2nd place**)  
+	[*home page*](https://www.votchallenge.net/vot2021/), [*VOT report*](https://prints.vicos.si/publications/400)
+
++ ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
+    Xuefeng Zhu, Zhangyong Tang, **Hui Li**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler  
+	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
+	[*home page*](https://anti-uav.github.io/leaderboard2/)
 
 + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
     **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
@@ -122,11 +140,6 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
 	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
 
-
-+ ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
-    Xuefeng Zhu, Zhangyong Tang, **Hui Li**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler  
-	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
-	[*home page*](https://anti-uav.github.io/leaderboard2/)
 
 	
 ---
