@@ -1,4 +1,4 @@
-I received my doctorate at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [Jiangnan University](http://www.jiangnan.edu.cn/), in December of 2021, supervised by Pro. Xiao-Jun Wu ([School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
+I received my Ph.D. degree at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [Jiangnan University](http://www.jiangnan.edu.cn/), in December of 2021, supervised by Pro. Xiao-Jun Wu ([School of AI & CS](http://ai.jiangnan.edu.cn/info/1013/1500.htm)). 
 
 I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I studied as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University.
 
