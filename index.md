@@ -20,6 +20,12 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 ## Journal papers (6)
 
++ ***Generalized n-Dimensional Rigid Registration: Theory and Applications***  
+	Jin Wu, Miaomiao Wang, Hassen Fourati, **Hui Li**, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu\*  
+	*IEEE Transactions on Cybernetics*, 2022, Early Acces.  
+	[*paper*](https://ieeexplore.ieee.org/abstract/document/9768182), [*code*](https://github.com/zarathustr/GLnR), [*video*](https://youtu.be/BwfjQ9ZAyl4)
+
+
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*Information Fusion*, Volume: 73, Pages: 72-86, September 2021.  
