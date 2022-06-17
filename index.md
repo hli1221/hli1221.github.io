@@ -18,7 +18,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 ---
 # Publications
 
-## Journal papers (6)
+## Journal papers (7)
 
 + ***Generalized n-Dimensional Rigid Registration: Theory and Applications***  
 	Jin Wu, Miaomiao Wang, Hassen Fourati, **Hui Li**, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu\*  
