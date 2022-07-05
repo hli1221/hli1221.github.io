@@ -101,6 +101,11 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 ---
 # Preprint
 
++ ***A Medical Image Fusion Method based on MDLatLRRv2***  
+	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
+	*arXiv 2022*  
+	[*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2) 
+
 + ***Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking***  
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu, Xuefeng Zhu, Josef Kittler  
 	*arXiv 2022*  
