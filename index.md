@@ -114,7 +114,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 + ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
 	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
 	*arXiv 2021*  
-	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*] 
+	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*](https://github.com/songxujay/Res2NetFuse) 
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu\*  
