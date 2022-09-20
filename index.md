@@ -19,7 +19,13 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 ---
 # Publications
 
-## Journal papers (7)
+## Journal papers (8)
+
++ ***SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
+	Zhishe Wang\*, Yanlin Chen, Wenyu Shao, **Hui Li**, Lei Zhang  
+	*IEEE Transactions on Instrumentation and Measurement*, 2022, vol: 71.  
+	[*paper*](https://ieeexplore.ieee.org/document/9832006), [*code*](https://github.com/Zhishe-Wang/SwinFuse)
+
 
 + ***Generalized n-Dimensional Rigid Registration: Theory and Applications***  
 	Jin Wu, Miaomiao Wang, Hassen Fourati, **Hui Li**, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu\*  
