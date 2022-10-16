@@ -21,6 +21,12 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 ## Journal papers (8)
 
++ ***I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
+	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
+	*IEEE Transactions on Multimedia*, Early Access.  
+	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*]()
+
+
 + ***SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
 	Zhishe Wang\*, Yanlin Chen, Wenyu Shao, **Hui Li**, Lei Zhang  
 	*IEEE Transactions on Instrumentation and Measurement*, 2022, vol: 71.  
