@@ -19,7 +19,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 ---
 # Publications
 
-## Journal papers (8)
+## Journal papers (9)
 
 + ***I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
