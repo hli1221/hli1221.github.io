@@ -24,7 +24,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 + ***I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
 	*IEEE Transactions on Multimedia*, Early Access.  
-	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*]()
+	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*]
 
 
 + ***SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
