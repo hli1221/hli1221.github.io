@@ -143,6 +143,12 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 ---
 # Contest
 
+
++ ***The Tenth Visual Object Tracking VOT2022 Challenge Results***  
+    Zhangyong Tang, Xuefeng Zhu, Shaochuan Zhao, Tianyang Xu, Jiaye Chen, Ze Kang, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li  
+	VOT-D 2022 subchallenge (**RSDiMP, 2nd place**)  
+	[*home page*](https://www.votchallenge.net/vot2022/), [*VOT report*](https://prints.vicos.si/publications/416)
+
 + ***The Ninth Visual Object Tracking VOT2021 Challenge Results***  
     Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler  
 	VOT2021 RGBD subchallenge (**TALGD, 2nd place**)  
@@ -180,6 +186,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 # Activities
 
+Reviewer: International Journal of Computer Vision  
 Reviewer: IEEE Transactions on Image Processing  
 Reviewer: Information Fusion  
 Reviewer: IEEE Transactions on Multimedia  
