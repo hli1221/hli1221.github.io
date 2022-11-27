@@ -41,7 +41,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*Information Fusion*, Volume: 73, Pages: 72-86, September 2021. (**Highly Cited Paper**)  
+	*Information Fusion*, Volume: 73, Pages: 72-86, September 2021. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)
 
 
@@ -59,7 +59,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733-4746, February, 2020. (<font color=red>**Highly Cited Paper**</font>)  
+	*IEEE Transactions on Image Processing*(**TIP**), Volume: 29, pp. 4733-4746, February, 2020. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
 
 
@@ -71,7 +71,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu\*  
-	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (**Highly Cited Paper**)  
+	*IEEE Transactions on Image Processing*(**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
@@ -161,7 +161,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
     **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
-	VOT2020 RGB thermal and infrared subchallenge (**DFAT, The winning tracker award**)  
+	VOT2020 RGB thermal and infrared subchallenge (**DFAT**, <font color=red>The winning tracker award</font>)  
 	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://github.com/Zhangyong-Tang/DFAT)
 	
 	
