@@ -186,6 +186,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 # Activities
 
+Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence  
 Reviewer: International Journal of Computer Vision  
 Reviewer: IEEE Transactions on Image Processing  
 Reviewer: Information Fusion  
