@@ -53,7 +53,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
-	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
+	*IEEE Transactions on Instrumentation and Measurement*(**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
 
 
