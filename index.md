@@ -65,7 +65,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 
 + ***Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
-	*Journal of Infrared Physics & Technology*, Volume 102, November 2019, 103039.  
+	*Journal of Infrared Physics & Technology*, Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
 
 
