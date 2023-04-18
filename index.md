@@ -24,7 +24,7 @@ I am currently a Lecturer at the School of Artificial Intelligence and Computer 
 + ***LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
 	*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023  
-	[*paper*], [*Arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)  
+	[*paper*], [*arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)  
 
 + ***I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
