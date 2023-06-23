@@ -21,7 +21,12 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Publications
 
-## Journal papers (10)
+## Journal papers (11)
+
++ ***Exploring fusion strategies for accurate RGBT visual object tracking***  
+	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
+	*Information Fusion* (**InfFus**), 2023: 101881  
+	[*paper*](https://doi.org/10.1016/j.inffus.2023.101881), [*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT)  
 
 + ***LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
@@ -32,7 +37,6 @@ I have published several scientific papers (including five highly cited papers),
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
 	*IEEE Transactions on Multimedia* (**TMM**), 2022, Early Access.  
 	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*](https://github.com/hli1221/MOTion-Estimator-MOTE-)
-
 
 + ***SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
 	Zhishe Wang\*, Yanlin Chen, Wenyu Shao, **Hui Li**, Lei Zhang  
