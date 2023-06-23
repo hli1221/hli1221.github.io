@@ -129,11 +129,6 @@ I have published several scientific papers (including five highly cited papers),
 	*arXiv 2022*  
 	[*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2) 
 
-+ ***Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking***  
-	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu, Xuefeng Zhu, Josef Kittler  
-	*arXiv 2022*  
-	[*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT) 
-
 + ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
 	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
 	*arXiv 2021*  
