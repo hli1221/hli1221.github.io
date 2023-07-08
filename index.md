@@ -90,9 +90,10 @@ I have published several scientific papers (including five highly cited papers),
 ## Conference papers (6)
 
 + ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
-	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song
+	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song  
 	*International Conference on Image and Graphics* (**ICIG 2023**).  
-	[*paper*], [*arxiv*], [*code*]
+	[*paper*], [*arxiv*](https://arxiv.org/abs/2305.17374
+), [*code*](https://github.com/draymondbiao/LE2Fusion)
 
 
 + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
