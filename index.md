@@ -87,7 +87,13 @@ I have published several scientific papers (including five highly cited papers),
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
 
-## Conference papers (5)
+## Conference papers (6)
+
++ ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
+	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song
+	*International Conference on Image and Graphics* (**ICIG 2023**).  
+	[*paper*], [*arxiv*], [*code*]
+
 
 + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
 	Guo-Yang Chen, Xiao-Jun Wu\* , **Hui Li**, Tian-Yang Xu  
