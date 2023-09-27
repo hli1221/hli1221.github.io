@@ -25,7 +25,7 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
-	Sensors, volume: 23, number: 18, 2023: 7870  
+	**Sensors**, volume: 23, number: 18, 2023: 7870  
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/draymondbiao/SFPFusion)
 
 + ***Exploring fusion strategies for accurate RGBT visual object tracking***  
@@ -92,13 +92,23 @@ I have published several scientific papers (including five highly cited papers),
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
 
-## Conference papers (6)
+## Conference papers (8)
 
 + ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
 	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song  
 	*International Conference on Image and Graphics* (**ICIG 2023**).  
-	[*paper*], [*arxiv*](https://arxiv.org/abs/2305.17374
-), [*code*](https://github.com/draymondbiao/LE2Fusion)
+	[*paper*], [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/draymondbiao/LE2Fusion)
+
+
++ ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
+	Xu Song, Tianyu Shen, **Hui Li**\*, Xiao-Jun Wu  
+	*International Conference on Machine Vision, Image Processing & Imaging Technology* (**MVIPIT 2023**), 24 September 2023, Hangzhou, Zhejiang, China.  
+	[*paper*], [*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2) 
+
++ ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
+	Xu Song, Yongbiao Xiao, **Hui Li**\*, Xiao-Jun Wu, Jun Sun, Valsile Palade  
+	*International Conference on Machine Vision, Image Processing & Imaging Technology* (**MVIPIT 2023**), 24 September 2023, Hangzhou, Zhejiang, China.  
+	[*paper*], [*arxiv*](https://arxiv.org/abs/2112.14540), [*code*](https://github.com/songxujay/Res2NetFuse) 
 
 
 + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
@@ -114,7 +124,7 @@ I have published several scientific papers (including five highly cited papers),
 
 
 + ***MSDNet for Medical Image Fusion***  
-	Xu Song, , Xiao-Jun Wu\* , **Hui Li**  
+	Xu Song, Xiao-Jun Wu\* , **Hui Li**  
 	*International Conference on Image and Graphics* (**ICIG 2019**), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24), [*preprint*](https://www.researchgate.net/publication/337574155_MSDNet_for_Medical_Image_Fusion), [*code*](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion) 
 
@@ -135,16 +145,6 @@ I have published several scientific papers (including five highly cited papers),
 
 ---
 # Preprint
-
-+ ***A Medical Image Fusion Method based on MDLatLRRv2***  
-	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
-	*arXiv 2022*  
-	[*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2) 
-
-+ ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
-	Xu Song, Xiao-Jun Wu\*, **Hui Li**  
-	*arXiv 2021*  
-	[*arxiv*](https://arxiv.org/abs/2112.14540), [*code*](https://github.com/songxujay/Res2NetFuse) 
 
 + ***Infrared and visible image fusion using Latent Low-Rank Representation***  
 	**Hui Li**, Xiao-Jun Wu\*  
