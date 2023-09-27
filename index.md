@@ -26,7 +26,7 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Publications
 
-## Journal papers (11)
+## Journal papers (12)
 
 + ***SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
