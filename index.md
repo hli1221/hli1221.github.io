@@ -163,7 +163,7 @@ I have published several scientific papers (including five highly cited papers),
 
 
 + ***The Tenth Visual Object Tracking VOT2022 Challenge Results***  
-    Zhangyong Tang, Xuefeng Zhu, Shaochuan Zhao, Tianyang Xu, Jiaye Chen, Ze Kang, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li  
+    Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li  
 	VOT-D 2022 subchallenge (**RSDiMP, 2nd place**)  
 	[*home page*](https://www.votchallenge.net/vot2022/), [*VOT report*](https://prints.vicos.si/publications/416)
 
