@@ -40,7 +40,7 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
-	*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023, Early Access  
+	*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), Volume: 45, Issue: 9, pp. 11040-11052, April 2023  
 	[*paper*](https://doi.org/10.1109/TPAMI.2023.3268209), [*arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)  
 
 + ***I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
@@ -68,13 +68,13 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation***  
 	Dongyu Rao, Xiao-Jun Wu\*, **Hui Li**, Josef Kittler, Tianyang Xu  
-	*Journal of Electronic Imaging* (**JEI**), Volume: 30, issue: 5, pp. 053013, September 2021.  
+	*Journal of Electronic Imaging* (**JEI**), Volume: 30, Issue: 5, pp. 053013, September 2021.  
 	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*](https://github.com/dongyuya/UMFA)
 
 
 + ***NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
-	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>)  
+	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
 
 
@@ -92,7 +92,7 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***DenseFuse: A Fusion Approach to Infrared and Visible Images***  
 	**Hui Li**, Xiao-Jun Wu\*  
-	*IEEE Transactions on Image Processing* (**TIP**), Volume: 28, issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>)  
+	*IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
 	<!-- <img src="https://raw.githubusercontent.com/hli1221/hli1221.github.io/master/images/densefuse.png" width="400"> -->
 
