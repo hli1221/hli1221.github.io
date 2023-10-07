@@ -26,7 +26,7 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Publications
 
-## Journal papers (12)
+## Journal papers (13)
 
 + ***DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
