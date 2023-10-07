@@ -35,7 +35,7 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
-	**Sensors**, volume: 23, number: 18, 2023: 7870  
+	**Sensors**, 2023, volume: 23, number: 18, 2023: 7870  
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)
 
 + ***Exploring fusion strategies for accurate RGBT visual object tracking***  
