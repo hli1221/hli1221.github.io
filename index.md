@@ -52,6 +52,7 @@ I have published several scientific papers (including five highly cited papers),
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
 	*IEEE Transactions on Multimedia* (**TMM**), 2022, Early Access.  
 	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*](https://github.com/hli1221/MOTion-Estimator-MOTE-)
+	
 
 + ***8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
 	Zhishe Wang\*, Yanlin Chen, Wenyu Shao, **Hui Li**, Lei Zhang  
@@ -68,7 +69,8 @@ I have published several scientific papers (including five highly cited papers),
 + ***6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)
+	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)  
+	<img src="./images/6-journal-rfnnest.png" width="400">
 
 
 + ***5. UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation***  
@@ -80,13 +82,15 @@ I have published several scientific papers (including five highly cited papers),
 + ***4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
 	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)
+	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)  
+	<img src="./images/4-journal-nestfuse.png" width="400">
 
 
 + ***3. MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
 	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
 	*IEEE Transactions on Image Processing* (**TIP**), Volume: 29, pp. 4733-4746, February, 2020. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)
+	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)  
+	<img src="./images/3-journal-mdlatlrr.png" width="400">
 
 
 + ***2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
