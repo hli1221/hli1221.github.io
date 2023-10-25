@@ -94,7 +94,7 @@ I have published several scientific papers (including five highly cited papers),
 	*Journal of Infrared Physics & Technology* (**JIPT**), Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
 
-
+|:--|:--|
 |<img src="./images/densefuse.png" width="200">| + ***DenseFuse: A Fusion Approach to Infrared and Visible Images*** <br>**Hui Li**, Xiao-Jun Wu\* <br>
 *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>) <br> [*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  |
 
