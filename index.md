@@ -32,7 +32,7 @@ I have published several scientific papers (including five highly cited papers),
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
 	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Accepted.  
 	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
-	<img src="./images/13-journal-depf.png" width="400">
+	<img src="./images/13-journal-depf.png" width="200">
 
 + ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
