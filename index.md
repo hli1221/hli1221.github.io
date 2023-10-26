@@ -46,7 +46,8 @@ I have published several scientific papers (including five highly cited papers),
 + ***10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
 	*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), Volume: 45, Issue: 9, pp. 11040-11052, April 2023  
-	[*paper*](https://doi.org/10.1109/TPAMI.2023.3268209), [*arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)  
+	[*paper*](https://doi.org/10.1109/TPAMI.2023.3268209), [*arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)
+	<img src="./images/10-journal-lrrnet.png" width="400">
 
 + ***9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
 	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
