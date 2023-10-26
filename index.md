@@ -31,14 +31,14 @@ I have published several scientific papers (including five highly cited papers),
 + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
 	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Accepted.  
-	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)
+	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
 	<img src="./images/13-journal-depf.png" width="400">
 
 + ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
 	**Sensors**, 2023, volume: 23, number: 18, 2023: 7870  
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)
-	<img src="./images/12-journal-sfpfusioin.png" width="400">
+	<img src="./images/12-journal-sfpfusion.png" width="400">
 
 + ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
