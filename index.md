@@ -30,7 +30,7 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
-	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Accepted.  
+	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Volume: 72, pp. 1-14.  
 	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
 	<img src="./images/13-journal-depf.png" width="200">
 
@@ -115,8 +115,8 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
 	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song  
-	*International Conference on Image and Graphics* (**ICIG 2023**).  
-	[*paper*], [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion)
+	*International Conference on Image and Graphics* (**ICIG 2023**), 29 October 2023, Lecture Notes in Computer Science, vol 14355. Springer, Cham.  
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24), [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion)
 
 
 + ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
