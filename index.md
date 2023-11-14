@@ -50,6 +50,7 @@ I have published several scientific papers (including five highly cited papers),
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
 	*Information Fusion* (**InfFus**), 2023: 101881  
 	[*paper*](https://doi.org/10.1016/j.inffus.2023.101881), [*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT)  
+	<img src="./images/11-journal-dfat.png" width="400">
 
 + ***10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
