@@ -32,7 +32,7 @@ I have published several scientific papers (including five highly cited papers),
 	**Hui Li**\*, Xiao-Jun Wu  
 	*Information Fusion* (**InfFus**), Accepted, 2023.  
 	[*paper*](), [*arxiv*](), [*code*]()  
-	<img src="./images/14-journal-crossfuse.png" width="200">
+	<img src="./images/14-journal-crossfuse.png" width="300">
 
 + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
