@@ -30,8 +30,8 @@ I have published several scientific papers (including five highly cited papers),
 
 + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
-	*Information Fusion* (**InfFus**), Accepted, 2023.  
-	[*paper*], [*arxiv*], [*code*]  
+	*Information Fusion* (**InfFus**), Available online, 15 November 2023, 102147.  
+	[*paper*](https://doi.org/10.1016/j.inffus.2023.102147), [*arxiv*], [*code*]  
 	<img src="./images/14-journal-crossfuse.png" width="400">
 
 + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
