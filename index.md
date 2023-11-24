@@ -176,7 +176,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>) </br>
+	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a harf="https://arxiv.org/abs/1804.08361">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
 </div> 
