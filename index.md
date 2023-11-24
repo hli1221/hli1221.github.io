@@ -121,7 +121,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   IEEE Transactions on Cybernetics (TCYB), Volume: 53, Issue: 2, February 2023.  <br/>
+	   *Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://www.sciencedirect.com/science/article/pii/S1566253521000440">paper</a>][<a harf="https://arxiv.org/abs/2103.04286">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a harf="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
    </div>
 </div> 
@@ -159,6 +159,27 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div> 
 
+
+<div class="publication media paperhi">
+   <img src="./images/2-journal-zca.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis</b><br>
+   <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
+	   Journal of Infrared Physics & Technology (JIPT), Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>) <br/>
+   [<a href="https://www.sciencedirect.com/science/article/pii/S1350449519301525">paper</a>][<a harf="https://arxiv.org/abs/1806.07119">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_resnet50">code</a>]
+   </div>
+</div> 
+
+
+<div class="publication media paperhi">
+   <img src="./images/1-journal-densefuse.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
+   <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
+	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>) </br>
+   [<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a harf="https://arxiv.org/abs/1804.08361">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_densefuse">code</a>]
+   </div>
+</div> 
 
 
 </div>
@@ -240,7 +261,7 @@ I have published several scientific papers (including five highly cited papers),
 	<img src="./images/3-journal-mdlatlrr.png" width="400"> -->
 
 
-+ ***2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
+<!-- + ***2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
 	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
 	*Journal of Infrared Physics & Technology* (**JIPT**), Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
@@ -250,7 +271,7 @@ I have published several scientific papers (including five highly cited papers),
 + ***1. DenseFuse: A Fusion Approach to Infrared and Visible Images*** <br>**Hui Li**, Xiao-Jun Wu\*  
 	*IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>)  
 	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
-	<img src="./images/1-journal-densefuse.png" width="400">
+	<img src="./images/1-journal-densefuse.png" width="400"> -->
 
   
 
