@@ -27,8 +27,7 @@ I have published several scientific papers (including five highly cited papers),
 # Publications
 
 ## Journal papers (14)
-<!-- <div class="content-p">
-<div id="container-p"> -->
+
 <div class="papers-container papers-selected">
 	<div class="publication media paperhi">
 	   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
@@ -36,23 +35,34 @@ I have published several scientific papers (including five highly cited papers),
 		   <b>CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
 	   <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
 		   Information Fusion (InfFus, JCR Q1), Volume: 103, March 2024, 102147. <br/>
-	   [<a href="https://doi.org/10.1016/j.inffus.2023.102147">paper</a>][<a href="https://github.com/wdhudiekou/IRFS">Code</a>]
+	   [<a href="https://doi.org/10.1016/j.inffus.2023.102147">paper</a>][arxiv][<a href="https://github.com/wdhudiekou/IRFS">Code</a>]
 	   </div>
 	</div>
 </div>
-<!-- </div>
-</div> -->
-+ ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
+
+<!-- + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
 	*Information Fusion* (**InfFus**), Volume: 103, March 2024, 102147.  
 	[*paper*](https://doi.org/10.1016/j.inffus.2023.102147), [*arxiv*], [*code*]  
-	<img src="./images/14-journal-crossfuse.png" width="400">
+	<img src="./images/14-journal-crossfuse.png" width="400"> -->
 
-+ ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
+<div class="papers-container papers-selected">
+	<div class="publication media paperhi">
+	   <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
+	   <div class="media-body">
+		   <b>DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
+	   <strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
+		   IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), 2023, Volume: 72, pp. 1-14. <br/>
+	   [<a href="https://ieeexplore.ieee.org/document/10288477">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv][<a href="https://github.com/draymondbiao/DePF">Code</a>]
+	   </div>
+	</div>
+</div>
+
+<!-- + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
 	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Volume: 72, pp. 1-14.  
 	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
-	<img src="./images/13-journal-depf.png" width="200">
+	<img src="./images/13-journal-depf.png" width="200"> -->
 
 + ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
