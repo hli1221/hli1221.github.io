@@ -35,7 +35,7 @@ I have published several scientific papers (including five highly cited papers),
 	   <div class="media-body">
 		   <b>CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
 	   <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
-		   Information Fusion (IF, JCR Q1) <br/>
+		   Information Fusion (InfFus, JCR Q1), Volume: 103, March 2024, 102147. <br/>
 	   [<a href="https://doi.org/10.1016/j.inffus.2023.102147">paper</a>][<a href="https://github.com/wdhudiekou/IRFS">Code</a>]
 	   </div>
 	</div>
