@@ -121,7 +121,8 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   *Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. (<font color=red>Highly Cited Paper</font>) <br/>
+	   *Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. <br/>
+	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://www.sciencedirect.com/science/article/pii/S1566253521000440">paper</a>][<a harf="https://arxiv.org/abs/2103.04286">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a harf="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
    </div>
 </div> 
@@ -143,7 +144,8 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
-	   IEEE Transactions on Instrumentation and Measurement (TIM), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>) <br/>
+	   IEEE Transactions on Instrumentation and Measurement (TIM), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. <br/>
+	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/9127964">paper</a>][<a harf="https://arxiv.org/abs/2007.00328">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-nestfuse">code</a>]
    </div>
 </div> 
@@ -154,7 +156,8 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>3. MDLatLRR: A novel decomposition method for infrared and visible image fusion</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   IEEE Transactions on Image Processing (TIP), Volume: 29, pp. 4733-4746, February, 2020. (<font color=red>Highly Cited Paper</font>) <br/>
+	   IEEE Transactions on Image Processing (TIP), Volume: 29, pp. 4733-4746, February, 2020. <br/>
+	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/9018389">paper</a>][<a harf="https://arxiv.org/abs/1811.02291">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_mdlatlrr">code</a>]
    </div>
 </div> 
@@ -165,7 +168,8 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
-	   Journal of Infrared Physics & Technology (JIPT), Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>) <br/>
+	   Journal of Infrared Physics & Technology (JIPT), Volume 102, November 2019, 103039. <br/>
+	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://www.sciencedirect.com/science/article/pii/S1350449519301525">paper</a>][<a harf="https://arxiv.org/abs/1806.07119">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_resnet50">code</a>]
    </div>
 </div> 
@@ -176,7 +180,8 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>) <br/>
+	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
+	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a harf="https://arxiv.org/abs/1804.08361">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
 </div> 
