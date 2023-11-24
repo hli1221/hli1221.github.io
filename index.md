@@ -29,7 +29,7 @@ I have published several scientific papers (including five highly cited papers),
 ## Journal papers (14)
 
 <div class="papers-container papers-selected">
-	
+
 <div class="publication media paperhi">
    <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
@@ -56,6 +56,16 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div>
 
+<div class="publication media paperhi">
+   <img src="./images/12-journal-sfpfusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion</b><br>
+   <strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song <br/>
+	   Sensors, 2023, volume: 23, number: 18, 2023: 7870 <br/>
+   [<a href="https://www.mdpi.com/1424-8220/23/18/7870#">paper</a>][arxiv][<a href="https://github.com/hli1221/SFPFusion">Code</a>]
+   </div>
+</div>
+
 </div>
 
 <!-- + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
@@ -64,11 +74,11 @@ I have published several scientific papers (including five highly cited papers),
 	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
 	<img src="./images/13-journal-depf.png" width="200"> -->
 
-+ ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
+<!-- + ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
 	**Sensors**, 2023, volume: 23, number: 18, 2023: 7870  
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)  
-	<img src="./images/12-journal-sfpfusion.png" width="400">
+	<img src="./images/12-journal-sfpfusion.png" width="400"> -->
 
 + ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
