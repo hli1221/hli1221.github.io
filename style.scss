@@ -283,6 +283,22 @@ footer {
   text-align: center;
 }
 
+    .media {
+  outline: thin dotted #666666;
+  margin-bottom: 15px;  
+  margin-left:10px;
+    }
+    .media-body {
+  margin-top:5px;
+  padding-left:20px;
+    }
+    
+.papers-selected h5, .papers-selected h4 { display : none; }
+.papers-selected .publication { display : none; }
+.paperhi-only { display : none; }
+.papers-selected .paperhi { display : flex; }
+.papers-selected .paperlo { display : none; }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
