@@ -283,6 +283,23 @@ footer {
   text-align: center;
 }
 
+.content-p
+{
+  width : 100%;
+  padding : 25px 30px;
+  margin : 25px auto;
+  background-color : #fff;
+}
+
+div#container-p
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: left;
+  position: relative;
+  background-color: #FFF;
+}
 
 .media {
 margin-bottom: 15px;  
@@ -293,6 +310,16 @@ margin-top:5px;
 padding-left:20px;
 }
 
+.papericon {
+border-radius: 8px; 
+-moz-box-shadow: 3px 3px 6px #888;
+-webkit-box-shadow: 3px 3px 6px #888;
+box-shadow: 3px 3px 6px #888;
+width: 180px;
+margin-top:5px;
+margin-left:5px;
+margin-bottom:5px;
+}
 
 .papers-selected h5, .papers-selected h4 { display : none; }
 .papers-selected .publication { display : none; }
