@@ -35,7 +35,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
    <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
-	   Information Fusion (InfFus, JCR Q1), Volume: 103, March 2024, 102147. <br/>
+	   <b>Information Fusion (InfFus)</b>, Volume: 103, March 2024, 102147. <br/>
    [<a href="https://doi.org/10.1016/j.inffus.2023.102147">paper</a>][arxiv][code]
    </div>
 </div>  
@@ -45,7 +45,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
    <strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
-	   IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), 2023, Volume: 72, pp. 1-14. <br/>
+	   IEEE Transactions on Instrumentation and Measurement (TIM), 2023, Volume: 72, pp. 1-14. <br/>
    [<a href="https://ieeexplore.ieee.org/document/10288477">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv</a>][<a href="https://github.com/draymondbiao/DePF">code</a>]
    </div>
 </div>  
@@ -65,7 +65,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>11. Exploring fusion strategies for accurate RGBT visual object tracking</b><br>
    Zhangyong Tang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Xue-Feng Zhu, Josef Kittler <br/>
-	   Information Fusion (InfFus, JCR Q1), Volume: 99, November 2023, 101881. <br/>
+	   Information Fusion (InfFus), Volume: 99, November 2023, 101881. <br/>
    [<a href="https://doi.org/10.1016/j.inffus.2023.101881">paper</a>][<a href="https://arxiv.org/abs/2201.08673">arxiv</a>][<a href="https://github.com/Zhangyong-Tang/DFAT">code</a>]
    </div>
 </div>  
@@ -75,7 +75,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
-	   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, JCR Q1), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
+	   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
    [<a href="https://doi.org/10.1109/TPAMI.2023.3268209">paper</a>][<a href="https://arxiv.org/abs/2304.05172">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-LRRNet">code</a>]
    </div>
 </div>  
@@ -86,7 +86,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition</b><br>
    Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Cong Wu <br/>
-	   IEEE Transactions on Multimedia (TMM, JCR Q1), 2022, Early Access.  <br/>
+	   IEEE Transactions on Multimedia (TMM), 2022, Early Access.  <br/>
    [<a href="https://ieeexplore.ieee.org/abstract/document/9907887">paper</a>][<a href="https://github.com/hli1221/MOTion-Estimator-MOTE-">code</a>]
    </div>
 </div>  
@@ -97,7 +97,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images</b><br>
    Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li</b></strong>, Lei Zhang <br/>
-	   IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), 2022, vol: 71.  <br/>
+	   IEEE Transactions on Instrumentation and Measurement (TIM), 2022, vol: 71.  <br/>
    [<a href="https://ieeexplore.ieee.org/document/9832006">paper</a>][<a href="https://github.com/Zhishe-Wang/SwinFuse">code</a>]
    </div>
 </div> 
@@ -108,7 +108,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>7. Generalized n-Dimensional Rigid Registration: Theory and Applications</b><br>
    Jin Wu, Miaomiao Wang, Hassen Fourati, <strong><b>Hui Li</b></strong>, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu* <br/>
-	   IEEE Transactions on Cybernetics* (TCYB, JCR Q1), Volume: 53, Issue: 2, February 2023.  <br/>
+	   IEEE Transactions on Cybernetics* (TCYB), Volume: 53, Issue: 2, February 2023.  <br/>
    [<a href="https://ieeexplore.ieee.org/abstract/document/9768182">paper</a>][<a harf="https://github.com/zarathustr/GLnR">code</a>][<a harf="https://youtu.be/BwfjQ9ZAyl4">video</a>]
    </div>
 </div> 
@@ -119,7 +119,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   Information Fusion (InfFus, JCR Q1), Volume: 73, Pages: 72-86, September 2021. <br/>
+	   Information Fusion (InfFus), Volume: 73, Pages: 72-86, September 2021. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://www.sciencedirect.com/science/article/pii/S1566253521000440">paper</a>][<a harf="https://arxiv.org/abs/2103.04286">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a harf="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
    </div>
@@ -142,7 +142,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
-	   IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. <br/>
+	   IEEE Transactions on Instrumentation and Measurement (TIM), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/9127964">paper</a>][<a harf="https://arxiv.org/abs/2007.00328">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-nestfuse">code</a>]
    </div>
@@ -154,7 +154,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>3. MDLatLRR: A novel decomposition method for infrared and visible image fusion</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   IEEE Transactions on Image Processing (TIP, JCR Q1), Volume: 29, pp. 4733-4746, February, 2020. <br/>
+	   IEEE Transactions on Image Processing (TIP), Volume: 29, pp. 4733-4746, February, 2020. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/9018389">paper</a>][<a harf="https://arxiv.org/abs/1811.02291">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_mdlatlrr">code</a>]
    </div>
@@ -178,7 +178,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   IEEE Transactions on Image Processing (TIP, JCR Q1), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
+	   IEEE Transactions on Image Processing (TIP), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a harf="https://arxiv.org/abs/1804.08361">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
