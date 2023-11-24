@@ -27,8 +27,8 @@ I have published several scientific papers (including five highly cited papers),
 # Publications
 
 ## Journal papers (14)
-<div class="content">
-<div id="container">
+<div class="content-p">
+<div id="container-p">
 <div class="papers-container papers-selected">
 	<div class="publication media paperhi">
 	   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
