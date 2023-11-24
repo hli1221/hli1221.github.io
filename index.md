@@ -28,8 +28,6 @@ I have published several scientific papers (including five highly cited papers),
 
 ## Journal papers (14)
 
-<!-- <div class="content-p">
-<div id="container-p"> -->
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
@@ -76,7 +74,7 @@ I have published several scientific papers (including five highly cited papers),
    <img src="./images/10-journal-lrrnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
-   <strong><b>Hui Li*</b></strong>, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler <br/>
+   <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
 	   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, JCR Q1), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
    [<a href="https://doi.org/10.1109/TPAMI.2023.3268209">paper</a>][<a href="https://arxiv.org/abs/2304.05172">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-LRRNet">Code</a>]
    </div>
@@ -87,7 +85,7 @@ I have published several scientific papers (including five highly cited papers),
    <img src="./images/9-journal-mote.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition</b><br>
-   Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li*</b></strong>, Tianyang Xu, Cong Wu <br/>
+   Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Cong Wu <br/>
 	   IEEE Transactions on Multimedia (TMM), 2022, Early Access.  <br/>
    [<a href="https://ieeexplore.ieee.org/abstract/document/9907887">paper</a>][<a href="https://github.com/hli1221/MOTion-Estimator-MOTE-">Code</a>]
    </div>
@@ -98,7 +96,7 @@ I have published several scientific papers (including five highly cited papers),
    <img src="./images/8-journal-swinfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images</b><br>
-   Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li*</b></strong>, Lei Zhang <br/>
+   Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li</b></strong>, Lei Zhang <br/>
 	   IEEE Transactions on Instrumentation and Measurement (TIM), 2022, vol: 71.  <br/>
    [<a href="https://ieeexplore.ieee.org/document/9832006">paper</a>][<a href="https://github.com/Zhishe-Wang/SwinFuse">Code</a>]
    </div>
@@ -109,7 +107,7 @@ I have published several scientific papers (including five highly cited papers),
    <img src="./images/7-journal-glnr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>7. Generalized n-Dimensional Rigid Registration: Theory and Applications</b><br>
-   Jin Wu, Miaomiao Wang, Hassen Fourati, <strong><b>Hui Li*</b></strong>, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu* <br/>
+   Jin Wu, Miaomiao Wang, Hassen Fourati, <strong><b>Hui Li</b></strong>, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu* <br/>
 	   IEEE Transactions on Cybernetics* (**TCYB**), Volume: 53, Issue: 2, February 2023.  <br/>
    [<a href="https://ieeexplore.ieee.org/abstract/document/9768182">paper</a>][<a harf="https://github.com/zarathustr/GLnR">Code</a>][<a harf="https://youtu.be/BwfjQ9ZAyl4">video</a>]
    </div>
@@ -188,8 +186,6 @@ I have published several scientific papers (including five highly cited papers),
 
 
 </div>
-<!-- </div>
-</div>  --> 
 
 <!-- + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
