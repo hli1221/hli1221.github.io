@@ -66,7 +66,7 @@ I have published several scientific papers (including five highly cited papers),
 <!-- </div>
 </div>  --> 
 
-+ ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
+<!-- + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
 	*Information Fusion* (**InfFus**), Volume: 103, March 2024, 102147.  
 	[*paper*](https://doi.org/10.1016/j.inffus.2023.102147), [*arxiv*], [*code*]  
@@ -82,7 +82,7 @@ I have published several scientific papers (including five highly cited papers),
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
 	**Sensors**, 2023, volume: 23, number: 18, 2023: 7870  
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)  
-	<img src="./images/12-journal-sfpfusion.png" width="400">
+	<img src="./images/12-journal-sfpfusion.png" width="400"> -->
 
 + ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
