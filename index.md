@@ -28,7 +28,7 @@ I have published several scientific papers (including five highly cited papers),
 
 ## Journal papers (14)
 
-<div class="papers-container papers-selected">
+<!-- <div class="papers-container papers-selected"> -->
 
 <div class="publication media paperhi">
    <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
@@ -66,7 +66,7 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div>
 
-</div>
+<!-- </div> -->
 
 <!-- + ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
 	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
