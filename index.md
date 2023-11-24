@@ -119,7 +119,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   *Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. <br/>
+	   Information Fusion* (InfFus), Volume: 73, Pages: 72-86, September 2021. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://www.sciencedirect.com/science/article/pii/S1566253521000440">paper</a>][<a harf="https://arxiv.org/abs/2103.04286">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a harf="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
    </div>
@@ -131,7 +131,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>5. UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation</b><br>
    Dongyu Rao, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Josef Kittler, Tianyang Xu <br/>
-	   *Journal of Electronic Imaging (JEI), Volume: 30, Issue: 5, pp. 053013, September 2021. <br/>
+	   Journal of Electronic Imaging (JEI), Volume: 30, Issue: 5, pp. 053013, September 2021. <br/>
    [<a href="https://doi.org/10.1117/1.JEI.30.5.053013">paper</a>][<a harf="https://arxiv.org/abs/2108.06113">arxiv</a>][<a harf="https://github.com/dongyuya/UMFA">code</a>]
    </div>
 </div> 
@@ -178,7 +178,7 @@ I have published several scientific papers (including five highly cited papers),
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    <strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   *IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
+	   IEEE Transactions on Image Processing (TIP), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    [<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a harf="https://arxiv.org/abs/1804.08361">arxiv</a>][<a harf="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
@@ -186,95 +186,6 @@ I have published several scientific papers (including five highly cited papers),
 
 
 </div>
-
-<!-- + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
-	**Hui Li**\*, Xiao-Jun Wu  
-	*Information Fusion* (**InfFus**), Volume: 103, March 2024, 102147.  
-	[*paper*](https://doi.org/10.1016/j.inffus.2023.102147), [*arxiv*], [*code*]  
-	<img src="./images/14-journal-crossfuse.png" width="400">
-
-+ ***13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images***  
-	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song  
-	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2023, Volume: 72, pp. 1-14.  
-	[*paper*](https://ieeexplore.ieee.org/document/10288477), [*arxiv*](https://arxiv.org/abs/2305.17376), [*code*](https://github.com/draymondbiao/DePF)  
-	<img src="./images/13-journal-depf.png" width="200">
-
-+ ***12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion***  
-	**Hui Li**\*, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song  
-	**Sensors**, 2023, volume: 23, number: 18, 2023: 7870  
-	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)  
-	<img src="./images/12-journal-sfpfusion.png" width="400"> -->
-
-<!-- + ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
-	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
-	*Information Fusion* (**InfFus**), Volume: 99, 2023: 101881  
-	[*paper*](https://doi.org/10.1016/j.inffus.2023.101881), [*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT)  
-	<img src="./images/11-journal-dfat.jpg" width="400"> -->
-
-<!-- + ***10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
-	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
-	*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), Volume: 45, Issue: 9, pp. 11040-11052, April 2023  
-	[*paper*](https://doi.org/10.1109/TPAMI.2023.3268209), [*arxiv*](https://arxiv.org/abs/2304.05172), [*code*](https://github.com/hli1221/imagefusion-LRRNet)  
-	<img src="./images/10-journal-lrrnet.png" width="400"> -->
-
-<!-- + ***9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition***  
-	Zhongwei Shen, Xiao-Jun Wu\*, **Hui Li**, Tianyang Xu, Cong Wu  
-	*IEEE Transactions on Multimedia* (**TMM**), 2022, Early Access.  
-	[*paper*](https://ieeexplore.ieee.org/abstract/document/9907887), [*code*](https://github.com/hli1221/MOTion-Estimator-MOTE-) -->
-	
-
-<!-- + ***8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images***  
-	Zhishe Wang\*, Yanlin Chen, Wenyu Shao, **Hui Li**, Lei Zhang  
-	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), 2022, vol: 71.  
-	[*paper*](https://ieeexplore.ieee.org/document/9832006), [*code*](https://github.com/Zhishe-Wang/SwinFuse) -->
-
-
-<!-- + ***7. Generalized n-Dimensional Rigid Registration: Theory and Applications***  
-	Jin Wu, Miaomiao Wang, Hassen Fourati, **Hui Li**, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu\*  
-	*IEEE Transactions on Cybernetics* (**TCYB**), 2022, Early Acces.  
-	[*paper*](https://ieeexplore.ieee.org/abstract/document/9768182), [*code*](https://github.com/zarathustr/GLnR), [*video*](https://youtu.be/BwfjQ9ZAyl4) -->
-
-
-<!-- + ***6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images***  
-	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*Information Fusion* (**InfFus**), Volume: 73, Pages: 72-86, September 2021. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://www.sciencedirect.com/science/article/pii/S1566253521000440), [*arxiv*](https://arxiv.org/abs/2103.04286), [*code*](https://github.com/hli1221/imagefusion-rfn-nest), [*Supplementary Material*](https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf)  
-	<img src="./images/6-journal-rfnnest.png" width="400"> -->
-
-
-<!-- + ***5. UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation***  
-	Dongyu Rao, Xiao-Jun Wu\*, **Hui Li**, Josef Kittler, Tianyang Xu  
-	*Journal of Electronic Imaging* (**JEI**), Volume: 30, Issue: 5, pp. 053013, September 2021.  
-	[*paper*](https://doi.org/10.1117/1.JEI.30.5.053013), [*arxiv*](https://arxiv.org/abs/2108.06113), [*code*](https://github.com/dongyuya/UMFA)
-
-
-+ ***4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models***  
-	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
-	*IEEE Transactions on Instrumentation and Measurement* (**TIM**), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://ieeexplore.ieee.org/document/9127964), [*arxiv*](https://arxiv.org/abs/2007.00328), [*code*](https://github.com/hli1221/imagefusion-nestfuse)  
-	<img src="./images/4-journal-nestfuse.png" width="400">
-
-
-+ ***3. MDLatLRR: A novel decomposition method for infrared and visible image fusion***  
-	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*IEEE Transactions on Image Processing* (**TIP**), Volume: 29, pp. 4733-4746, February, 2020. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://ieeexplore.ieee.org/document/9018389), [*arxiv*](https://arxiv.org/abs/1811.02291), [*code*](https://github.com/hli1221/imagefusion_mdlatlrr)  
-	<img src="./images/3-journal-mdlatlrr.png" width="400"> -->
-
-
-<!-- + ***2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis***  
-	**Hui Li**, Xiao-Jun Wu\* , Tariq S. Durrani  
-	*Journal of Infrared Physics & Technology* (**JIPT**), Volume 102, November 2019, 103039. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://www.sciencedirect.com/science/article/pii/S1350449519301525), [*arxiv*](https://arxiv.org/abs/1806.07119), [*code*](https://github.com/hli1221/imagefusion_resnet50)  
-	<img src="./images/2-journal-zca.png" width="400">
-
-
-+ ***1. DenseFuse: A Fusion Approach to Infrared and Visible Images*** <br>**Hui Li**, Xiao-Jun Wu\*  
-	*IEEE Transactions on Image Processing* (**TIP**), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. (<font color=red>Highly Cited Paper</font>)  
-	[*paper*](https://ieeexplore.ieee.org/document/8580578), [*arxiv*](https://arxiv.org/abs/1804.08361), [*code*](https://github.com/hli1221/imagefusion_densefuse)  
-	<img src="./images/1-journal-densefuse.png" width="400"> -->
-
-  
 
 
 ## Conference papers (8)
