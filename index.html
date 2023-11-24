@@ -1,6 +1,32 @@
 ---
 layout: default
 ---
+<script>
+$(document).ready(function() {
+  $('.paperlo button').click(function() {
+     $('.papers-container').addClass('papers-selected');
+  });
+  $('.paperhi button').click(function() {
+     $('.papers-container').removeClass('papers-selected');
+  });
+
+
+  $('.text_container').addClass("hidden");
+
+  $('.text_container').click(function() {
+    var $this = $(this);
+
+    if ($this.hasClass("hidden")) {
+      $(this).removeClass("hidden").addClass("visible");
+      $(this).removeClass("papericon");
+    } else {
+      $(this).removeClass("visible").addClass("hidden");
+    }
+  });
+
+
+});
+</script>
 
 <div class="page">
     <article class="page">
