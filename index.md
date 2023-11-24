@@ -27,7 +27,8 @@ I have published several scientific papers (including five highly cited papers),
 # Publications
 
 ## Journal papers (14)
-
+<div class="content">
+<div id="container">
 <div class="papers-container papers-selected">
 	<div class="publication media paperhi">
 	   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
@@ -38,6 +39,8 @@ I have published several scientific papers (including five highly cited papers),
 	   [<a href="https://doi.org/10.1016/j.inffus.2023.102147">paper</a>][<a href="https://github.com/wdhudiekou/IRFS">Code</a>]
 	   </div>
 	</div>
+</div>
+</div>
 </div>
 + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
