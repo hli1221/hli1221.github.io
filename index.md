@@ -31,7 +31,7 @@ I have published several scientific papers (including five highly cited papers),
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
+   <img src="./images/14-journal-crossfuse.png" width="220" class="papericon">
    <div class="media-body">
 	   <b>CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
    <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
@@ -47,7 +47,7 @@ I have published several scientific papers (including five highly cited papers),
 	<img src="./images/14-journal-crossfuse.png" width="400"> -->
 
 <div class="publication media paperhi">
-   <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
+   <img src="./images/13-journal-depf.png" width="220" class="papericon">
    <div class="media-body">
 	   <b>DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
    <strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
@@ -57,7 +57,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/12-journal-sfpfusion.png" height="120" width="200" class="papericon">
+   <img src="./images/12-journal-sfpfusion.png" width="220" class="papericon">
    <div class="media-body">
 	   <b>SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion</b><br>
    <strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song <br/>
