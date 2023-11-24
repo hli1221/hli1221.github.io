@@ -62,6 +62,17 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div>  
 
+<div class="publication media paperhi">
+   <img src="./images/11-journal-dfat.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>Exploring fusion strategies for accurate RGBT visual object tracking</b><br>
+   Zhangyong Tang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Xue-Feng Zhu, Josef Kittler <br/>
+	   Sensors, 2023, volume: 23, number: 18, 2023: 7870 <br/>
+   [<a href="https://doi.org/10.1016/j.inffus.2023.101881">paper</a>][<a href="https://arxiv.org/abs/2201.08673">arxiv</a>][<a href="https://github.com/Zhangyong-Tang/DFAT">Code</a>]
+   </div>
+</div>  
+
+
 </div>
 <!-- </div>
 </div>  --> 
@@ -84,11 +95,11 @@ I have published several scientific papers (including five highly cited papers),
 	[*paper*](https://www.mdpi.com/1424-8220/23/18/7870#), [*arxiv*], [*code*](https://github.com/hli1221/SFPFusion)  
 	<img src="./images/12-journal-sfpfusion.png" width="400"> -->
 
-+ ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
+<!-- + ***11. Exploring fusion strategies for accurate RGBT visual object tracking***  
 	Zhangyong Tang, Tianyang Xu, **Hui Li**, Xiao-Jun Wu\*, Xue-Feng Zhu, Josef Kittler  
 	*Information Fusion* (**InfFus**), Volume: 99, 2023: 101881  
 	[*paper*](https://doi.org/10.1016/j.inffus.2023.101881), [*arxiv*](https://arxiv.org/abs/2201.08673), [*code*](https://github.com/Zhangyong-Tang/DFAT)  
-	<img src="./images/11-journal-dfat.jpg" width="400">
+	<img src="./images/11-journal-dfat.jpg" width="400"> -->
 
 + ***10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images***  
 	**Hui Li**, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler  
