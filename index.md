@@ -73,7 +73,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/11-journal-dfat.jpg" height="120" width="200" class="papericon">
+   <img src="./images/10-journal-lrrnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    <strong><b>Hui Li*</b></strong>, Tianyang Xu, Xiao-Jun Wu\*, Jiwen Lu, Josef Kittler <br/>
