@@ -27,8 +27,8 @@ I have published several scientific papers (including five highly cited papers),
 # Publications
 
 ## Journal papers (14)
-<!-- <div class="content-p">
-<div id="container-p"> -->
+<div class="content-p">
+<div id="container-p">
 <div class="papers-container papers-selected">
 	<div class="publication media paperhi">
 	   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
@@ -40,8 +40,8 @@ I have published several scientific papers (including five highly cited papers),
 	   </div>
 	</div>
 </div>
-<!-- </div>
-</div> -->
+</div>
+</div>
 + ***14. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach***  
 	**Hui Li**\*, Xiao-Jun Wu  
 	*Information Fusion* (**InfFus**), Volume: 103, March 2024, 102147.  
