@@ -42,7 +42,7 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div>  
 
-<!-- <div class="publication media paperhi">
+<div class="publication media paperhi">
    <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
@@ -60,7 +60,7 @@ I have published several scientific papers (including five highly cited papers),
 	   Sensors, 2023, volume: 23, number: 18, 2023: 7870 <br/>
    [<a href="https://www.mdpi.com/1424-8220/23/18/7870#">paper</a>][arxiv][<a href="https://github.com/hli1221/SFPFusion">Code</a>]
    </div>
-</div>   -->
+</div>  
 
 </div>
 <!-- </div>
