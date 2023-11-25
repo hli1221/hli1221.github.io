@@ -190,10 +190,25 @@ I have published several scientific papers (including five highly cited papers),
 
 ## Conference papers (8)
 
-+ ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
+<div class="papers-container papers-selected">
+
+<div class="publication media paperhi">
+   <img src="./images/8-conf-le2fusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>8. LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion</b><br>
+   Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Xiaoning Song <br/>
+	   International Conference on Image and Graphics (<b>ICIG 2023</b>), 29 October 2023, Lecture Notes in Computer Science, vol 14355. Springer, Cham. <br/>
+   [<a href="https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24">paper</a>][<a harf="https://arxiv.org/abs/2305.17374">arxiv</a>][<a href="https://github.com/hli1221/LE2Fusion">code</a>]
+   </div>
+</div>  
+
+</div>
+
+
+<!-- + ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
 	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song  
 	*International Conference on Image and Graphics* (**ICIG 2023**), 29 October 2023, Lecture Notes in Computer Science, vol 14355. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24), [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion)
+	[*paper*](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24), [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion) -->
 
 
 + ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
