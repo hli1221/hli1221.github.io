@@ -308,32 +308,87 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Contest
 
+<div class="papers-container papers-selected">
 
-+ ***The Tenth Visual Object Tracking VOT2022 Challenge Results***  
+<div class="publication media paperhi">
+   <img src="./images/contest-vot2022.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>The Tenth Visual Object Tracking VOT2022 Challenge Results</b><br>
+   	Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, <strong><b>Hui Li</b></strong>, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li <br/>
+	   VOT-D 2022 subchallenge (<b>RSDiMP, 2nd place</b>)  <br/>
+   	[<a href="https://www.votchallenge.net/vot2022/">home page</a>][<a href="https://prints.vicos.si/publications/416">VOT report</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
+   <img src="./images/contest-vot2021.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>The Ninth Visual Object Tracking VOT2021 Challenge Results</b><br>
+   	Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler <br/>
+	   VOT2021 RGBD subchallenge (<b>TALGD, 2nd place</b>) <br/>
+   	[<a href="https://www.votchallenge.net/vot2021/">home page</a>][<a href="https://prints.vicos.si/publications/400">VOT report</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/contest-antiuav2021.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>Detection and tracking of UAV in the wild ICCV Workshop 2021</b><br>
+   	Xuefeng Zhu, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu, Josef Kittler <br/>
+	  	The Second Anti-UAV Workshop & Challenge 2021 (<font color=red>3rd place award</font>)  <br/>
+   	[<a href="https://anti-uav.github.io/leaderboard2/">home page</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/contest-vot2020.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>The Eighth Visual Object Tracking VOT2020 Challenge Results</b><br>
+   	<strong><b>Hui Li</b></strong>, Wu Xiao-Jun, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li <br/>
+	  	VOT2020 RGB thermal and infrared subchallenge (<b>DFAT</b>, <font color=red>The winning tracker award</font>) <br/>
+   	[<a href="https://www.votchallenge.net/vot2020/">home page</a>][<a href="http://prints.vicos.si/publications/384">VOT report</a>][<a href="https://github.com/Zhangyong-Tang/DFAT">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/contest-vot2019.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>The Seventh Visual Object Tracking VOT2019 Challenge Results</b><br>
+   	<strong><b>Hui Li</b></strong>, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler <br/>
+	  	VOT2019 RGB thermal and infrared subchallenge (<b>FSRPN, 4th in public dataset</b>)  <br/>
+   	[<a href="http://www.votchallenge.net/vot2019/index.html">home page</a>][<a href="http://prints.vicos.si/publications/375">VOT report</a>][<a href="https://github.com/hli1221/rgbt-tracking-fsrpn">code</a>]
+   </div>
+</div>
+
+
+</div>
+
+
+<!-- + ***The Tenth Visual Object Tracking VOT2022 Challenge Results***  
     Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li  
 	VOT-D 2022 subchallenge (**RSDiMP, 2nd place**)  
 	[*home page*](https://www.votchallenge.net/vot2022/), [*VOT report*](https://prints.vicos.si/publications/416)
-
-+ ***The Ninth Visual Object Tracking VOT2021 Challenge Results***  
+ -->
+<!-- + ***The Ninth Visual Object Tracking VOT2021 Challenge Results***  
     Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler  
 	VOT2021 RGBD subchallenge (**TALGD, 2nd place**)  
-	[*home page*](https://www.votchallenge.net/vot2021/), [*VOT report*](https://prints.vicos.si/publications/400)
+	[*home page*](https://www.votchallenge.net/vot2021/), [*VOT report*](https://prints.vicos.si/publications/400) -->
 
-+ ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
+<!-- + ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
     Xuefeng Zhu, Zhangyong Tang, **Hui Li**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler  
 	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
-	[*home page*](https://anti-uav.github.io/leaderboard2/)
+	[*home page*](https://anti-uav.github.io/leaderboard2/) -->
 
-+ ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
+<!-- + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
     **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
 	VOT2020 RGB thermal and infrared subchallenge (**DFAT**, <font color=red>The winning tracker award</font>)  
-	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://github.com/Zhangyong-Tang/DFAT)
+	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://github.com/Zhangyong-Tang/DFAT) -->
 	
 	
-+ ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
+<!-- + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
     **Hui Li**, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler  
 	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
-	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn)
+	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn) -->
 
 
 	
