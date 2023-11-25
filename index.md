@@ -224,7 +224,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/5-conf-mscfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>5. MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image</b><br>
    	Guo-Yang Chen, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Tian-Yang Xu <br/>
@@ -234,7 +234,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/4-conf-subspace.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>4. Subspace Clustering via Joint Unsupervised Feature Selection</b><br>
    	Wenhua Dong, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Zhen-Hua Feng, Josef Kittler <br/>
@@ -244,7 +244,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/3-conf-msdnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>3. MSDNet for Medical Image Fusion</b><br>
    	Xu Song, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong> <br/>
@@ -254,7 +254,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/2-conf-vggml.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>2. Infrared and Visible Image Fusion using a Deep Learning Framework</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
@@ -264,7 +264,7 @@ I have published several scientific papers (including five highly cited papers),
 </div> 
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/1-conf-dllrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>1. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
