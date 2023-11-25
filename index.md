@@ -331,7 +331,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-antiuav2021.png" height="120" width="60" class="papericon-contest">
+   <img src="./images/contest-antiuav2021.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>Detection and tracking of UAV in the wild ICCV Workshop 2021</b><br>
    	Xuefeng Zhu, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu, Josef Kittler <br/>
@@ -341,7 +341,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2020.png" height="120" width="60" class="papericon-contest">
+   <img src="./images/contest-vot2020.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Eighth Visual Object Tracking VOT2020 Challenge Results</b><br>
    	<strong><b>Hui Li</b></strong>, Wu Xiao-Jun, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li <br/>
@@ -351,7 +351,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2019.png" height="120" width="60" class="papericon-contest">
+   <img src="./images/contest-vot2019.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Seventh Visual Object Tracking VOT2019 Challenge Results</b><br>
    	<strong><b>Hui Li</b></strong>, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler <br/>
