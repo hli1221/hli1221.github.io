@@ -276,68 +276,33 @@ I have published several scientific papers (including five highly cited papers),
 
 </div>
 
-
-<!-- + ***LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion***  
-	Yongbiao Xiao, **Hui Li**\*, Chunyang Cheng, Xiaoning Song  
-	*International Conference on Image and Graphics* (**ICIG 2023**), 29 October 2023, Lecture Notes in Computer Science, vol 14355. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24), [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion) -->
-
-
-<!-- + ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
-	Xu Song, Tianyu Shen, **Hui Li**\*, Xiao-Jun Wu  
-	*International Conference on Machine Vision, Image Processing & Imaging Technology* (**MVIPIT 2023**), 24 September 2023, Hangzhou, Zhejiang, China.  
-	[*paper*], [*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2)  -->
-
-<!-- + ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
-	Xu Song, Yongbiao Xiao, **Hui Li**\*, Xiao-Jun Wu, Jun Sun, Valsile Palade  
-	*International Conference on Machine Vision, Image Processing & Imaging Technology* (**MVIPIT 2023**), 24 September 2023, Hangzhou, Zhejiang, China.  
-	[*paper*], [*arxiv*](https://arxiv.org/abs/2112.14540), [*code*](https://github.com/songxujay/Res2NetFuse)  -->
-
-
-<!-- + ***MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image***  
-	Guo-Yang Chen, Xiao-Jun Wu\* , **Hui Li**, Tian-Yang Xu  
-	*International Conference on Image and Graphics* (**ICIG 2021**), 30 September 2021, Lecture Notes in Computer Science, vol 12888. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4), [*arxiv*], [*code*](https://github.com/cgyfocus/icig_mscfuse)
-
-
-+ ***Subspace Clustering via Joint Unsupervised Feature Selection***  
-	Wenhua Dong, Xiao-Jun Wu\*, **Hui Li**, Zhen-Hua Feng, Josef Kittler  
-	*IEEE International Conference on Pattern Recognition* (**ICPR 2020**), 2021, Page(s): 3892 - 3898.  
-	[*paper*](https://ieeexplore.ieee.org/document/9413101), [*arxiv*], [*code*]
-
-
-+ ***MSDNet for Medical Image Fusion***  
-	Xu Song, Xiao-Jun Wu\* , **Hui Li**  
-	*International Conference on Image and Graphics* (**ICIG 2019**), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24), [*preprint*](https://www.researchgate.net/publication/337574155_MSDNet_for_Medical_Image_Fusion), [*code*](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion) 
-
-
-+ ***Infrared and Visible Image Fusion using a Deep Learning Framework***  
-	**Hui Li**, Xiao-Jun Wu\* , Josef Kittler  
-	*IEEE International Conference on Pattern Recognition* (**ICPR 2018**), 2018, Page(s):2705 - 2710.  
-	[*paper*](https://ieeexplore.ieee.org/document/8546006), [*arxiv*](https://arxiv.org/abs/1804.06992), [*code*](https://github.com/hli1221/imagefusion_deeplearning)  
-
-
-+ ***Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu\*  
-	*International Conference on Image and Graphics* (**ICIG 2017**), Springer, Cham, 2017: 675 - 686.  
-	[*paper*](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59), [*arxiv*](https://arxiv.org/abs/1804.08355), [*code*](https://github.com/hli1221/imagefusion_dllrr)   -->
-
-
-
 ---
 # Preprint
 
-+ ***Infrared and visible image fusion using Latent Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu\*  
-	*arXiv 2017*  
-	[*arxiv*](https://arxiv.org/abs/1804.08992), [*code*](https://github.com/hli1221/imagefusion_Infrared_visible_latlrr) 
+<div class="papers-container papers-selected">
+
+<div class="publication media paperhi">
+   <img src="./images/2-preprint-lrr.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
+   	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
+	   arXiv 2017 <br/>
+   	[<a href="https://arxiv.org/abs/1804.08992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_Infrared_visible_latlrr">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
+   <img src="./images/1-preprint-mflrr.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>1. Multi-focus Noisy Image Fusion using Low-Rank Representation</b><br>
+   	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Tariq Durrani <br/>
+	   arXiv 2017 <br/>
+   	[<a href="https://arxiv.org/abs/1804.09325">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_noisy_lrr">code</a>]
+   </div>
+</div>
 
 
-+ ***Multi-focus Noisy Image Fusion using Low-Rank Representation***  
-	**Hui Li**, Xiao-Jun Wu\*, Tariq Durrani  
-	*arXiv 2017*  
-	[*arxiv*](https://arxiv.org/abs/1804.09325), [*code*](https://github.com/hli1221/imagefusion_noisy_lrr) 
+</div>
 
 
 ---
