@@ -202,6 +202,29 @@ I have published several scientific papers (including five highly cited papers),
    </div>
 </div>  
 
+<div class="publication media paperhi">
+   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>7. D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR</b><br>
+   Xu Song, Tianyu Shen, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
+	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
+   [<a href="">paper</a>][<a harf="">arxiv</a>][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
+   </div>
+</div>  
+
+
+<div class="publication media paperhi">
+   <img src="./images/0-journal.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
+   Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
+	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
+   [<a href="">paper</a>][<a harf="https://arxiv.org/abs/2112.14540">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
+   </div>
+</div>
+
+
+
 </div>
 
 
@@ -211,10 +234,10 @@ I have published several scientific papers (including five highly cited papers),
 	[*paper*](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24), [*arxiv*](https://arxiv.org/abs/2305.17374), [*code*](https://github.com/hli1221/LE2Fusion) -->
 
 
-+ ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
+<!-- + ***D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR***  
 	Xu Song, Tianyu Shen, **Hui Li**\*, Xiao-Jun Wu  
 	*International Conference on Machine Vision, Image Processing & Imaging Technology* (**MVIPIT 2023**), 24 September 2023, Hangzhou, Zhejiang, China.  
-	[*paper*], [*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2) 
+	[*paper*], [*arxiv*](https://arxiv.org/pdf/2206.15179.pdf), [*code*](https://github.com/songxujay/MDLatLRRv2)  -->
 
 + ***Res2NetFuse: A Fusion Method for Infrared and Visible Images***  
 	Xu Song, Yongbiao Xiao, **Hui Li**\*, Xiao-Jun Wu, Jun Sun, Valsile Palade  
