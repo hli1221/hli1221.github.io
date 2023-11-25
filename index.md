@@ -2,7 +2,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 I am currently a Lecturer ([home page](http://ai.jiangnan.edu.cn/info/1081/2936.htm)) at the School of Artificial Intelligence and Computer Science and the International Joint Laboratory on Artificial Intelligence of Jiangsu Province, Jiangnan University, Wuxi, China. My research interests include computer vision, image fusion and multi-modal visual information processing/Tracking. 
 
-I have published several scientific papers (including five highly cited papers), including IEEE TPAMI, IEEE TIP, Information Fusion, IEEE TCYB, IEEE TIM etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6).
+I have published several scientific papers (including five highly cited papers), including IEEE TPAMI, IEEE TIP, Information Fusion, IEEE TIM etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6).
 
 
 **Email:**  
@@ -17,12 +17,12 @@ I have published several scientific papers (including five highly cited papers),
 + Multi-modal visual information FUSION, TRACKING  
 + Multi-modal information processing  
 
----
+<!-- ---
 # GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hli1221)
 
-
+ -->
 ---
 # Publications
 
@@ -362,35 +362,6 @@ I have published several scientific papers (including five highly cited papers),
 
 
 </div>
-
-
-<!-- + ***The Tenth Visual Object Tracking VOT2022 Challenge Results***  
-    Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li  
-	VOT-D 2022 subchallenge (**RSDiMP, 2nd place**)  
-	[*home page*](https://www.votchallenge.net/vot2022/), [*VOT report*](https://prints.vicos.si/publications/416)
- -->
-<!-- + ***The Ninth Visual Object Tracking VOT2021 Challenge Results***  
-    Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, **Hui Li**, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler  
-	VOT2021 RGBD subchallenge (**TALGD, 2nd place**)  
-	[*home page*](https://www.votchallenge.net/vot2021/), [*VOT report*](https://prints.vicos.si/publications/400) -->
-
-<!-- + ***Detection and tracking of UAV in the wild ICCV Workshop 2021***  
-    Xuefeng Zhu, Zhangyong Tang, **Hui Li**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler  
-	The Second Anti-UAV Workshop & Challenge 2021 (**3rd place award**)  
-	[*home page*](https://anti-uav.github.io/leaderboard2/) -->
-
-<!-- + ***The Eighth Visual Object Tracking VOT2020 Challenge Results***  
-    **Hui Li**, Wu Xiao-Jun\*, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li  
-	VOT2020 RGB thermal and infrared subchallenge (**DFAT**, <font color=red>The winning tracker award</font>)  
-	[*home page*](https://www.votchallenge.net/vot2020/), [*VOT report*](http://prints.vicos.si/publications/384), [*code*](https://github.com/Zhangyong-Tang/DFAT) -->
-	
-	
-<!-- + ***The Seventh Visual Object Tracking VOT2019 Challenge Results***  
-    **Hui Li**, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler  
-	VOT2019 RGB thermal and infrared subchallenge (**FSRPN, 4th in public dataset**)  
-	[*home page*](http://www.votchallenge.net/vot2019/index.html), [*VOT report*](http://prints.vicos.si/publications/375), [*code*](https://github.com/hli1221/rgbt-tracking-fsrpn) -->
-
-
 	
 ---
 # Experience
@@ -402,8 +373,6 @@ I have published several scientific papers (including five highly cited papers),
 **2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IoT, Jiangnan University, China.  
 
 ---
-
-
 # Activities
 
 Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence  
