@@ -36,7 +36,7 @@ I have published several scientific papers (including five highly cited papers),
       <b>15. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
       IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Early Access. <br/>
-      [<a href="https://doi.org/10.1109/TIM.2023.3306537">paper</a>][arxiv][code]
+      [<a href="https://doi.org/10.1109/TIM.2023.3306537">paper</a>][arxiv][<a href="https://github.com/Yukarizz/GuideFuse">code</a>]
    </div>
 </div>  
 
