@@ -321,7 +321,7 @@ I have published several scientific papers (including five highly cited papers),
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2022.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest-vot2022.png" height="120" width="70" class="papericon-contest">
    <div class="media-body">
 	   <b>The Tenth Visual Object Tracking VOT2022 Challenge Results</b><br>
    	Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, <strong><b>Hui Li</b></strong>, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li <br/>
