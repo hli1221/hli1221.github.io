@@ -10,11 +10,9 @@ I have published several scientific papers (including five highly cited papers),
 + Multi-modal information processing 
 
 **Email:**  
-*lihui.cv@jiangnan.edu.cn*  
-*hui_li_jnu@163.com*  
-<!--*hui.li.cv@gmail.com*  -->
++ *lihui.cv@jiangnan.edu.cn*  
++ *hui_li_jnu@163.com*  
 
- 
 
 <!-- ---
 # GitHub stats
