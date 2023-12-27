@@ -382,6 +382,7 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Activities
 
+Associate Editor: Springer Nature (SN) Computer Science
 Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence  
 Reviewer: International Journal of Computer Vision  
 Reviewer: IEEE Transactions on Image Processing  
