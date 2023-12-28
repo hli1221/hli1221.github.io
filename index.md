@@ -382,19 +382,9 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Activities
 
-Associate Editor: Springer Nature (SN) Computer Science
-Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence  
-Reviewer: International Journal of Computer Vision  
-Reviewer: IEEE Transactions on Image Processing  
-Reviewer: Information Fusion  
-Reviewer: IEEE Transactions on Multimedia  
-Reviewer: IEEE Transactions on Circuits and Systems for Video Technology  
-Reviewer: IEEE Transactions on Neural Networks and Learning Systems  
-Reviewer: IEEE Transactions on Geoscience and Remote Sensing  
-Reviewer: IEEE Transactions on Instrumentation & Measurement  
-Reviewer: IEEE International Conference on Robotics and Automation  
-Reviewer: IEEE International Conference on Pattern Recognition  
-Reviewer: IEEE International Smart Cities Conference
+Associate Editor: Springer Nature (SN) Computer Science  
+Reviewer: CVPR, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
+
 
 
 
