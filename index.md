@@ -38,22 +38,22 @@ I have published several scientific papers (including five highly cited papers),
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
+   <img src="./images/15-journal-guidefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
-	   <b>14. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
-   	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
-	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Volume: 72, pp. 1-14. <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/10288477">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv</a>][<a href="https://github.com/draymondbiao/DePF">code</a>]
+      <b>14. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
+      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
+      IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Volume: 73, 5011211. <br/>
+      [<a href="https://doi.org/10.1109/TIM.2023.3306537">paper</a>][arxiv][<a href="https://github.com/Yukarizz/GuideFuse">code</a>]
    </div>
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/15-journal-guidefuse.png" height="120" width="200" class="papericon">
+   <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>13. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
-      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
-      IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Early Access. <br/>
-      [<a href="https://doi.org/10.1109/TIM.2023.3306537">paper</a>][arxiv][<a href="https://github.com/Yukarizz/GuideFuse">code</a>]
+	   <b>13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
+   	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
+	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Volume: 72, 5031014. <br/>
+   	[<a href="https://ieeexplore.ieee.org/document/10288477">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv</a>][<a href="https://github.com/draymondbiao/DePF">code</a>]
    </div>
 </div>  
 
