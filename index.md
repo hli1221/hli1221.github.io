@@ -14,7 +14,7 @@ I have published several scientific papers (including five highly cited papers),
 + hui_li_jnu@163.com  
 
 
-[TEST](/stusents)
+[TEST](/stusents/index.html)
 
 <!-- ---
 # GitHub stats
