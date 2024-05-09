@@ -28,7 +28,7 @@ I have published several scientific papers (including five highly cited papers),
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/15-journal-dcd.png" height="120" width="200" class="papericon">
+   <img src="./images/16-journal-dcd.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>16. An unsupervised multi-focus image fusion method via dual-channel convolutional network and discriminator</b><br>
       Lixing Fang, Xiangxiang Wang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li*</b></strong>, Yi Li* <br/>
