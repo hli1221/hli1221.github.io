@@ -23,7 +23,7 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Publications
 
-## Journal papers (15)
+## Journal papers
 
 <div class="papers-container papers-selected">
 
@@ -205,7 +205,7 @@ I have published several scientific papers (including five highly cited papers),
 </div>
 
 
-## Conference papers (8)
+## Conference papers
 
 <div class="papers-container papers-selected">
 
@@ -393,7 +393,7 @@ I have published several scientific papers (including five highly cited papers),
 # Activities
 
 Associate Editor: Springer Nature (SN) Computer Science  
-Reviewer: CVPR, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
+Reviewer: CVPR, ECCV, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
 
 
 
