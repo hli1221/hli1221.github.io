@@ -18,7 +18,7 @@ I have published several scientific papers (including five highly cited papers),
 # Students
 
 Mater students (Co-advised with Prof. Xiaoning Song)  
-- Yongbiao Xiao  
+- [Yongbiao Xiao](https://github.com/draymondbiao)  
 - Tianyu Shen  
 - Haolong Ma  
 - Congcong Bian  
