@@ -319,7 +319,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/preprint/3-preprint-comofusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>3. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
-      Zhiming Meng, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
+      Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
       arXiv 2024 <br/>
       [<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="">code</a>]
    </div>
