@@ -35,7 +35,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/16-journal-dcd.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/16-journal-dcd.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>16. An unsupervised multi-focus image fusion method via dual-channel convolutional network and discriminator</b><br>
       Lixing Fang, Xiangxiang Wang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li*</b></strong>, Yi Li* <br/>
@@ -45,7 +45,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/14-journal-crossfuse.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/14-journal-crossfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>15. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
    	<strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
@@ -55,7 +55,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/15-journal-guidefuse.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/15-journal-guidefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>14. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
@@ -65,7 +65,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/13-journal-depf.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/13-journal-depf.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
    	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
@@ -75,7 +75,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/12-journal-sfpfusion.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/12-journal-sfpfusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion</b><br>
    	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song <br/>
@@ -85,7 +85,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/11-journal-dfat.jpg" height="120" width="200" class="papericon">
+   <img src="./images/journal/11-journal-dfat.jpg" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>11. Exploring fusion strategies for accurate RGBT visual object tracking</b><br>
    	Zhangyong Tang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Xue-Feng Zhu, Josef Kittler <br/>
@@ -95,7 +95,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/10-journal-lrrnet.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/10-journal-lrrnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    	<strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
@@ -106,7 +106,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/9-journal-mote.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/9-journal-mote.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition</b><br>
    	Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Cong Wu <br/>
@@ -117,7 +117,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/8-journal-swinfuse.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/8-journal-swinfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images</b><br>
    	Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li</b></strong>, Lei Zhang <br/>
@@ -128,7 +128,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/7-journal-glnr.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/7-journal-glnr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>7. Generalized n-Dimensional Rigid Registration: Theory and Applications</b><br>
    	Jin Wu, Miaomiao Wang, Hassen Fourati, <strong><b>Hui Li</b></strong>, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu* <br/>
@@ -139,7 +139,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/6-journal-rfnnest.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/6-journal-rfnnest.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>6. RFN-Nest: An end-to-end residual fusion network for infrared and visible images</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
@@ -151,7 +151,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/5-journal-umfa.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/5-journal-umfa.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>5. UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation</b><br>
    	Dongyu Rao, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Josef Kittler, Tianyang Xu <br/>
@@ -162,7 +162,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/4-journal-nestfuse.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/4-journal-nestfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
@@ -174,7 +174,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/3-journal-mdlatlrr.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/3-journal-mdlatlrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>3. MDLatLRR: A novel decomposition method for infrared and visible image fusion</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
@@ -186,7 +186,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/2-journal-zca.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/2-journal-zca.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>2. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
@@ -198,7 +198,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/1-journal-densefuse.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/1-journal-densefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
@@ -217,7 +217,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/8-conf-le2fusion.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/8-conf-le2fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>8. LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion</b><br>
    	Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Xiaoning Song <br/>
@@ -227,7 +227,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/0-conf.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>7. D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR</b><br>
    	Xu Song, Tianyu Shen, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
@@ -238,7 +238,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 <div class="publication media paperhi">
-   <img src="./images/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/0-conf.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
    	Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
@@ -248,7 +248,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/5-conf-mscfuse.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/5-conf-mscfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>5. MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image</b><br>
    	Guo-Yang Chen, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Tian-Yang Xu <br/>
@@ -258,7 +258,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/4-conf-subspace.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/4-conf-subspace.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>4. Subspace Clustering via Joint Unsupervised Feature Selection</b><br>
    	Wenhua Dong, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Zhen-Hua Feng, Josef Kittler <br/>
@@ -268,7 +268,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/3-conf-msdnet.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/3-conf-msdnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>3. MSDNet for Medical Image Fusion</b><br>
    	Xu Song, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong> <br/>
@@ -278,7 +278,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/2-conf-vggml.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/2-conf-vggml.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>2. Infrared and Visible Image Fusion using a Deep Learning Framework</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
@@ -288,7 +288,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div> 
 
 <div class="publication media paperhi">
-   <img src="./images/1-conf-dllrr.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/1-conf-dllrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>1. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
@@ -306,7 +306,27 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/2-preprint-lrr.png" height="120" width="200" class="papericon">
+   <img src="./images/preprint/4-preprint-s4fusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>4. S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion</b><br>
+      Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu <br/>
+      arXiv 2024 <br/>
+      [<a href="https://arxiv.org/abs/2405.20881">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
+   <img src="./images/preprint/3-preprint-comofusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>3. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
+      Zhiming Meng, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
+      arXiv 2024 <br/>
+      [<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
+   <img src="./images/preprint/2-preprint-lrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
@@ -316,7 +336,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/1-preprint-mflrr.png" height="120" width="200" class="papericon">
+   <img src="./images/preprint/1-preprint-mflrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>1. Multi-focus Noisy Image Fusion using Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Tariq Durrani <br/>
@@ -335,7 +355,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2022.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest/contest-vot2022.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Tenth Visual Object Tracking VOT2022 Challenge Results</b><br>
    	Zhangyong Tang, Xuefeng Zhu, Tianyang Xu, Jiaye Chen, Ze Kang, <strong><b>Hui Li</b></strong>, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler, Xi Li <br/>
@@ -345,7 +365,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2021.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest/contest-vot2021.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Ninth Visual Object Tracking VOT2021 Challenge Results</b><br>
    	Xuefeng Zhu, Zhangyong Tang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler <br/>
@@ -355,7 +375,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-antiuav2021.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest/contest-antiuav2021.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>Detection and tracking of UAV in the wild ICCV Workshop 2021</b><br>
    	Xuefeng Zhu, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu, Josef Kittler <br/>
@@ -365,7 +385,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2020.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest/contest-vot2020.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Eighth Visual Object Tracking VOT2020 Challenge Results</b><br>
    	<strong><b>Hui Li</b></strong>, Wu Xiao-Jun, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li <br/>
@@ -375,7 +395,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/contest-vot2019.png" height="120" width="80" class="papericon-contest">
+   <img src="./images/contest/contest-vot2019.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Seventh Visual Object Tracking VOT2019 Challenge Results</b><br>
    	<strong><b>Hui Li</b></strong>, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler <br/>
