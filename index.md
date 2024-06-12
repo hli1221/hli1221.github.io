@@ -20,9 +20,9 @@ I have published several scientific papers (including five highly cited papers),
 Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm))  
 - [Yongbiao Xiao](https://github.com/draymondbiao)  
 - Tianyu Shen  
-- Haolong Ma  
+- [Haolong Ma](https://github.com/zipper112)  
 - Congcong Bian  
-- Zhiming Meng  
+- [Zhiming Meng](https://github.com/ZhimingMeng)  
 - Jiancong Xu  
 
 
@@ -321,7 +321,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>3. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
       Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
       arXiv 2024 <br/>
-      [<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="">code</a>]
+      [<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
    </div>
 </div>  
 
