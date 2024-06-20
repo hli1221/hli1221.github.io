@@ -39,7 +39,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>16. An unsupervised multi-focus image fusion method via dual-channel convolutional network and discriminator</b><br>
       Lixing Fang, Xiangxiang Wang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li*</b></strong>, Yi Li* <br/>
-      Computer Vision and Image Understanding (<b>CVIU</b>), Volume: 103, July 2024, 104029. <br/>
+      Computer Vision and Image Understanding (<b>CVIU</b>), Volume: 244, July 2024, 104029. <br/>
       [<a href="https://doi.org/10.1016/j.cviu.2024.104029">paper</a>][arxiv][code]
    </div>
 </div>  
