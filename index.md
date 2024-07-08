@@ -217,6 +217,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/preprint/9-conf-comofusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>9. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
+      Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
+      The 7th Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV</b>) 2024 <br/>
+      [paper][<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
    <img src="./images/conf/8-conf-le2fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>8. LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion</b><br>
@@ -232,7 +242,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>7. D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR</b><br>
    	Xu Song, Tianyu Shen, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[<a herf="https://ieeexplore.ieee.org/document/10578534">paper</a>][arxiv][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
+   	[<a herf="https://ieeexplore.ieee.org/document/10578534">paper</a>][<a href="">arxiv</a>][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
    </div>
 </div>  
 
@@ -243,7 +253,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
    	Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[<a herf="https://ieeexplore.ieee.org/document/10578393">paper</a>][<a href="https://arxiv.org/abs/2112.14540">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
+   	[<a herf="https://ieeexplore.ieee.org/document/10578393">paper</a>][<a href="">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
    </div>
 </div>
 
@@ -312,16 +322,6 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu <br/>
       arXiv 2024 <br/>
       [<a href="https://arxiv.org/abs/2405.20881">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
-   </div>
-</div>  
-
-<div class="publication media paperhi">
-   <img src="./images/preprint/3-preprint-comofusion.png" height="120" width="200" class="papericon">
-   <div class="media-body">
-      <b>3. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
-      Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
-      arXiv 2024 <br/>
-      [<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
    </div>
 </div>  
 
