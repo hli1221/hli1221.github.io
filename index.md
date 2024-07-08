@@ -227,23 +227,23 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>  
 
 <div class="publication media paperhi">
-   <img src="./images/conf/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/7-conf-d2lrr.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>7. D2-LRR A Medical Image Fusion Method based on Dual-decomposed MDLatLRR</b><br>
    	Xu Song, Tianyu Shen, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[paper][arxiv][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
+   	[<a herf="https://ieeexplore.ieee.org/document/10578534">paper</a>][arxiv][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
    </div>
 </div>  
 
 
 <div class="publication media paperhi">
-   <img src="./images/conf/0-conf.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/6-conf-res2net.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
    	Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[paper][<a href="https://arxiv.org/abs/2112.14540">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
+   	[<a herf="https://ieeexplore.ieee.org/document/10578393">paper</a>][<a href="https://arxiv.org/abs/2112.14540">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
    </div>
 </div>
 
