@@ -219,7 +219,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="publication media paperhi">
    <img src="./images/conf/10-conf-iffusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>9. IFFusion: Illumination-free Fusion Network for Infrared and Visible Images</b><br>
+      <b>10. IFFusion: Illumination-free Fusion Network for Infrared and Visible Images</b><br>
       Chengcheng Song, <strong><b>Hui Li</b></strong>, Tianyang Xu, Zeyang Zhang, and Xiao-Jun Wu* <br/>
       The 27th International Conference on Pattern Recognition (<b>ICPR</b>) 2024 <br/>
       [paper][arxiv][<a href="https://github.com/song-chengcheng/IFFusion">code</a>]
