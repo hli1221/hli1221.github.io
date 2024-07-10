@@ -221,7 +221,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>10. IFFusion: Illumination-free Fusion Network for Infrared and Visible Images</b><br>
       Chengcheng Song, <strong><b>Hui Li</b></strong>, Tianyang Xu, Zeyang Zhang, and Xiao-Jun Wu* <br/>
-      The 27th International Conference on Pattern Recognition (<b>ICPR</b>) 2024 <br/>
+      The 27th International Conference on Pattern Recognition (<b>ICPR</b>), December 01-05, 2024, Kolkata, India. <br/>
       [paper][arxiv][<a href="https://github.com/song-chengcheng/IFFusion">code</a>]
    </div>
 </div>  
@@ -231,7 +231,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>9. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
       Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
-      The 7th Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV</b>) 2024 <br/>
+      The 7th Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV</b>), October 18-20, 2024, Urumqi, China. <br/>
       [paper][<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
    </div>
 </div>  
@@ -241,7 +241,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>8. LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion</b><br>
    	Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Xiaoning Song <br/>
-	   International Conference on Image and Graphics (<b>ICIG 2023</b>), 29 October 2023, Lecture Notes in Computer Science, vol 14355. Springer, Cham. <br/>
+	   International Conference on Image and Graphics (<b>ICIG 2023</b>), 29 October 2023, Nanjing, China. <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24">paper</a>][<a href="https://arxiv.org/abs/2305.17374">arxiv</a>][<a href="https://github.com/hli1221/LE2Fusion">code</a>]
    </div>
 </div>  
@@ -272,7 +272,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>5. MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image</b><br>
    	Guo-Yang Chen, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Tian-Yang Xu <br/>
-	   International Conference on Image and Graphics (<b>ICIG 2021</b>), 30 September 2021, Lecture Notes in Computer Science, vol 12888. Springer, Cham. <br/>
+	   International Conference on Image and Graphics (<b>ICIG 2021</b>), 30 September 2021, Haikou, China. Lecture Notes in Computer Science, vol 12888. Springer, Cham. <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4">paper</a>][<a href="https://github.com/cgyfocus/icig_mscfuse">code</a>]
    </div>
 </div>
@@ -282,7 +282,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>4. Subspace Clustering via Joint Unsupervised Feature Selection</b><br>
    	Wenhua Dong, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Zhen-Hua Feng, Josef Kittler <br/>
-	  	IEEE International Conference on Pattern Recognition (<b>ICPR 2020</b>), 2021, Page(s): 3892 - 3898. <br/>
+	  	IEEE International Conference on Pattern Recognition (<b>ICPR 2020</b>), 2021, Page(s): 3892 - 3898. Beijing, China.<br/>
    	[<a href="https://ieeexplore.ieee.org/document/9413101">paper</a>][code]
    </div>
 </div>
@@ -292,7 +292,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>3. MSDNet for Medical Image Fusion</b><br>
    	Xu Song, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong> <br/>
-	 	International Conference on Image and Graphics (<b>ICIG 2019</b>), 28 November 2019, Lecture Notes in Computer Science, vol 11902. Springer, Cham.  <br/>
+	 	International Conference on Image and Graphics (<b>ICIG 2019</b>), 28 November 2019, Beijing, China. Lecture Notes in Computer Science, vol 11902. Springer, Cham.  <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24">paper</a>][<a href="https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion">code</a>]
    </div>
 </div>
@@ -302,7 +302,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>2. Infrared and Visible Image Fusion using a Deep Learning Framework</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
-	   IEEE International Conference on Pattern Recognition (<b>ICPR 2018</b>), 2018, Page(s):2705 - 2710. <br/>
+	   IEEE International Conference on Pattern Recognition (<b>ICPR 2018</b>), 2018, Page(s):2705 - 2710. Beijing, China. <br/>
    	[<a href="https://ieeexplore.ieee.org/document/8546006">paper</a>][<a href="https://arxiv.org/abs/1804.06992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_deeplearning">code</a>]
    </div>
 </div> 
@@ -312,7 +312,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>1. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   International Conference on Image and Graphics* (<b>ICIG 2017</b>), Springer, Cham, 2017: 675 - 686. <br/>
+	   International Conference on Image and Graphics* (<b>ICIG 2017</b>), Shanghai, China. Springer, Cham, 2017: 675 - 686. <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59">paper</a>][<a href="https://arxiv.org/abs/1804.08355">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_dllrr">code</a>]
    </div>
 </div> 
@@ -328,7 +328,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="publication media paperhi">
    <img src="./images/preprint/4-preprint-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>4. S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion</b><br>
+      <b>3. S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion</b><br>
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu <br/>
       arXiv 2024 <br/>
       [<a href="https://arxiv.org/abs/2405.20881">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
