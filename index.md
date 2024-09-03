@@ -439,9 +439,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 ---
 # Activities
 
-Program Committee: AAAI, VALSE2023  
 Associate Editor: Springer Nature (SN) Computer Science  
-Reviewer: CVPR, ECCV, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
+Reviewer: CVPR, ECCV, AAAI, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
 
 
 
