@@ -19,7 +19,7 @@ I have published several scientific papers (including five highly cited papers),
 
 Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm))  
 - [Yongbiao Xiao](https://github.com/draymondbiao)  
-- Tianyu Shen  
+- [Tianyu Shen](https://github.com/stywmy)  
 - [Haolong Ma](https://github.com/zipper112)  
 - Congcong Bian  
 - [Zhiming Meng](https://github.com/ZhimingMeng)  
@@ -222,7 +222,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>11. SMFuse: Two-Stage Structural Map Aware Network for Multi-focus Image Fusion</b><br>
       Tianyu Shen, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, and Xiaoning Song <br/>
       The 27th International Conference on Pattern Recognition (<b>ICPR</b>), December 01-05, 2024, Kolkata, India. <br/>
-      [paper][arxiv][code]
+      [paper][arxiv][<a href="https://github.com/stywmy/SMFuse">code</a>]
    </div>
 </div>  
 
