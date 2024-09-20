@@ -100,6 +100,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    	<strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
 	   IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
+      (<font color=red>Highly Cited Paper</font>) <br/>
    	[<a href="https://doi.org/10.1109/TPAMI.2023.3268209">paper</a>][<a href="https://arxiv.org/abs/2304.05172">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-LRRNet">code</a>]
    </div>
 </div>  
@@ -122,6 +123,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>8. SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images</b><br>
    	Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li</b></strong>, Lei Zhang <br/>
 	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2022, vol: 71.  <br/>
+      (<font color=red>Highly Cited Paper</font>) <br/>
    	[<a href="https://ieeexplore.ieee.org/document/9832006">paper</a>][<a href="https://github.com/Zhishe-Wang/SwinFuse">code</a>]
    </div>
 </div> 
