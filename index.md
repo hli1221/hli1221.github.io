@@ -40,7 +40,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>17. DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and Bézier curves</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Josef Kittler<br/>
       Information Fusion (<b>InfFus</b>), 102655. <br/>
-      [<a href="httphttps://www.sciencedirect.com/science/article/abs/pii/S1566253524004330">paper</a>][arxiv][code]
+      [<a href="httphttps://www.sciencedirect.com/science/article/abs/pii/S1566253524004330">paper</a>][arxiv][<a href="https://github.com/Yukarizz/DDBFusion">code</a>]
    </div>
 </div>  
 
