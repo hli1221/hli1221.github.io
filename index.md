@@ -2,7 +2,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 I am currently a Lecturer ([home page](http://ai.jiangnan.edu.cn/info/1081/2936.htm)) at the School of Artificial Intelligence and Computer Science and the International Joint Laboratory on Artificial Intelligence of Jiangsu Province, Jiangnan University, Wuxi, China. My research interests include computer vision, image fusion and multi-modal visual information processing/Tracking. 
 
-I have published several scientific papers (including five highly cited papers), including IEEE TPAMI, IEEE TIP, Information Fusion, IEEE TIM etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6).
+I have published several scientific papers (including five highly cited papers), including IEEE TPAMI, IEEE TIP, Information Fusion, IEEE TIM etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2021, 2022, 2023)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7).
 
 **Current research:**
 + Computer vision  
