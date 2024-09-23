@@ -20,12 +20,10 @@ I have published several scientific papers (including five highly cited papers),
 Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm))  
 - [Yongbiao Xiao](https://github.com/draymondbiao)  
 - [Tianyu Shen](https://github.com/stywmy)  
-
 - [Haolong Ma](https://github.com/zipper112)  
 - Congcong Bian  
 - [Zhiming Meng](https://github.com/ZhimingMeng)  
 - Jiancong Xu  
-
 - Sheng Huang  
 - Ziyang Liu  
 - Zhijia Din  
