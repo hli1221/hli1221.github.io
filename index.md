@@ -20,11 +20,16 @@ I have published several scientific papers (including five highly cited papers),
 Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm))  
 - [Yongbiao Xiao](https://github.com/draymondbiao)  
 - [Tianyu Shen](https://github.com/stywmy)  
+
 - [Haolong Ma](https://github.com/zipper112)  
 - Congcong Bian  
 - [Zhiming Meng](https://github.com/ZhimingMeng)  
 - Jiancong Xu  
 
+- Sheng Huang  
+- Ziyang Liu  
+- Zhijia Din  
+- Jingwen Tan  
 
 
 ---
@@ -334,7 +339,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>1. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   International Conference on Image and Graphics* (<b>ICIG 2017</b>), Shanghai, China. Springer, Cham, 2017: 675 - 686. <br/>
+	   International Conference on Image and Graphics (<b>ICIG 2017</b>), Shanghai, China. Springer, Cham, 2017: 675 - 686. <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59">paper</a>][<a href="https://arxiv.org/abs/1804.08355">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_dllrr">code</a>]
    </div>
 </div> 
@@ -452,7 +457,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 # Activities
 
 Associate Editor: Springer Nature (SN) Computer Science  
-Reviewer: CVPR, ICCV, ECCV, AAAI, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
+Reviewer: CVPR, ICCV, NeurIPS, ECCV, AAAI, IEEE TPAMI, IJCV, IEEE TIP, Information Fusion, IEEE TMM, IEEE TCSVT, ...  
 
 
 
