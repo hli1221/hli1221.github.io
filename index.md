@@ -17,7 +17,7 @@ I have published several scientific papers (including five highly cited papers),
 ---
 # Students
 
-Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm))  
+Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm) and [Prof. Xiaoqing Luo](https://ai.jiangnan.edu.cn/info/1013/3246.htm))  
 - [Yongbiao Xiao](https://github.com/draymondbiao)  
 - [Tianyu Shen](https://github.com/stywmy)  
 - [Haolong Ma](https://github.com/zipper112)  
