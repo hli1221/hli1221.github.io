@@ -338,6 +338,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>2. Infrared and Visible Image Fusion using a Deep Learning Framework</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
 	   IEEE International Conference on Pattern Recognition (<b>ICPR 2018</b>), 2018, Page(s):2705 - 2710. Beijing, China. <br/>
+      (<font color=red>Google citation: 556</font>) <br/>
    	[<a href="https://ieeexplore.ieee.org/document/8546006">paper</a>][<a href="https://arxiv.org/abs/1804.06992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_deeplearning">code</a>]
    </div>
 </div> 
@@ -348,6 +349,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>1. Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
 	   International Conference on Image and Graphics (<b>ICIG 2017</b>), Shanghai, China. Springer, Cham, 2017: 675 - 686. <br/>
+      (<font color=red>Google citation: 116</font>) <br/>
    	[<a href="https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59">paper</a>][<a href="https://arxiv.org/abs/1804.08355">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_dllrr">code</a>]
    </div>
 </div> 
@@ -375,7 +377,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   arXiv 2017 <br/>
+	   arXiv 2017, (<font color=red>Google citation: 208</font>) <br/>
    	[<a href="https://arxiv.org/abs/1804.08992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_Infrared_visible_latlrr">code</a>]
    </div>
 </div>  
