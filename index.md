@@ -377,7 +377,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
 	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   arXiv 2017, (<font color=red>Google citation: 208</font>) <br/>
+	   arXiv 2017 <br/>
+      (<font color=red>Google citation: 208</font>) <br/>
    	[<a href="https://arxiv.org/abs/1804.08992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_Infrared_visible_latlrr">code</a>]
    </div>
 </div>  
