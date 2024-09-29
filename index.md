@@ -43,7 +43,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>18. MMAE: A universal image fusion method via mask attention mechanism</b><br>
       Xiangxiang Wang, Lixing Fang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
       Pattern Recognition (<b>PR</b>), available online 26 September 2024, 111041. <br/>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324007921">paper</a>][arxiv][<a href="https://github.com/xiangxiang-wang/MMAE">code</a>]
+      [<a href="https://doi.org/10.1016/j.patcog.2024.111041">paper</a>][arxiv][<a href="https://github.com/xiangxiang-wang/MMAE">code</a>]
    </div>
 </div>
 
@@ -52,8 +52,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>17. DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and Bézier curves</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Josef Kittler<br/>
-      Information Fusion (<b>InfFus</b>), 102655. <br/>
-      [<a href="httphttps://www.sciencedirect.com/science/article/abs/pii/S1566253524004330">paper</a>][arxiv][<a href="https://github.com/Yukarizz/DDBFusion">code</a>]
+      Information Fusion (<b>InfFus</b>), Volume 114, February 2025, 102655. <br/>
+      [<a href="https://doi.org/10.1016/j.inffus.2024.102655">paper</a>][arxiv][<a href="https://github.com/Yukarizz/DDBFusion">code</a>]
    </div>
 </div>  
 
@@ -93,7 +93,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>13. DePF: A Novel Fusion Approach based on Decomposition Pooling for Infrared and Visible Images</b><br>
    	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song <br/>
 	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Volume: 72, 5031014. <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/10288477">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv</a>][<a href="https://github.com/draymondbiao/DePF">code</a>]
+   	[<a href="https://doi.org/10.1109/TIM.2023.3326252">paper</a>][<a href="https://arxiv.org/abs/2305.17376">arxiv</a>][<a href="https://github.com/draymondbiao/DePF">code</a>]
    </div>
 </div>  
 
@@ -103,7 +103,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>12. SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion</b><br>
    	<strong><b>Hui Li*</b></strong>, Yongbiao Xiao, Chunyang Cheng, Xiaoning Song <br/>
 	   <b>Sensors</b>, 2023, volume: 23, number: 18, 2023: 7870 <br/>
-   	[<a href="https://www.mdpi.com/1424-8220/23/18/7870#">paper</a>][arxiv][<a href="https://github.com/hli1221/SFPFusion">code</a>]
+   	[<a href="https://doi.org/10.3390/s23187870">paper</a>][arxiv][<a href="https://github.com/hli1221/SFPFusion">code</a>]
    </div>
 </div>  
 
@@ -135,7 +135,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition</b><br>
    	Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Cong Wu <br/>
 	   IEEE Transactions on Multimedia (<b>TMM</b>), 2022, Early Access.  <br/>
-   	[<a href="https://ieeexplore.ieee.org/abstract/document/9907887">paper</a>][<a href="https://github.com/hli1221/MOTion-Estimator-MOTE-">code</a>]
+   	[<a href="https://doi.org/10.1109/TMM.2022.3211423">paper</a>][<a href="https://github.com/hli1221/MOTion-Estimator-MOTE-">code</a>]
    </div>
 </div>  
 
@@ -147,7 +147,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	Zhishe Wang*, Yanlin Chen, Wenyu Shao, <strong><b>Hui Li</b></strong>, Lei Zhang <br/>
 	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2022, vol: 71.  <br/>
       (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/9832006">paper</a>][<a href="https://github.com/Zhishe-Wang/SwinFuse">code</a>]
+   	[<a href="https://doi.org/10.1109/TIM.2022.3191664">paper</a>][<a href="https://github.com/Zhishe-Wang/SwinFuse">code</a>]
    </div>
 </div> 
 
@@ -158,7 +158,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>7. Generalized n-Dimensional Rigid Registration: Theory and Applications</b><br>
    	Jin Wu, Miaomiao Wang, Hassen Fourati, <strong><b>Hui Li</b></strong>, Yilong Zhu, Chengxi Zhang, Yi Jiang, Xiangcheng Hu, Ming Liu* <br/>
 	   IEEE Transactions on Cybernetics (<b>TCYB</b>), Volume: 53, Issue: 2, February 2023.  <br/>
-   	[<a href="https://ieeexplore.ieee.org/abstract/document/9768182">paper</a>][<a href="https://github.com/zarathustr/GLnR">code</a>][<a href="https://youtu.be/BwfjQ9ZAyl4">video</a>]
+   	[<a href="https://doi.org/10.1109/TCYB.2022.3168938">paper</a>][<a href="https://github.com/zarathustr/GLnR">code</a>][<a href="https://youtu.be/BwfjQ9ZAyl4">video</a>]
    </div>
 </div> 
 
@@ -170,7 +170,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
 	   Information Fusion (<b>InfFus</b>), Volume: 73, Pages: 72-86, September 2021. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://www.sciencedirect.com/science/article/pii/S1566253521000440">paper</a>][<a href="https://arxiv.org/abs/2103.04286">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a href="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
+   	[<a href="https://doi.org/10.1016/j.inffus.2021.02.023">paper</a>][<a href="https://arxiv.org/abs/2103.04286">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-rfn-nest">code</a>][<a href="https://www.researchgate.net/publication/350485612_sup-rfn-v2pdf">Supplementary Material</a>]
    </div>
 </div> 
 
@@ -193,7 +193,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
 	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), Volume: 69, Issue: 12, pp. 9645–9656, Dec. 2020. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/9127964">paper</a>][<a href="https://arxiv.org/abs/2007.00328">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-nestfuse">code</a>]
+   	[<a href="https://doi.org/10.1109/TIM.2020.3005230">paper</a>][<a href="https://arxiv.org/abs/2007.00328">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-nestfuse">code</a>]
    </div>
 </div> 
 
@@ -205,7 +205,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
 	   IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 29, pp. 4733-4746, February, 2020. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/9018389">paper</a>][<a href="https://arxiv.org/abs/1811.02291">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_mdlatlrr">code</a>]
+   	[<a href="https://doi.org/10.1109/TIP.2020.2975984">paper</a>][<a href="https://arxiv.org/abs/1811.02291">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_mdlatlrr">code</a>]
    </div>
 </div> 
 
@@ -217,7 +217,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
 	   Journal of Infrared Physics & Technology (<b>JIPT</b>), Volume 102, November 2019, 103039. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://www.sciencedirect.com/science/article/pii/S1350449519301525">paper</a>][<a href="https://arxiv.org/abs/1806.07119">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_resnet50">code</a>]
+   	[<a href="https://doi.org/10.1016/j.infrared.2019.103039">paper</a>][<a href="https://arxiv.org/abs/1806.07119">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_resnet50">code</a>]
    </div>
 </div> 
 
@@ -229,7 +229,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
 	   IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 28, Issue: 5, pp. 2614–2623, May. 2019. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a href="https://arxiv.org/abs/1804.08361">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_densefuse">code</a>]
+   	[<a href="https://doi.org/10.1109/TIP.2018.2887342">paper</a>][<a href="https://arxiv.org/abs/1804.08361">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
 </div> 
 
@@ -277,7 +277,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>9. TandemFuse: An Intra-and Inter-Modal Fusion Strategy for RGB-T Tracking</b><br>
       Xinyang Zhou, <strong><b>Hui Li*</b></strong> <br/>
       The 2024 2nd Asia Conference on Computer Vision, Image Processing and Pattern Recognition (<b>CVIPPR</b>), Apirl 26-28, 2024, Xiamen, China. <br/>
-      [<a href="https://dl.acm.org/doi/abs/10.1145/3663976.3663996">paper</a>][arxiv][code]
+      [<a href="https://doi.org/10.1145/3663976.3663996">paper</a>][arxiv][code]
    </div>
 </div> 
 
@@ -287,7 +287,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>8. LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion</b><br>
    	Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Xiaoning Song <br/>
 	   International Conference on Image and Graphics (<b>ICIG 2023</b>), 29 October 2023, Nanjing, China. <br/>
-   	[<a href="https://link.springer.com/chapter/10.1007/978-3-031-46305-1_24">paper</a>][<a href="https://arxiv.org/abs/2305.17374">arxiv</a>][<a href="https://github.com/hli1221/LE2Fusion">code</a>]
+   	[<a href="https://doi.org/10.1007/978-3-031-46305-1_24">paper</a>][<a href="https://arxiv.org/abs/2305.17374">arxiv</a>][<a href="https://github.com/hli1221/LE2Fusion">code</a>]
    </div>
 </div>  
 
@@ -297,7 +297,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>7. D2-LRR: A Medical Image Fusion Method based on Dual-decomposed MDLatLRR</b><br>
    	Xu Song, Tianyu Shen, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/10578534">paper</a>][<a href="https://arxiv.org/abs/2206.15179">arxiv</a>][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
+   	[<a href="https://doi.org/10.1109/MVIPIT60427.2023.00010">paper</a>][<a href="https://arxiv.org/abs/2206.15179">arxiv</a>][<a href="https://github.com/songxujay/MDLatLRRv2">code</a>]
    </div>
 </div>  
 
@@ -308,7 +308,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
    	Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
 	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/10578393">paper</a>][<a href="">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
+   	[<a href="https://doi.org/10.1109/MVIPIT60427.2023.00009">paper</a>][<a href="">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
    </div>
 </div>
 
@@ -318,7 +318,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>5. MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image</b><br>
    	Guo-Yang Chen, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Tian-Yang Xu <br/>
 	   International Conference on Image and Graphics (<b>ICIG 2021</b>), 30 September 2021, Haikou, China. Lecture Notes in Computer Science, vol 12888. Springer, Cham. <br/>
-   	[<a href="https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4">paper</a>][<a href="https://github.com/cgyfocus/icig_mscfuse">code</a>]
+   	[<a href="https://doi.org/10.1007/978-3-030-87355-4_4">paper</a>][<a href="https://github.com/cgyfocus/icig_mscfuse">code</a>]
    </div>
 </div>
 
@@ -328,7 +328,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>4. Subspace Clustering via Joint Unsupervised Feature Selection</b><br>
    	Wenhua Dong, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong>, Zhen-Hua Feng, Josef Kittler <br/>
 	  	IEEE International Conference on Pattern Recognition (<b>ICPR 2020</b>), 2021, Page(s): 3892 - 3898. Beijing, China.<br/>
-   	[<a href="https://ieeexplore.ieee.org/document/9413101">paper</a>][code]
+   	[<a href="https://doi.org/10.1109/ICPR48806.2021.9413101">paper</a>][code]
    </div>
 </div>
 
@@ -338,7 +338,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>3. MSDNet for Medical Image Fusion</b><br>
    	Xu Song, Xiao-Jun Wu* , <strong><b>Hui Li</b></strong> <br/>
 	 	International Conference on Image and Graphics (<b>ICIG 2019</b>), 28 November 2019, Beijing, China. Lecture Notes in Computer Science, vol 11902. Springer, Cham.  <br/>
-   	[<a href="https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24">paper</a>][<a href="https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion">code</a>]
+   	[<a href="https://doi.org/10.1007/978-3-030-34110-7_24">paper</a>][<a href="https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion">code</a>]
    </div>
 </div>
 
@@ -349,7 +349,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Josef Kittler <br/>
 	   IEEE International Conference on Pattern Recognition (<b>ICPR 2018</b>), 2018, Page(s):2705 - 2710. Beijing, China. <br/>
       (<font color=red>Google citation: 556</font>) <br/>
-   	[<a href="https://ieeexplore.ieee.org/document/8546006">paper</a>][<a href="https://arxiv.org/abs/1804.06992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_deeplearning">code</a>]
+   	[<a href="https://doi.org/10.1109/ICPR.2018.8546006">paper</a>][<a href="https://arxiv.org/abs/1804.06992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_deeplearning">code</a>]
    </div>
 </div> 
 
@@ -360,7 +360,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
 	   International Conference on Image and Graphics (<b>ICIG 2017</b>), Shanghai, China. Springer, Cham, 2017: 675 - 686. <br/>
       (<font color=red>Google citation: 116</font>) <br/>
-   	[<a href="https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59">paper</a>][<a href="https://arxiv.org/abs/1804.08355">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_dllrr">code</a>]
+   	[<a href="https://doi.org/10.1007/978-3-319-71607-7_59">paper</a>][<a href="https://arxiv.org/abs/1804.08355">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_dllrr">code</a>]
    </div>
 </div> 
 
