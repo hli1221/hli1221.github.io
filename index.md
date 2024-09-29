@@ -38,6 +38,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/18-journal-mmae.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>18. MMAE: A universal image fusion method via mask attention mechanism</b><br>
+      Xiangxiang Wang, Lixing Fang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
+      Pattern Recognition (<b>PR</b>), available online 26 September 2024, 111041. <br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324007921">paper</a>][arxiv][<a href="https://github.com/xiangxiang-wang/MMAE">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
    <img src="./images/journal/17-journal-ddbfusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>17. DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and Bézier curves</b><br>
