@@ -267,7 +267,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>10. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
       Zhiming Meng, <strong><b>Hui Li*</b></strong>, Zeyang Zhang, Zhongwei Shen, Yunlong Yu, Xiaoning Song, Xiaojun Wu <br/>
       The 7th Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV 2024</b>), October 18-20, 2024, Urumqi, China. <br/>
-      [paper][<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
+      [<a herf="https://doi.org/10.1007/978-981-97-8685-5_38">paper</a>][<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
    </div>
 </div>  
 
