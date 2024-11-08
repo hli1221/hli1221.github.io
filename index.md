@@ -38,6 +38,26 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/20-journal-textfusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>20. TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion</b><br>
+      Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Xi Li, Zhangyong Tang, Josef Kittler<br/>
+      Information Fusion (<b>InfFus</b>, IF: 14.7007), Accepted. <br/>
+      [<a href="">paper</a>][<a href="https://arxiv.org/abs/2312.14209">arxiv</a>][<a href="https://github.com/AWCXV/TextFusion">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/19-journal-fusionbooster.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>19. FusionBooster: A Unified Image Fusion Boosting Paradigm</b><br>
+      Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Xi Li, Josef Kittler <br/>
+      International Journal of Computer Vision (<b>IJCV</b>, IF: 11.6), Accepted. <br/>
+      [<a href="">paper</a>][<a href="https://arxiv.org/abs/2305.05970">arxiv</a>][<a href="https://github.com/AWCXV/FusionBooster">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
    <img src="./images/journal/18-journal-mmae.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>18. MMAE: A universal image fusion method via mask attention mechanism</b><br>
