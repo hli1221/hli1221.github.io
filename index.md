@@ -43,7 +43,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>20. TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Xi Li, Zhangyong Tang, Josef Kittler<br/>
       Information Fusion (<b>InfFus</b>, IF: 14.7007), Accepted. <br/>
-      [paper][<a href="https://arxiv.org/abs/2312.14209">arxiv</a>][<a href="https://github.com/AWCXV/TextFusion">code</a>]
+      [<a href="https://doi.org/10.1016/j.inffus.2024.102790">paper</a>][<a href="https://arxiv.org/abs/2312.14209">arxiv</a>][<a href="https://github.com/AWCXV/TextFusion">code</a>]
    </div>
 </div> 
 
