@@ -38,6 +38,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/21-journal-edmf.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>21. EDMF: A New Benchmark for Multi-Focus Images with the Challenge of Exposure Difference</b><br>
+      <strong><b>Hui Li*</b></strong>, Tianyu Shen, Zeyang Zhang, Xuefeng Zhu, Xiaoning Song<br/>
+      <b>Sensors</b> (IF: 3.4), 2024, 24(22), 7287. <br/>
+      [<a href="https://doi.org/10.3390/s24227287">paper</a>][arxiv][<a href="https://github.com/stywmy/EDMF">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/20-journal-textfusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>20. TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion</b><br>
