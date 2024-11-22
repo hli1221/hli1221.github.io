@@ -153,7 +153,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    	<strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
 	   IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>, IF: 20.7991), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
-      (<font color=red>Highly Cited Paper</font>) <br/>
+      (<font color=red>Highly Cited Paper, *Hot Paper*</font>) <br/>
    	[<a href="https://doi.org/10.1109/TPAMI.2023.3268209">paper</a>][<a href="https://arxiv.org/abs/2304.05172">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-LRRNet">code</a>]
    </div>
 </div>  
