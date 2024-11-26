@@ -38,6 +38,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/22-journal-3mc.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>22. Multi-layer multi-level comprehensive learning for deep multi-view clustering</b><br>
+      Zhe Chen, Xiao-Jun Wu*, Tianyang Xu, <strong><b>Hui Li</b></strong>, Josef Kittler<br/>
+      Information Fusion (<b>InfFus</b>, IF: 14.7007), Volume 116, April 2025, 102785. <br/>
+      [<a href="https://doi.org/10.1016/j.inffus.2024.102785">paper</a>][arxiv][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/21-journal-edmf.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>21. EDMF: A New Benchmark for Multi-Focus Images with the Challenge of Exposure Difference</b><br>
