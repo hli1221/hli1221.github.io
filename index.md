@@ -43,7 +43,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>23. Conti-Fuse: A Novel Continuous Decomposition-based Fusion Framework for Infrared and Visible Images</b><br>
       <strong><b>Hui Li*</b></strong>, Haolong Ma, Chunyang Cheng, Zhongwei Shen, Xiaoning Song, Xiao-Jun Wu<br/>
       Information Fusion (<b>InfFus</b>, IF: 14.7007), 2024, Accepted. <br/>
-      [<a href="">paper</a>][arxiv][code]
+      [paper][<a href="https://arxiv.org/abs/2406.04689">arxiv</a>][<a href="https://github.com/zipper112/Conti-Fuse">code</a>]
    </div>
 </div> 
 
