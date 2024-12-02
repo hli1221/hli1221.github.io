@@ -42,8 +42,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>23. Conti-Fuse: A Novel Continuous Decomposition-based Fusion Framework for Infrared and Visible Images</b><br>
       <strong><b>Hui Li*</b></strong>, Haolong Ma, Chunyang Cheng, Zhongwei Shen, Xiaoning Song, Xiao-Jun Wu<br/>
-      Information Fusion (<b>InfFus</b>, IF: 14.7007), 2024, Accepted. <br/>
-      [paper][<a href="https://arxiv.org/abs/2406.04689">arxiv</a>][<a href="https://github.com/zipper112/Conti-Fuse">code</a>]
+      Information Fusion (<b>InfFus</b>, IF: 14.7007), Available online 2 December 2024, 102839. <br/>
+      [<a herf="https://doi.org/10.1016/j.inffus.2024.102839">paper</a>][<a href="https://arxiv.org/abs/2406.04689">arxiv</a>][<a href="https://github.com/zipper112/Conti-Fuse">code</a>]
    </div>
 </div> 
 
@@ -72,7 +72,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>20. TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Xi Li, Zhangyong Tang, Josef Kittler<br/>
-      Information Fusion (<b>InfFus</b>, IF: 14.7007), 2024, Accepted. <br/>
+      Information Fusion (<b>InfFus</b>, IF: 14.7007), Volume 117, May 2025, 102790. <br/>
       [<a href="">paper</a>][<a href="https://arxiv.org/abs/2312.14209">arxiv</a>][<a href="https://github.com/AWCXV/TextFusion">code</a>]
    </div>
 </div> 
