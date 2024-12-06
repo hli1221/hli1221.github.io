@@ -297,7 +297,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>12. SMFuse: Two-Stage Structural Map Aware Network for Multi-focus Image Fusion</b><br>
       Tianyu Shen, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, and Xiaoning Song <br/>
       The 27th International Conference on Pattern Recognition (<b>ICPR 2024</b>), December 01-05, 2024, Kolkata, India. <br/>
-      [paper][arxiv][<a href="https://github.com/stywmy/SMFuse">code</a>]
+      [<a href="https://doi.org/10.1007/978-3-031-78312-8_1">paper</a>][arxiv][<a href="https://github.com/stywmy/SMFuse">code</a>]
    </div>
 </div>  
 
@@ -307,7 +307,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>11. IFFusion: Illumination-free Fusion Network for Infrared and Visible Images</b><br>
       Chengcheng Song, <strong><b>Hui Li</b></strong>, Tianyang Xu, Zeyang Zhang, and Xiao-Jun Wu* <br/>
       The 27th International Conference on Pattern Recognition (<b>ICPR 2024</b>), December 01-05, 2024, Kolkata, India. <br/>
-      [paper][arxiv][<a href="https://github.com/song-chengcheng/IFFusion">code</a>]
+      [<a href="https://doi.org/10.1007/978-3-031-78169-8_4">paper</a>][arxiv][<a href="https://github.com/song-chengcheng/IFFusion">code</a>]
    </div>
 </div>  
 
