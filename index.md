@@ -38,6 +38,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/24-journal-uudfusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>24. UUD-Fusion: An unsupervised universal image fusion approach via generative diffusion model</b><br>
+      Xiangxiang Wang, Lixing Fang, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
+      Computer Vision and Image Understanding (<b>CVIU</b>, IF: 4.2997), Volume: 249, December 2024, 104218. <br/>
+      [<a href="https://doi.org/10.1016/j.cviu.2024.104218">paper</a>][arxiv][<a href="https://github.com/xiangxiang-wang/UUD-Fusion">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/23-journal-contifuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>23. Conti-Fuse: A Novel Continuous Decomposition-based Fusion Framework for Infrared and Visible Images</b><br>
