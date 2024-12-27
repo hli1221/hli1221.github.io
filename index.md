@@ -19,7 +19,12 @@ I have published several scientific papers (7 highly cited papers, 1 hot paper),
  
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/你的仓库名.svg?label=Stars)](https://github.com/你的用户名/你的仓库名)
  -->
-[![GitHub contributions](https://github-contribution-stats.vercel.app/api/?username=hli1221)](https://github.com/LordDashMe/github-contribution-stats/)
+<!-- [![GitHub contributions](https://github-contribution-stats.vercel.app/api/?username=hli1221)](https://github.com/LordDashMe/github-contribution-stats/) -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=hli1221&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hli1221&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 ---
 # Students
