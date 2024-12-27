@@ -22,7 +22,7 @@ I have published several scientific papers (7 highly cited papers, 1 hot paper),
 <!-- [![GitHub contributions](https://github-contribution-stats.vercel.app/api/?username=hli1221)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
 <div class="publication media paperhi">
-    <img height="165" align="left" src="https://github-contribution-stats.vercel.app/api/?username=hli1221" />
+    <!-- <img height="165" align="left" src="https://github-contribution-stats.vercel.app/api/?username=hli1221" /> -->
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=hli1221&theme=calm&show_icons=true" />
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hli1221&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
