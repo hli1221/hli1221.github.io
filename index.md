@@ -6,8 +6,8 @@ I have published several scientific papers (7 highly cited papers, 1 hot paper),
 
 **Current research:**
 + Computer vision  
-+ Multi-modal FUSION, SUPER-RESOLUTION  
-+ Multi-modal DETECTION, TRACKING 
++ Multi-modal fusion, super-resolution  
++ Multi-modal detection, tracking 
 
 **Email:**  
 + lihui.cv@jiangnan.edu.cn  
