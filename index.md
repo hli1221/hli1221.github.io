@@ -20,6 +20,7 @@ I have published several scientific papers (7 highly cited papers, 1 hot paper),
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/你的仓库名.svg?label=Stars)](https://github.com/你的用户名/你的仓库名)
  -->
 [![GitHub contributions](https://github-contribution-stats.vercel.app/api/?username=hli1221)](https://github.com/LordDashMe/github-contribution-stats/)
+[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=hli1221&theme=calm&show_icons=true)]()
 
 <!-- height="165" -->
 
