@@ -116,7 +116,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>19. FusionBooster: A Unified Image Fusion Boosting Paradigm</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Xi Li, Josef Kittler <br/>
-      International Journal of Computer Vision (<b>IJCV</b>, IF: 11.6), 2024, Accepted. <br/>
+      International Journal of Computer Vision (<b>IJCV</b>, IF: 11.6), 2024: 1-18. <br/>
       [<a href="https://doi.org/10.1007/s11263-024-02266-6">paper</a>][<a href="https://arxiv.org/abs/2305.05970">arxiv</a>][<a href="https://github.com/AWCXV/FusionBooster">code</a>]
    </div>
 </div>
