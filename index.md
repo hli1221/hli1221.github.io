@@ -337,6 +337,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/conf/13-conf-oneforall.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>13. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
+      Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu*, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler <br/>
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>), 2025. <br/>
+      [paper][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
    <img src="./images/conf/12-conf-smfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>12. SMFuse: Two-Stage Structural Map Aware Network for Multi-focus Image Fusion</b><br>
