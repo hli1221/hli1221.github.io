@@ -52,7 +52,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/26-journal-ddmc.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/26-journal-ddmc2.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>26. Deep Discriminative Multi-view Clustering</b><br>
       Zhe Chen, Xiao-Jun Wu*, Tianyang Xu, <strong><b>Hui Li</b></strong>, Josef Kittler <br/>
