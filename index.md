@@ -52,6 +52,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/26-journal-ddmc.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>26. Deep Discriminative Multi-view Clustering</b><br>
+      Zhe Chen, Xiao-Jun Wu*, Tianyang Xu, <strong><b>Hui Li</b></strong>, Josef Kittler <br/>
+      IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>, IF: 8.3), 13 February 2025, Early Access. <br/>
+      [<a href="https://doi.org/10.1109/TCSVT.2025.3541928">paper</a>][arxiv][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/25-journal-apmg.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>25. APMG: 3D Molecule Generation Driven by Atomic Chemical Properties</b><br>
