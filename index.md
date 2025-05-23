@@ -52,6 +52,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/27-journal-isfpn.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>27. ISFPN: A medical detection model for ischemic stroke based on feature pyramid network and Swin Transformer</b><br>
+      Zhi Wang, Ao Dong, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
+      Biomedical Signal Processing and Control (IF: 4.9), 17 May 2025, 109: 108064. <br/>
+      [<a href="https://doi.org/10.1016/j.bspc.2025.108064">paper</a>][arxiv][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/26-journal-ddmc2.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>26. Deep Discriminative Multi-view Clustering</b><br>
