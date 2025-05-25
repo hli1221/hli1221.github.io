@@ -57,7 +57,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>27. ISFPN: A medical detection model for ischemic stroke based on feature pyramid network and Swin Transformer</b><br>
       Zhi Wang, Ao Dong, Junli Zhao, Zhenkuan Pan, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
       Biomedical Signal Processing and Control (IF: 4.9), 17 May 2025, 109: 108064. <br/>
-      [<a href="https://doi.org/10.1016/j.bspc.2025.108064">paper</a>][arxiv][code]
+      [<a href="https://doi.org/10.1016/j.bspc.2025.108064">paper</a>][arxiv][<a href="https://github.com/Thanostitan1022/MyModel_2">code</a>]
    </div>
 </div> 
 
