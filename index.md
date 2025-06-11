@@ -52,12 +52,22 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/28-journal-occo.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/29-journal-occo.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>28. OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning</b><br>
+      <b>29. OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning</b><br>
       <strong><b>Hui Li*</b></strong>, Congcong Bian, Zeyang Zhang, Xiaoning Song, Xi Li, Xiao-Jun Wu <br/>
       International Journal of Computer Vision (<b>IJCV</b>, IF: 11.6), 2025, Early accept. <br/>
       [<a href="">paper</a>][arxiv][<a href="">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/28-journal-defender.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>28. Visual complexity guided diffusion defender for video object tracking and recognition</b><br>
+      Shaochuan Zhao, Tianyang Xu, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Josef Kittler <br/>
+      Pattern Recognition (<b>PR</b>, IF: 7.4996), available online 31 May 2025, 111867. <br/>
+      [<a href="https://doi.org/10.1016/j.patcog.2025.111867">paper</a>][arxiv][<a href="https://github.com/DjangoChaogh/VCGDD">code</a>]
    </div>
 </div> 
 
