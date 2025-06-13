@@ -57,7 +57,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>29. OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning</b><br>
       <strong><b>Hui Li*</b></strong>, Congcong Bian, Zeyang Zhang, Xiaoning Song, Xi Li, Xiao-Jun Wu <br/>
       International Journal of Computer Vision (<b>IJCV</b>, IF: 11.6), 2025, Early accept. <br/>
-      [<a href="https://arxiv.org/abs/2503.18635">paper</a>][arxiv][code]
+      [paper][<a href="https://arxiv.org/abs/2503.18635">arxiv</a>][code]
    </div>
 </div> 
 
