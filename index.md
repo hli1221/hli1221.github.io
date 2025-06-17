@@ -97,7 +97,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>25. APMG: 3D Molecule Generation Driven by Atomic Chemical Properties</b><br>
       Yang Hua, Zhenhua Feng, Xiaoning Song*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu, Dong-Jun Yu <br/>
       IEEE/ACM Transactions on Computational Biology and Bioinformatics (<b>TCBB</b>, IF: 3.6), Volume: 21, Issue: 6, Nov.-Dec. 2024. <br/>
-      [<a href="https://doi.org/10.1109/TCBB.2024.3457807">paper</a>][arxiv][code]
+      [<a href="https://ieeexplore.ieee.org/document/10675370">paper</a>][arxiv][code]
    </div>
 </div> 
 
