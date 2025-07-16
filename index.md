@@ -52,6 +52,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/30-journal-s4fusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>30. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
+      Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiao-Jun Wu <br/>
+      IEEE Transactions on Image Processing (<b>TIP</b>, IF: 13.7), Volume: 34, pp. 4161-4175, July, 2025. <br/>
+      [<a href="https://doi.org/10.1109/TIP.2025.3583132">paper</a>][<a href="https://arxiv.org/abs/2405.20881v3">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/29-journal-occo.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>29. OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning</b><br>
