@@ -54,10 +54,30 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="publication media paperhi">
    <img src="./images/journal/30-journal-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>30. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
+      <b>32. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiao-Jun Wu <br/>
       IEEE Transactions on Image Processing (<b>TIP</b>, IF: 13.7), Volume: 34, pp. 4161-4175, July, 2025. <br/>
       [<a href="https://doi.org/10.1109/TIP.2025.3583132">paper</a>][<a href="https://arxiv.org/abs/2405.20881v3">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/31-journal-grformer.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>31. GrFormer: A novel Transformer on Grassmann manifold for infrared and visible image fusion</b><br>
+      Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
+      Information Fusion (<b>INFFUSE</b>, IF: 15.5), Volume: 125, November 2025, January 2026, 103402. <br/>
+      [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/30-journal-agl.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>30. Anchor graph learning with Double Noise Removal for multi-view clustering</b><br>
+      Zhe Chen, Mingzhi Zhu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
+      Neural Networks (IF: 13.7), Volume: 191, November 2025, 107779. <br/>
+      [<a href="https://doi.org/10.1016/j.neunet.2025.107779">paper</a>][arxiv][<a href="https://github.com/chenzhe207/AGLDR">code</a>]
    </div>
 </div> 
 
