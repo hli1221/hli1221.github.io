@@ -76,7 +76,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>30. Anchor graph learning with Double Noise Removal for multi-view clustering</b><br>
       Zhe Chen, Mingzhi Zhu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
-      Neural Networks (IF: 13.7), Volume: 191, November 2025, 107779. <br/>
+      Neural Networks (IF: 7.5), Volume: 191, November 2025, 107779. <br/>
       [<a href="https://doi.org/10.1016/j.neunet.2025.107779">paper</a>][arxiv][<a href="https://github.com/chenzhe207/AGLDR">code</a>]
    </div>
 </div> 
