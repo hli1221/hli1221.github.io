@@ -66,7 +66,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>31. GrFormer: A novel Transformer on Grassmann manifold for infrared and visible image fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
-      Information Fusion (<b>INFFUSE</b>, IF: 15.5), Volume: 125, November 2025, January 2026, 103402. <br/>
+      Information Fusion (<b>InfFus</b>, IF: 15.5), Volume: 125, November 2025, January 2026, 103402. <br/>
       [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][code]
    </div>
 </div> 
