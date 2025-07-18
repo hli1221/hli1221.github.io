@@ -52,7 +52,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/30-journal-s4fusion.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/32-journal-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>32. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiao-Jun Wu <br/>
