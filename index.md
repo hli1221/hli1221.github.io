@@ -123,7 +123,11 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div> 
 
-### 2025
+</div>
+
+### 2024
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/25-journal-apmg.png" height="120" width="200" class="papericon">
@@ -236,6 +240,12 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div>  
 
+</div>
+
+### 2023
+
+<div class="papers-container papers-selected">
+
 <div class="publication media paperhi">
    <img src="./images/journal/15-journal-guidefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
@@ -287,13 +297,18 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div>  
 
+</div>
+
+### 2022
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/9-journal-mote.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>9. I Know How You Move: Explicit Motion Estimation for Human Action Recognition</b><br>
    	Zhongwei Shen, Xiao-Jun Wu*, <strong><b>Hui Li</b></strong>, Tianyang Xu, Cong Wu <br/>
-	   IEEE Transactions on Multimedia (<b>TMM</b>, IF: 9.7), 2022, Early Access.  <br/>
+	   IEEE Transactions on Multimedia (<b>TMM</b>, IF: 9.7), Volume: 27, Issue: 9, pp. 1665 - 1676, October 2022.  <br/>
    	[<a href="https://doi.org/10.1109/TMM.2022.3211423">paper</a>][<a href="https://github.com/hli1221/MOTion-Estimator-MOTE-">code</a>]
    </div>
 </div>  
@@ -321,6 +336,11 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div> 
 
+</div>
+
+### 2021
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/6-journal-rfnnest.png" height="120" width="200" class="papericon">
@@ -344,6 +364,11 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div> 
 
+</div>
+
+### 2020
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/4-journal-nestfuse.png" height="120" width="200" class="papericon">
@@ -368,6 +393,11 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div> 
 
+</div>
+
+### 2019
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/2-journal-zca.png" height="120" width="200" class="papericon">
