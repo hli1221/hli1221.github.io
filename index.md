@@ -49,6 +49,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 ## Journal papers
 
+### 2025
+
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
@@ -120,6 +122,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       [<a href="https://doi.org/10.1109/TCSVT.2025.3541928">paper</a>][arxiv][code]
    </div>
 </div> 
+
+### 2025
 
 <div class="publication media paperhi">
    <img src="./images/journal/25-journal-apmg.png" height="120" width="200" class="papericon">
