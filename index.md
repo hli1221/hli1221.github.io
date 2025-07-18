@@ -428,6 +428,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 ## Conference papers
 
+### 2025
+
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
@@ -439,6 +441,12 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       [paper][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
    </div>
 </div>  
+
+</div>
+
+### 2024
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/conf/12-conf-smfuse.png" height="120" width="200" class="papericon">
@@ -480,6 +488,12 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 </div> 
 
+</div>
+
+### 2023
+
+<div class="papers-container papers-selected">
+
 <div class="publication media paperhi">
    <img src="./images/conf/8-conf-le2fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
@@ -510,6 +524,12 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    	[<a href="https://doi.org/10.1109/MVIPIT60427.2023.00009">paper</a>][<a href="">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
    </div>
 </div>
+
+</div>
+
+### 2017 - 2021
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/conf/5-conf-mscfuse.png" height="120" width="200" class="papericon">
