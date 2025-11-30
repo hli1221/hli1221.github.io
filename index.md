@@ -57,6 +57,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="publication media paperhi">
    <img src="./images/journal/32-journal-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
+      <b>33. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
+      Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
+      International Journal of Computer Vision (<b>IJCV</b>), Published: 05 November 2025. <br/>
+      [<a href="https://doi.org/10.1007/s11263-025-02578-1">paper</a>][arxiv][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/32-journal-s4fusion.png" height="120" width="200" class="papericon">
+   <div class="media-body">
       <b>32. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiao-Jun Wu <br/>
       IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 34, pp. 4161-4175, July, 2025. <br/>
