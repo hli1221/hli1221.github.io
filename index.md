@@ -55,7 +55,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/32-journal-s4fusion.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/33-journal-smlnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>33. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
