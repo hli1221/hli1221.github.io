@@ -2,7 +2,7 @@ I received B.A. degree from School of Internet of Things Engineering at Jiangnan
 
 I am currently an Associate Professor ([home page](https://ai.jiangnan.edu.cn/info/1014/4428.htm)) at the School of Artificial Intelligence and Computer Science and the International Joint Laboratory on Artificial Intelligence of Jiangsu Province, Jiangnan University, Wuxi, China. My research interests include computer vision, multi-modal image fusion, multi-modal super-resolution and multi-modal detection/tracking. 
 
-I have published several scientific papers (8 highly cited papers, 2 hot paper), including IEEE TPAMI, IEEE TIP, IJCV, Information Fusion, CVPR etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023, 2024, 2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
+I have published several scientific papers (8 highly cited papers, 2 hot paper), including IEEE TPAMI, CVPR, NeurIPS, IEEE TIP, IJCV, Information Fusion etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023, 2024, 2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 
 **Current research:**
 + Computer vision  
