@@ -700,8 +700,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 **2025.07 ~ now:** Associate Professor, School of Artificial Intelligence and Computer Science, Jiangnan University, China.  
 **2022.01 ~ 2025.07:** Lecturer, School of Artificial Intelligence and Computer Science, Jiangnan University, China.  
-**2018.09 ~ 2021.12:** Ph.D candidate in Control Science and Engineering in school of IoT, Jiangnan University, China.  
-**2016.09 ~ 2018.06:** Master in Computer science and technology in Jiangnan University, China.  
+**2018.09 ~ 2021.12:** Ph.D candidate in Control Science and Engineering in School of IoT, Jiangnan University, China.  
+**2016.09 ~ 2018.06:** Master in Computer science and technology in School of IoT, Jiangnan University, China.  
 **2015.06 ~ 2016.08:** Software engineer in Nanjing, China.  
 **2011.09 ~ 2015.06:** Bachelor in Computer science and technology in school of IoT, Jiangnan University, China.  
 
