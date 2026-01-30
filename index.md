@@ -455,7 +455,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       [<a href="https://openreview.net/forum?id=wvcYIEaD5X">paper</a>][<a href="https://arxiv.org/abs/2510.26268">arxiv</a>][<a href="https://github.com/lxq-jnu/HCLFuse">code</a>]
    </div>
 
-<div class="publication media paperhi">
+<!-- <div class="publication media paperhi"> -->
    <img src="./images/conf/13-conf-oneforall.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>13. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
