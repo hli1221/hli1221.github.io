@@ -462,7 +462,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <b>13. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
       Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu*, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler <br/>
       IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>), 2025. <br/>
-      [paper][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
+      [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.html">paper</a>][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
    </div>
 </div>  
 
