@@ -454,8 +454,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       The Thirty-ninth Annual Conference on Neural Information Processing Systems (<b>NeurIPS 2025</b>), 2025. <br/>
       [<a href="https://openreview.net/forum?id=wvcYIEaD5X">paper</a>][<a href="https://arxiv.org/abs/2510.26268">arxiv</a>][<a href="https://github.com/lxq-jnu/HCLFuse">code</a>]
    </div>
+</div>
 
-<!-- <div class="publication media paperhi"> -->
+<div class="publication media paperhi">
    <img src="./images/conf/13-conf-oneforall.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>13. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
@@ -479,9 +480,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       The 27th International Conference on Pattern Recognition (<b>ICPR 2024</b>), December 01-05, 2024, Kolkata, India. <br/>
       [<a href="https://doi.org/10.1007/978-3-031-78312-8_1">paper</a>][arxiv][<a href="https://github.com/stywmy/SMFuse">code</a>]
    </div>
-<!-- </div>   -->
+</div>  
 
-<!-- <div class="publication media paperhi"> -->
+<div class="publication media paperhi">
    <img src="./images/conf/11-conf-iffusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>11. IFFusion: Illumination-free Fusion Network for Infrared and Visible Images</b><br>
@@ -489,9 +490,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       The 27th International Conference on Pattern Recognition (<b>ICPR 2024</b>), December 01-05, 2024, Kolkata, India. <br/>
       [<a href="https://doi.org/10.1007/978-3-031-78169-8_4">paper</a>][arxiv][<a href="https://github.com/song-chengcheng/IFFusion">code</a>]
    </div>
-<!-- </div>   -->
+</div>  
 
-<!-- <div class="publication media paperhi"> -->
+<div class="publication media paperhi">
    <img src="./images/conf/10-conf-comofusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>10. CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model</b><br>
@@ -499,9 +500,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       The 7th Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV 2024</b>), October 18-20, 2024, Urumqi, China. <br/>
       [<a href="https://doi.org/10.1007/978-981-97-8685-5_38">paper</a>][<a href="https://arxiv.org/abs/2405.20764">arxiv</a>][<a href="https://github.com/ZhimingMeng/CoMoFusion">code</a>]
    </div>
-<!-- </div>   -->
+</div>  
 
-<!-- <div class="publication media paperhi"> -->
+<div class="publication media paperhi">
    <img src="./images/conf/9-conf-tandemfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>9. TandemFuse: An Intra-and Inter-Modal Fusion Strategy for RGB-T Tracking</b><br>
@@ -509,7 +510,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       The 2024 2nd Asia Conference on Computer Vision, Image Processing and Pattern Recognition (<b>CVIPPR 2024</b>), Apirl 26-28, 2024, Xiamen, China. <br/>
       [<a href="https://doi.org/10.1145/3663976.3663996">paper</a>][arxiv][code]
    </div>
-<!-- </div>  -->
+</div> 
 
 </div>
 
