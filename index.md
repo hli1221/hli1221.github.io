@@ -55,14 +55,44 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/34-journal-crtfs.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/38-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>34. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
+      <b>38. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
+      Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
+      [paper][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/37-journal-crtfs.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>37. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Muhammad, Josef Kittler <br/>
       International Journal of Computer Vision (<b>IJCV</b>), Volume 134, article number 227, (2026). <br/>
       [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
    </div>
-</div> 
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/journal/36-journal-tgmif.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>36. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
+      Yu Zhu, Liqiang Song, Guodong Wang, Junli Zhao, <strong><b>Hui Li</b></strong>, Yi Li <br/>
+      Signal Processing, Volume 245, August 2026, 110590. <br/>
+      [<a href="https://doi.org/10.1016/j.sigpro.2026.110590">paper</a>][arxiv][code]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/journal/35-journal-buseref.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>35. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
+      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu, Congcong Bian, Josef Kittler <br/>
+      ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), Volume 22, Issue 1, Pages 1-19. <br/>
+      [<a href="https://doi.org/10.1145/3773769">paper</a>][arxiv][<a href="https://github.com/Yukarizz/BusReF">code</a>]
+   </div>
+</div>
 
 </div>
 
@@ -72,9 +102,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/33-journal-smlnet.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/34-journal-smlnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>33. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
+      <b>34. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
       International Journal of Computer Vision (<b>IJCV</b>), Volume 133, pages 8642–8663, (2025). <br/>
       [<a href="https://doi.org/10.1007/s11263-025-02578-1">paper</a>][arxiv][code]
@@ -82,14 +112,24 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div> 
 
 <div class="publication media paperhi">
-   <img src="./images/journal/32-journal-s4fusion.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/33-journal-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>32. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
+      <b>33. S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</b><br>
       Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiao-Jun Wu <br/>
       IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 34, pp. 4161-4175, July, 2025. <br/>
       [<a href="https://doi.org/10.1109/TIP.2025.3583132">paper</a>][<a href="https://arxiv.org/abs/2405.20881v3">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
    </div>
 </div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/32-journal-profood.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>32. ProFood: Progressive RGB-D fusion network for food detection in complex diet scenes</b><br>
+      Guanhua Qiao, Liming Nong, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu, <strong><b>Hui Li</b></strong> <br/>
+      Journal of Food Composition and Analysis, Volume 149, January 2026, 108773. <br/>
+      [<a href="https://doi.org/10.1016/j.jfca.2025.108773">paper</a>][arxiv][code]
+   </div>
+</div>
 
 <div class="publication media paperhi">
    <img src="./images/journal/31-journal-grformer.png" height="120" width="200" class="papericon">
@@ -126,7 +166,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>28. Visual complexity guided diffusion defender for video object tracking and recognition</b><br>
       Shaochuan Zhao, Tianyang Xu, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Josef Kittler <br/>
-      Pattern Recognition (<b>PR</b>), available online 31 May 2025, 111867. <br/>
+      Pattern Recognition (<b>PR</b>), Volume 169, January 2026, 111867. <br/>
       [<a href="https://doi.org/10.1016/j.patcog.2025.111867">paper</a>][arxiv][<a href="https://github.com/DjangoChaogh/VCGDD">code</a>]
    </div>
 </div> 
