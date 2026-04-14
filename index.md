@@ -50,7 +50,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 ## Journal papers
 
-### 2025
+### 2026
 
 <div class="papers-container papers-selected">
 
@@ -63,6 +63,13 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
    </div>
 </div> 
+
+</div>
+
+
+### 2025
+
+<div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
    <img src="./images/journal/33-journal-smlnet.png" height="120" width="200" class="papericon">
@@ -89,7 +96,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>31. GrFormer: A novel Transformer on Grassmann manifold for infrared and visible image fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
-      Information Fusion (<b>InfFus</b>), Volume: 125, November 2025, January 2026, 103402. <br/>
+      Information Fusion (<b>InfFus</b>), Volume: 125, November 2025, 103402. <br/>
       [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][code]
    </div>
 </div> 
@@ -448,6 +455,23 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 ---
 ## Conference papers
+
+### 2025
+
+<div class="papers-container papers-selected">
+
+   <div class="publication media paperhi">
+   <img src="./images/conf/17-conf-fusionregister.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>17. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
+      Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
+      [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
+   </div>
+</div> 
+
+
+</div>
 
 ### 2025
 
