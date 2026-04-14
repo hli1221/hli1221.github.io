@@ -55,11 +55,21 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
+   <img src="./images/journal/34-journal-crtfs.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>34. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
+      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Muhammad, Josef Kittler <br/>
+      International Journal of Computer Vision (<b>IJCV</b>), Volume 134, article number 227, (2026). <br/>
+      [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
+   </div>
+</div> 
+
+<div class="publication media paperhi">
    <img src="./images/journal/33-journal-smlnet.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>33. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
-      International Journal of Computer Vision (<b>IJCV</b>), Published: 05 November 2025. <br/>
+      International Journal of Computer Vision (<b>IJCV</b>), Volume 133, pages 8642–8663, (2025). <br/>
       [<a href="https://doi.org/10.1007/s11263-025-02578-1">paper</a>][arxiv][code]
    </div>
 </div> 
