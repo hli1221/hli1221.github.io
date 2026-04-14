@@ -456,20 +456,39 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 ---
 ## Conference papers
 
-### 2025
+### 2026
 
 <div class="papers-container papers-selected">
 
    <div class="publication media paperhi">
-   <img src="./images/conf/17-conf-fusionregister.png" height="120" width="200" class="papericon">
-   <div class="media-body">
-      <b>17. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
-      Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
-      IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
-      [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
-   </div>
-</div> 
+      <img src="./images/conf/17-conf-fusionregister.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>17. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
+         Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
+         IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
+         [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
+      </div>
+   </div> 
 
+   <div class="publication media paperhi">
+      <img src="./images/conf/16-conf-dts2.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>16. DTS2: A Decoupled Two-Stage Semantic Alignment Framework for Nighttime Infrared and Visible Image Fusion</b><br>
+         Ziyang Liu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
+         IEEE International Conference on Multimedia and Expo 2026 (<b>ICME 2026</b>), 2026. <br/>
+         [paper][arxiv][code]
+      </div>
+   </div>
+
+   <div class="publication media paperhi">
+      <img src="./images/conf/15-conf-cmdiff.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>15. CMDiff: Cross Modality Guided Thermal Super-Resolution with Diffusion Models</b><br>
+         Jiangcong Xu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
+         IEEE World Congress on Computational Intelligence 2026 (<b>IEEE/INNS IJCNN 2026</b>), 2026. <br/>
+         [paper][arxiv][code]
+      </div>
+   </div>
 
 </div>
 
