@@ -37,7 +37,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 - [Haolong Ma](https://github.com/zipper112)  
 - [Congcong Bian](https://github.com/bociic)  
 - [Zhiming Meng](https://github.com/ZhimingMeng)  
-- Jiancong Xu  
+- [Jiancong Xu](https://github.com/xjcong404)  
 - Sheng Huang  
 - Ziyang Liu  
 - Zhijia Din  
@@ -546,7 +546,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
          <b>16. CMDiff: Cross Modality Guided Thermal Super-Resolution with Diffusion Models</b><br>
          Jiangcong Xu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
          IEEE World Congress on Computational Intelligence 2026 (<b>IEEE/INNS IJCNN 2026</b>), 2026. <br/>
-         [paper][arxiv][code]
+         [paper][arxiv][<a href="https://github.com/xjcong404/CMDiff">code</a>]
       </div>
    </div>
 
