@@ -58,7 +58,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/40-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>40. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
-      Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
+      Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
       [paper][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
    </div>
@@ -78,7 +78,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/38-journal-fcl.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>38. Full-combination Contrastive Learning for Multi-view Clustering</b><br>
-      Cheng Ma, Zhe Chen*, Heng Liu, Hui Li, Tianyang Xu <br/>
+      Cheng Ma, Zhe Chen*, Heng Liu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
       Pattern Recognition (PR). Volume 174, June 2026, 112951. <br/>
       [<a href="https://doi.org/10.1016/j.patcog.2025.112951">paper</a>][arxiv][<a href="https://github.com/chenzhe207/FCMVC">code</a>]
    </div>
@@ -88,7 +88,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/37-journal-tgmif.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>37. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
-      Yu Zhu, Liqiang Song, Guodong Wang, Junli Zhao, <strong><b>Hui Li</b></strong>, Yi Li <br/>
+      Yu Zhu, Liqiang Song, Guodong Wang, Junli Zhao, <strong><b>Hui Li</b></strong>, Yi Li*<br/>
       Signal Processing, Volume 245, August 2026, 110590. <br/>
       [<a href="https://doi.org/10.1016/j.sigpro.2026.110590">paper</a>][arxiv][code]
    </div>
@@ -98,7 +98,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/36-journal-buseref.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>36. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
-      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu, Congcong Bian, Josef Kittler <br/>
+      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Congcong Bian, Josef Kittler <br/>
       ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), Volume 22, Issue 1, Pages 1-19. <br/>
       [<a href="https://doi.org/10.1145/3773769">paper</a>][arxiv][<a href="https://github.com/Yukarizz/BusReF">code</a>]
    </div>
@@ -115,7 +115,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/35-journal-refinefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>35. RefineFuse: an end-to-end network for multi-scale refinement fusion of multi-modality images</b><br>
-      Chengcheng Song, Hui Li, Tianyang Xu, Xiao-Jun Wu, Josef Kittler <br/>
+      Chengcheng Song, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Josef Kittler <br/>
       Visual Intelligence. Volume 3, article number 16, (2025). <br/>
       [<a href="https://doi.org/10.1007/s44267-025-00087-w">paper</a>][arxiv][code]
    </div>
@@ -145,7 +145,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/32-journal-profood.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>32. ProFood: Progressive RGB-D fusion network for food detection in complex diet scenes</b><br>
-      Guanhua Qiao, Liming Nong, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu, <strong><b>Hui Li</b></strong> <br/>
+      Guanhua Qiao, Liming Nong, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu*, <strong><b>Hui Li</b></strong> <br/>
       Journal of Food Composition and Analysis, Volume 149, January 2026, 108773. <br/>
       [<a href="https://doi.org/10.1016/j.jfca.2025.108773">paper</a>][arxiv][code]
    </div>
@@ -155,7 +155,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/31-journal-grformer.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>31. GrFormer: A novel Transformer on Grassmann manifold for infrared and visible image fusion</b><br>
-      Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
+      Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
       Information Fusion (<b>InfFus</b>), Volume: 125, November 2025, 103402. <br/>
       [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][code]
    </div>
@@ -165,7 +165,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/journal/30-journal-agl.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>30. Anchor graph learning with Double Noise Removal for multi-view clustering</b><br>
-      Zhe Chen, Mingzhi Zhu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
+      Zhe Chen*, Mingzhi Zhu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
       Neural Networks, Volume: 191, November 2025, 107779. <br/>
       [<a href="https://doi.org/10.1016/j.neunet.2025.107779">paper</a>][arxiv][<a href="https://github.com/chenzhe207/AGLDR">code</a>]
    </div>
