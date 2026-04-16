@@ -55,9 +55,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/38-journal-evanet.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/40-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>38. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
+      <b>40. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
       [paper][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
@@ -65,9 +65,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div> 
 
 <div class="publication media paperhi">
-   <img src="./images/journal/37-journal-crtfs.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/39-journal-crtfs.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>37. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
+      <b>39. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Muhammad, Josef Kittler <br/>
       International Journal of Computer Vision (<b>IJCV</b>), Volume 134, article number 227, (2026). <br/>
       [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
@@ -75,9 +75,19 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/journal/36-journal-tgmif.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/38-journal-fcl.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>36. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
+      <b>38. Full-combination Contrastive Learning for Multi-view Clustering</b><br>
+      Cheng Ma, Zhe Chen*, Heng Liu, Hui Li, Tianyang Xu <br/>
+      Pattern Recognition (PR). Volume 174, June 2026, 112951. <br/>
+      [<a href="https://doi.org/10.1016/j.patcog.2025.112951">paper</a>][arxiv][<a href="https://github.com/chenzhe207/FCMVC">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <img src="./images/journal/37-journal-tgmif.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>37. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
       Yu Zhu, Liqiang Song, Guodong Wang, Junli Zhao, <strong><b>Hui Li</b></strong>, Yi Li <br/>
       Signal Processing, Volume 245, August 2026, 110590. <br/>
       [<a href="https://doi.org/10.1016/j.sigpro.2026.110590">paper</a>][arxiv][code]
@@ -85,9 +95,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/journal/35-journal-buseref.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/36-journal-buseref.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>35. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
+      <b>36. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu, Congcong Bian, Josef Kittler <br/>
       ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), Volume 22, Issue 1, Pages 1-19. <br/>
       [<a href="https://doi.org/10.1145/3773769">paper</a>][arxiv][<a href="https://github.com/Yukarizz/BusReF">code</a>]
@@ -100,6 +110,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 ### 2025
 
 <div class="papers-container papers-selected">
+
+<div class="publication media paperhi">
+   <img src="./images/journal/35-journal-refinefuse.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>35. RefineFuse: an end-to-end network for multi-scale refinement fusion of multi-modality images</b><br>
+      Chengcheng Song, Hui Li, Tianyang Xu, Xiao-Jun Wu, Josef Kittler <br/>
+      Visual Intelligence. Volume 3, article number 16, (2025). <br/>
+      [<a href="https://doi.org/10.1007/s44267-025-00087-w">paper</a>][arxiv][code]
+   </div>
+</div>
 
 <div class="publication media paperhi">
    <img src="./images/journal/34-journal-smlnet.png" height="120" width="200" class="papericon">
