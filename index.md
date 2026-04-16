@@ -501,9 +501,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
    <div class="publication media paperhi">
-      <img src="./images/conf/17-conf-fusionregister.png" height="120" width="200" class="papericon">
+      <img src="./images/conf/18-conf-fusionregister.png" height="120" width="200" class="papericon">
       <div class="media-body">
-         <b>17. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
+         <b>18. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
          Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
          IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
          [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
@@ -511,9 +511,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div> 
 
    <div class="publication media paperhi">
-      <img src="./images/conf/16-conf-dts2.png" height="120" width="200" class="papericon">
+      <img src="./images/conf/17-conf-dts2.png" height="120" width="200" class="papericon">
       <div class="media-body">
-         <b>16. DTS2: A Decoupled Two-Stage Semantic Alignment Framework for Nighttime Infrared and Visible Image Fusion</b><br>
+         <b>17. DTS2: A Decoupled Two-Stage Semantic Alignment Framework for Nighttime Infrared and Visible Image Fusion</b><br>
          Ziyang Liu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
          IEEE International Conference on Multimedia and Expo 2026 (<b>ICME 2026</b>), 2026. <br/>
          [paper][arxiv][code]
@@ -521,9 +521,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div>
 
    <div class="publication media paperhi">
-      <img src="./images/conf/15-conf-cmdiff.png" height="120" width="200" class="papericon">
+      <img src="./images/conf/16-conf-cmdiff.png" height="120" width="200" class="papericon">
       <div class="media-body">
-         <b>15. CMDiff: Cross Modality Guided Thermal Super-Resolution with Diffusion Models</b><br>
+         <b>16. CMDiff: Cross Modality Guided Thermal Super-Resolution with Diffusion Models</b><br>
          Jiangcong Xu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
          IEEE World Congress on Computational Intelligence 2026 (<b>IEEE/INNS IJCNN 2026</b>), 2026. <br/>
          [paper][arxiv][code]
@@ -537,9 +537,9 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/conf/14-conf-revisiting.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/15-conf-revisiting.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>14. Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws</b><br>
+      <b>15. Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws</b><br>
       Lin Guo, Xiaoqing Luo, Wei Xie, Zhancheng Zhang, <strong><b>Hui Li</b></strong>, Rui Wang, Zhenhua Feng, Xiaoning Song <br/>
       The Thirty-ninth Annual Conference on Neural Information Processing Systems (<b>NeurIPS 2025</b>), 2025. <br/>
       [<a href="https://openreview.net/forum?id=wvcYIEaD5X">paper</a>][<a href="https://arxiv.org/abs/2510.26268">arxiv</a>][<a href="https://github.com/lxq-jnu/HCLFuse">code</a>]
@@ -547,12 +547,22 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 </div>
 
 <div class="publication media paperhi">
-   <img src="./images/conf/13-conf-oneforall.png" height="120" width="200" class="papericon">
+   <img src="./images/conf/14-conf-oneforall.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>13. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
+      <b>14. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
       Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu*, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler <br/>
       IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>), 2025. <br/>
       [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.html">paper</a>][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
+   </div>
+</div>  
+
+<div class="publication media paperhi">
+   <img src="./images/conf/13-conf-mambaguard.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>13. MambaGuard: A CLIP-Mamba Approach for OOD Generated Image Detection</b><br>
+      Xinchang Wang, Yuechen Zhang, Zihao Guo, Wenyao Qiu, Chunyang Cheng, <strong><b>Hui Li*</b></strong> <br/>
+      Chinese Conference on Pattern Recognition and Computer Vision (<b>PRCV 2025</b>). 02 January 2026, Lecture Notes in Computer Science, vol 16275. Springer, Singapore. . <br/>
+      [<a href="hhttps://doi.org/10.1007/978-981-95-5699-1_25">paper</a>][arxiv][<a href="https://github.com/RainNight11/MambaGuard">code</a>]
    </div>
 </div>  
 
