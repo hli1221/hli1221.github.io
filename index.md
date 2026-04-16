@@ -79,7 +79,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>38. Full-combination Contrastive Learning for Multi-view Clustering</b><br>
       Cheng Ma, Zhe Chen*, Heng Liu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
-      Pattern Recognition (PR). Volume 174, June 2026, 112951. <br/>
+      Pattern Recognition (<b>PR</b>). Volume 174, June 2026, 112951. <br/>
       [<a href="https://doi.org/10.1016/j.patcog.2025.112951">paper</a>][arxiv][<a href="https://github.com/chenzhe207/FCMVC">code</a>]
    </div>
 </div>
