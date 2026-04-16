@@ -705,7 +705,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 <div class="papers-container papers-selected">
 
-<div class="publication media paperhi">
+<!-- <div class="publication media paperhi">
    <img src="./images/preprint/4-preprint-s4fusion.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>3. S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion</b><br>
@@ -713,7 +713,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       arXiv 2024 <br/>
       [<a href="https://arxiv.org/abs/2405.20881">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
    </div>
-</div>  
+</div>   -->
 
 <div class="publication media paperhi">
    <img src="./images/preprint/2-preprint-lrr.png" height="120" width="200" class="papericon">
@@ -721,7 +721,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
 	   arXiv 2017 <br/>
-      (<font color=red>Google citation: 208</font>) <br/>
+      (<font color=red>Google citation: 258</font>) <br/>
    	[<a href="https://arxiv.org/abs/1804.08992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_Infrared_visible_latlrr">code</a>]
    </div>
 </div>  
