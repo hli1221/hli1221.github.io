@@ -99,7 +99,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>36. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Congcong Bian, Josef Kittler <br/>
-      ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), Volume 22, Issue 1, Pages 1-19. <br/>
+      ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), 2026, Volume 22, Issue 1, Pages 1-19. <br/>
       [<a href="https://doi.org/10.1145/3773769">paper</a>][arxiv][<a href="https://github.com/Yukarizz/BusReF">code</a>]
    </div>
 </div>
