@@ -531,7 +531,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    </div> 
 
    <div class="publication media paperhi">
-      <img src="./images/conf/18-conf-bsa.png" height="120" width="200" class="papericon">
+      <img src="./images/conf/18-conf-bsp.png" height="120" width="200" class="papericon">
       <div class="media-body">
          <b>18. Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion</b><br>
          Yanglin Deng, Tianyang Xu*, Chunyang Cheng, <strong><b>Hui Li</b></strong>, Xiao-jun Wu, Josef Kittler <br/>
