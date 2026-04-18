@@ -521,12 +521,22 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
    <div class="publication media paperhi">
-      <img src="./images/conf/18-conf-fusionregister.png" height="120" width="200" class="papericon">
+      <img src="./images/conf/19-conf-fusionregister.png" height="120" width="200" class="papericon">
       <div class="media-body">
-         <b>18. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
+         <b>19. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
          Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
          IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
          [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
+      </div>
+   </div> 
+
+   <div class="publication media paperhi">
+      <img src="./images/conf/18-conf-bsa.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>18. Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion</b><br>
+         Yanglin Deng, Tianyang Xu*, Chunyang Cheng, <strong><b>Hui Li</b></strong>, Xiao-jun Wu, Josef Kittler <br/>
+         IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026. <br/>
+         [paper][<a href="https://arxiv.org/abs/2603.21820">arxiv</a>][<a href="https://github.com/yanglinDeng/IVIF unpair">code</a>]
       </div>
    </div> 
 
