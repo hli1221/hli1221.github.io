@@ -69,7 +69,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>39. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Muhammad, Josef Kittler <br/>
-      International Journal of Computer Vision (<b>IJCV</b>), Volume 134, article number 227, (2026). <br/>
+      International Journal of Computer Vision (<b>IJCV</b>), Volume 134 (5), article number 227, (2026). <br/>
       [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
    </div>
 </div>
