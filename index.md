@@ -819,7 +819,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/contest/contest-vot2020.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Eighth Visual Object Tracking VOT2020 Challenge Results</b><br>
-   	<strong><b>Hui Li</b></strong>, Wu Xiao-Jun, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li <br/>
+   	<strong><b>Hui Li</b></strong>, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler  <br/>
 	  	VOT2020 RGB thermal and infrared subchallenge (<b>DFAT</b>, <font color=red>The winning tracker award</font>) <br/>
    	[<a href="https://www.votchallenge.net/vot2020/">home page</a>][<a href="http://prints.vicos.si/publications/384">VOT report</a>][<a href="https://github.com/Zhangyong-Tang/DFAT">code</a>]
    </div>
@@ -829,7 +829,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <img src="./images/contest/contest-vot2019.png" height="120" width="80" class="papericon-contest">
    <div class="media-body">
 	   <b>The Seventh Visual Object Tracking VOT2019 Challenge Results</b><br>
-   	<strong><b>Hui Li</b></strong>, Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler <br/>
+      <strong><b>Hui Li</b></strong>, Wu Xiao-Jun, Josef Kittler, Tianyang Xu, Xuefeng Zhu, Yunkun Li <br/>
 	  	VOT2019 RGB thermal and infrared subchallenge (<b>FSRPN, 4th in public dataset</b>)  <br/>
    	[<a href="http://www.votchallenge.net/vot2019/index.html">home page</a>][<a href="http://prints.vicos.si/publications/375">VOT report</a>][<a href="https://github.com/hli1221/rgbt-tracking-fsrpn">code</a>]
    </div>
