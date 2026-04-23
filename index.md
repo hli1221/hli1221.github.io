@@ -46,6 +46,12 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 ---
+# News
+
+[EvaJudge](http://www.evanet.online:5001/), a converged online evaluation platform based on our TPAMI work, is now available. It provides a unified evaluation environment and a public leaderboard mechanism, supporting efficient evaluation of methods.  
+
+
+---
 # Publications
 
 ## Journal papers
