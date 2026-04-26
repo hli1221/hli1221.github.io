@@ -61,14 +61,24 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="./images/journal/40-journal-evanet.png" height="120" width="200" class="papericon">
+   <img src="./images/journal/41-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>40. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
+      <b>41. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
       [paper][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
    </div>
 </div> 
+
+<div class="publication media paperhi">
+   <img src="./images/journal/40-journal-depthn.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>40. Depth-Nutrition: A Novel Food Nutrition Prediction Framework Guided by Deconstruction of Physical Features</b><br>
+      Guanhua Qiao, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu*, <strong><b>Hui Li*</b></strong>, Xiaojun Wu<br/>
+      IEEE Transactions on Multimedia (<b>TMM</b>), 2026. <br/>
+      [<a href="https://doi.org/10.1109/TMM.2026.3688390">paper</a>][arxiv][code]
+   </div>
+</div>
 
 <div class="publication media paperhi">
    <img src="./images/journal/39-journal-crtfs.png" height="120" width="200" class="papericon">
