@@ -75,7 +75,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
    <div class="media-body">
       <b>40. Depth-Nutrition: A Novel Food Nutrition Prediction Framework Guided by Deconstruction of Physical Features</b><br>
       Guanhua Qiao, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu*, <strong><b>Hui Li*</b></strong>, Xiaojun Wu<br/>
-      IEEE Transactions on Multimedia (<b>TMM</b>), 2026. <br/>
+      IEEE Transactions on Multimedia (<b>TMM</b>), 29 April, 2026. <br/>
       [<a href="https://doi.org/10.1109/TMM.2026.3688390">paper</a>][arxiv][code]
    </div>
 </div>
