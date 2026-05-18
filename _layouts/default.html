@@ -15,7 +15,7 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
-  <body>
+  <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
