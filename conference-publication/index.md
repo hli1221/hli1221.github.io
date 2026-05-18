@@ -6,8 +6,6 @@ permalink: /conference-publication/
 
 [Back to Home]({{ site.baseurl }}/)
 
-## Conference papers
-
 ### 2026
 
 <div class="papers-container papers-selected">
