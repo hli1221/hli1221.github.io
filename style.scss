@@ -332,6 +332,43 @@ margin-left:5px;
 margin-bottom:5px;
 }
 
+.publication-navigation {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0 30px;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.publication-navigation-item {
+  border: 1px solid $lightGray;
+  border-radius: 6px;
+  color: $darkGray;
+  display: block;
+  padding: 16px 18px;
+
+  &:hover,
+  &:active {
+    border-color: $blue;
+  }
+}
+
+.publication-navigation-title {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.publication-navigation-note {
+  color: $gray;
+  display: block;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
 .papers-selected h5, .papers-selected h4 { display : none; }
 .papers-selected .publication { display : none; }
 .paperhi-only { display : none; }
