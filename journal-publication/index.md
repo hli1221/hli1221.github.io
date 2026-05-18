@@ -6,8 +6,6 @@ permalink: /journal-publication/
 
 [Back to Home]({{ site.baseurl }}/)
 
-## Journal papers
-
 ### 2026
 
 <div class="papers-container papers-selected">
