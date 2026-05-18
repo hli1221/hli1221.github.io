@@ -1,0 +1,14 @@
+{% assign citation_count = nil %}
+{% assign citation_group = site.data.google_scholar_citations[include.type] %}
+{% if citation_group %}
+  {% assign citation_key = include.number | append: "" %}
+  {% assign citation_count = citation_group[citation_key] %}
+{% endif %}
+<span class="google-scholar-citation">
+  <a href="https://scholar.google.com/citations?user={{ site.data.google_scholar_citations.scholar_id }}&amp;hl=en">Google Scholar citations</a>:
+  {% if citation_count %}
+    {{ citation_count }}
+  {% else %}
+    --
+  {% endif %}
+</span><br/>
