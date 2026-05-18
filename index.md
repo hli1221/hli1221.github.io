@@ -63,6 +63,8 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <span class="publication-navigation-title">Journal Publication</span>
       <span class="publication-navigation-note">View the journal paper list</span>
    </a>
+
+   
    <a class="publication-navigation-item" href="{{ site.baseurl }}/conference-publication/">
       <span class="publication-navigation-title">Conference Publication</span>
       <span class="publication-navigation-note">View the conference paper list</span>
