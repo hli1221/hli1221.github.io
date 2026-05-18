@@ -58,16 +58,25 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 ---
 # Publications
 
+{% assign journal_publication_count = 0 %}
+{% assign conference_publication_count = 0 %}
+{% for site_page in site.pages %}
+   {% if site_page.path == "journal-publication/index.md" %}
+      {% assign journal_publication_count = site_page.content | split: 'class="publication media paperhi"' | size | minus: 1 %}
+   {% endif %}
+   {% if site_page.path == "conference-publication/index.md" %}
+      {% assign conference_publication_count = site_page.content | split: 'class="publication media paperhi"' | size | minus: 1 %}
+   {% endif %}
+{% endfor %}
+
 <div class="publication-navigation">
    <a class="publication-navigation-item" href="{{ site.baseurl }}/journal-publication/">
-      <span class="publication-navigation-title">Journal Publication</span>
-      <span class="publication-navigation-note">View the journal paper list</span>
+      <span class="publication-navigation-title">Journal list</span>
+      <span class="publication-navigation-count">{{ journal_publication_count }} publications</span>
    </a>
-
-   
    <a class="publication-navigation-item" href="{{ site.baseurl }}/conference-publication/">
-      <span class="publication-navigation-title">Conference Publication</span>
-      <span class="publication-navigation-note">View the conference paper list</span>
+      <span class="publication-navigation-title">Conference list</span>
+      <span class="publication-navigation-count">{{ conference_publication_count }} publications</span>
    </a>
 </div>
 
@@ -183,7 +192,6 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 Associate Editor: Springer Nature (SN) Computer Science  
 Reviewer: IEEE TPAMI, IJCV, IEEE TIP, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, Information Fusion ...  
-
 
 
 
