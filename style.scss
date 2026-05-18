@@ -340,23 +340,15 @@ margin-bottom:5px;
 }
 
 .publication-navigation-item {
-  align-items: center;
   border: 1px solid $lightGray;
   border-radius: 6px;
   color: $darkGray;
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
+  display: block;
   padding: 16px 18px;
 
   &:hover,
   &:active {
     border-color: $blue;
-  }
-
-  @include mobile {
-    align-items: flex-start;
-    flex-direction: column;
   }
 }
 
@@ -370,7 +362,7 @@ margin-bottom:5px;
   color: $gray;
   display: block;
   font-size: 15px;
-  white-space: nowrap;
+  margin-top: 5px;
 }
 
 .papers-selected h5, .papers-selected h4 { display : none; }
