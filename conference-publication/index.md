@@ -11,6 +11,26 @@ permalink: /conference-publication/
 <div class="papers-container papers-selected">
 
    <div class="publication media paperhi">
+      <img src="{{ site.baseurl }}/images/conf/21-conf-radet.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>21. RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry</b><br>
+         Xinchang Wang, Yunhao Chen, Yuechen Zhang, Congcong Bian, Zihao Guo, Xingjun Ma, <strong><b>Hui Li*</b></strong> <br/>
+         Forty-third International Conference on Machine Learning (<b>ICML 2026</b>), 2026. <br/>
+         [paper][<a href="https://arxiv.org/abs/2603.01544">arxiv</a>][<a href="https://github.com/dongdongunique/RA-Det">code</a>]
+      </div>
+   </div> 
+
+   <div class="publication media paperhi">
+      <img src="{{ site.baseurl }}/images/conf/20-conf-textdriven.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>20. Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space</b><br>
+         Huan Kang, <strong><b>Hui Li*</b></strong>, Tianyang Xu, Tao Zhou, Xiaojun Wu*, Josef Kittler <br/>
+         Forty-third International Conference on Machine Learning (<b>ICML 2026</b>), 2026. <br/>
+         [paper][arxiv][code]
+      </div>
+   </div> 
+
+   <div class="publication media paperhi">
       <img src="{{ site.baseurl }}/images/conf/19-conf-fusionregister.png" height="120" width="200" class="papericon">
       <div class="media-body">
          <b>19. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>

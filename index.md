@@ -56,7 +56,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 [EvaJudge](http://www.evanet.online:5001/), a converged online image fusion evaluation platform based on our TPAMI work (**EvaNet**), is now available. **It provides a unified evaluation environment and a public leaderboard mechanism, supporting efficient evaluation of image fusion methods**.  
 
 - **2026.04:** Two papers led by Huan Kang and Xinchang Wang were accepted by ICML 2026.
-- **2026.03:** FusionRegister, proposed by Congcong Bian, was accepted by CVPR 2026.
+- **2026.03:** Two papers led by Congcong Bian and Yanglin Deng were accepted by CVPR 2026.
 
 
 ---
