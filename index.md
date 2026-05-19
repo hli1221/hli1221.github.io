@@ -44,7 +44,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 - [Zhiming Meng](https://github.com/ZhimingMeng)  
 - [Jiancong Xu](https://github.com/xjcong404)  
 - Sheng Huang  
-- Ziyang Liu  
+- [Ziyang Liu](https://github.com/Vegetvigbird)  
 - Zhijia Din  
 - Jingwen Tan  
 - Zhenpeng Gao

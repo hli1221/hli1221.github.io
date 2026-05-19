@@ -56,7 +56,7 @@ permalink: /conference-publication/
          <b>17. DTS2: A Decoupled Two-Stage Semantic Alignment Framework for Nighttime Infrared and Visible Image Fusion</b><br>
          Ziyang Liu, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Zhongwei Shen, Xiaoqing Luo, Gulimila Kezierbieke, Xiaoning Song, Xiaojun Wu <br/>
          IEEE International Conference on Multimedia and Expo 2026 (<b>ICME 2026</b>), 2026. <br/>
-         [paper][arxiv][code]
+         [paper][arxiv][<a href="https://github.com/Vegetvigbird/DTS2.">code</a>]
       </div>
    </div>
 
