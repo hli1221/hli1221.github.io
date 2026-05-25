@@ -87,13 +87,13 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <span class="publication-navigation-title">Conference list</span>
       <span class="publication-navigation-count">{{ conference_publication_count }} publications</span>
    </a>
-   <a class="publication-navigation-item" href="{{ site.baseurl }}/preprint/">
-      <span class="publication-navigation-title">Preprint list</span>
-      <span class="publication-navigation-count">{{ preprint_count }} preprints</span>
-   </a>
    <a class="publication-navigation-item" href="{{ site.baseurl }}/contest/">
       <span class="publication-navigation-title">Contest list</span>
       <span class="publication-navigation-count">{{ contest_count }} contests</span>
+   </a>
+   <a class="publication-navigation-item" href="{{ site.baseurl }}/preprint/">
+      <span class="publication-navigation-title">Preprint list</span>
+      <span class="publication-navigation-count">{{ preprint_count }} preprints</span>
    </a>
 </div>
 	
