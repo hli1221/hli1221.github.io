@@ -1,4 +1,3 @@
-
 ---
 layout: default
 body_class: home-page
@@ -60,14 +59,16 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 
 ---
-# Publications
-
 {% assign journal_publication_count = 0 %}
 {% assign conference_publication_count = 0 %}
 {% assign contest_count = 0 %}
+{% assign preprint_count = 0 %}
 {% for site_page in site.pages %}
    {% if site_page.path == "journal-publication/index.md" %}
       {% assign journal_publication_count = site_page.content | split: 'class="publication media paperhi"' | size | minus: 1 %}
+   {% endif %}
+   {% if site_page.path == "preprint/index.md" %}
+      {% assign preprint_count = site_page.content | split: 'class="publication media paperhi"' | size | minus: 1 %}
    {% endif %}
    {% if site_page.path == "contest/index.md" %}
       {% assign contest_count = site_page.content | split: 'class="publication media paperhi"' | size | minus: 1 %}
@@ -86,48 +87,14 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
       <span class="publication-navigation-title">Conference list</span>
       <span class="publication-navigation-count">{{ conference_publication_count }} publications</span>
    </a>
+   <a class="publication-navigation-item" href="{{ site.baseurl }}/preprint/">
+      <span class="publication-navigation-title">Preprint list</span>
+      <span class="publication-navigation-count">{{ preprint_count }} preprints</span>
+   </a>
    <a class="publication-navigation-item" href="{{ site.baseurl }}/contest/">
       <span class="publication-navigation-title">Contest list</span>
       <span class="publication-navigation-count">{{ contest_count }} contests</span>
    </a>
-</div>
-
-# Preprint
-
-<div class="papers-container papers-selected">
-
-<!-- <div class="publication media paperhi">
-   <img src="./images/preprint/4-preprint-s4fusion.png" height="120" width="200" class="papericon">
-   <div class="media-body">
-      <b>3. S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion</b><br>
-      Haolong Ma, <strong><b>Hui Li*</b></strong>, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu <br/>
-      arXiv 2024 <br/>
-      [<a href="https://arxiv.org/abs/2405.20881">arxiv</a>][<a href="https://github.com/zipper112/S4Fusion">code</a>]
-   </div>
-</div>   -->
-
-<div class="publication media paperhi">
-   <img src="./images/preprint/2-preprint-lrr.png" height="120" width="200" class="papericon">
-   <div class="media-body">
-	   <b>2. Infrared and visible image fusion using Latent Low-Rank Representation</b><br>
-   	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   arXiv 2017 <br/>
-      (<font color=red>Google citation: 267</font>) <br/>
-   	[<a href="https://arxiv.org/abs/1804.08992">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_Infrared_visible_latlrr">code</a>]
-   </div>
-</div>  
-
-<div class="publication media paperhi">
-   <img src="./images/preprint/1-preprint-mflrr.png" height="120" width="200" class="papericon">
-   <div class="media-body">
-	   <b>1. Multi-focus Noisy Image Fusion using Low-Rank Representation</b><br>
-   	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Tariq Durrani <br/>
-	   arXiv 2017 <br/>
-   	[<a href="https://arxiv.org/abs/1804.09325">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_noisy_lrr">code</a>]
-   </div>
-</div>
-
-
 </div>
 	
 ---
@@ -145,5 +112,4 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 
 Associate Editor: Springer Nature (SN) Computer Science  
 Reviewer: IEEE TPAMI, IJCV, IEEE TIP, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, Information Fusion ...  
-
 
