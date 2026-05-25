@@ -10,7 +10,8 @@ I am currently an Associate Professor ([home page](https://ai.jiangnan.edu.cn/in
 I have published several scientific papers (8 highly cited papers, 2 hot paper), including IEEE TPAMI, IJCV, IEEE TIP, CVPR, NeurIPS, Information Fusion etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023, 2024, 2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
 
 **Current research:**
-+ Embodied intelligence, AI4Science, Medical image processing, Remote sensing  
++ Embodied intelligence, AI4Science  
++ Medical image processing, Remote sensing  
 + Multi-modal fusion, super-resolution  
 + Multi-modal detection, tracking 
 
