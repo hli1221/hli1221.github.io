@@ -95,6 +95,7 @@ Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn
 - Zhijia Din  
 - Jingwen Tan  
 - Zhenpeng Gao
+- [Xinchang Wang (undergraduate)](https://github.com/dongdongunique)
 
 	
 ---

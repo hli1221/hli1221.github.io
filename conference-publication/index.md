@@ -16,7 +16,7 @@ permalink: /conference-publication/
          <b>21. RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry</b><br>
          Xinchang Wang, Yunhao Chen, Yuechen Zhang, Congcong Bian, Zihao Guo, Xingjun Ma, <strong><b>Hui Li*</b></strong> <br/>
          Forty-third International Conference on Machine Learning (<b>ICML 2026</b>), 2026. <br/>
-         [paper][<a href="https://arxiv.org/abs/2603.01544">arxiv</a>][<a href="https://github.com/dongdongunique/RA-Det">code</a>]
+         [<a href="https://openreview.net/forum?id=KduPuqy11U">paper</a>][<a href="https://arxiv.org/abs/2603.01544">arxiv</a>][<a href="https://github.com/dongdongunique/RA-Det">code</a>]
       </div>
    </div> 
 
