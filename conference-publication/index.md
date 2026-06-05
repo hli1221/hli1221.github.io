@@ -36,7 +36,7 @@ permalink: /conference-publication/
          <b>19. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
          Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
          IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026: 41551-41561. <br/>
-         [paper][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
+         [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bian_FusionRegister_Every_Infrared_and_Visible_Image_Fusion_Deserves_Registration_CVPR_2026_paper.html">paper</a>][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
       </div>
    </div> 
 
@@ -46,7 +46,7 @@ permalink: /conference-publication/
          <b>18. Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion</b><br>
          Yanglin Deng, Tianyang Xu*, Chunyang Cheng, <strong><b>Hui Li</b></strong>, Xiao-jun Wu, Josef Kittler <br/>
          IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026: 12334-12343. <br/>
-         [paper][<a href="https://arxiv.org/abs/2603.21820">arxiv</a>][<a href="https://github.com/yanglinDeng/IVIF unpair">code</a>]
+         [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Beyond_Strict_Pairing_Arbitrarily_Paired_Training_for_High-Performance_Infrared_and_CVPR_2026_paper.html">paper</a>][<a href="https://arxiv.org/abs/2603.21820">arxiv</a>][<a href="https://github.com/yanglinDeng/IVIF unpair">code</a>]
       </div>
    </div> 
 
@@ -91,7 +91,7 @@ permalink: /conference-publication/
    <div class="media-body">
       <b>14. One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</b><br>
       Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu*, Zhangyong Tang, <strong><b>Hui Li</b></strong>, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler <br/>
-      IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>), 2025. <br/>
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>), 2025: 28102-28112. <br/>
       [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.html">paper</a>][<a href="https://arxiv.org/abs/2502.19854">arxiv</a>][<a href="https://github.com/AWCXV/GIFNet">code</a>]
    </div>
 </div>  
