@@ -26,7 +26,7 @@ permalink: /conference-publication/
          <b>20. Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space</b><br>
          Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Tao Zhou, Xiaojun Wu*, Josef Kittler <br/>
          Forty-third International Conference on Machine Learning (<b>ICML 2026</b>), 2026. <br/>
-         [paper][arxiv][code]
+         [<a href="https://openreview.net/forum?id=dyqFW9lJgQ">paper</a>][arxiv][<a href="https://github.com/Shaoyun2023/TEDFusion">code</a>]
       </div>
    </div> 
 
