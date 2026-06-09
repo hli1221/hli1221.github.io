@@ -11,9 +11,9 @@ permalink: /journal-publication/
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/41-journal-evanet.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/42-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>41. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
+      <b>42. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
       [<a href="https://doi.org/10.1109/TPAMI.2026.3681958">paper</a>][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
@@ -21,9 +21,9 @@ permalink: /journal-publication/
 </div> 
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/40-journal-depthn.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/41-journal-depthn.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>40. Depth-Nutrition: A Novel Food Nutrition Prediction Framework Guided by Deconstruction of Physical Features</b><br>
+      <b>41. Depth-Nutrition: A Novel Food Nutrition Prediction Framework Guided by Deconstruction of Physical Features</b><br>
       Guanhua Qiao, Chunyang Cheng, Zhongwei Shen, Jinlin Zhu*, <strong><b>Hui Li*</b></strong>, Xiaojun Wu<br/>
       IEEE Transactions on Multimedia (<b>TMM</b>), 29 April, 2026. <br/>
       [<a href="https://doi.org/10.1109/TMM.2026.3688390">paper</a>][arxiv][code]
@@ -31,19 +31,19 @@ permalink: /journal-publication/
 </div>
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/39-journal-crtfs.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/40-journal-crtfs.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>39. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
+      <b>40. A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Muhammad, Josef Kittler <br/>
       International Journal of Computer Vision (<b>IJCV</b>), Volume 134 (5), article number 227, (2026). <br/>
-      [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][code]
+      [<a href="https://doi.org/10.1007/s11263-026-02793-4">paper</a>][arxiv][<a href=" https://github.com/Yukarizz/CRTFS">code</a>]
    </div>
 </div>
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/38-journal-fcl.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/39-journal-fcl.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>38. Full-combination Contrastive Learning for Multi-view Clustering</b><br>
+      <b>39. Full-combination Contrastive Learning for Multi-view Clustering</b><br>
       Cheng Ma, Zhe Chen*, Heng Liu, <strong><b>Hui Li</b></strong>, Tianyang Xu <br/>
       Pattern Recognition (<b>PR</b>). Volume 174, June 2026, 112951. <br/>
       [<a href="https://doi.org/10.1016/j.patcog.2025.112951">paper</a>][arxiv][<a href="https://github.com/chenzhe207/FCMVC">code</a>]
@@ -51,9 +51,9 @@ permalink: /journal-publication/
 </div>
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/37-journal-tgmif.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/38-journal-tgmif.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>37. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
+      <b>38. Text-Guided Medical Image Fusion Using Unbalanced Optimal Transport: Semantic Alignment and Cross-Modal Interaction</b><br>
       Yu Zhu, Liqiang Song, Guodong Wang, Junli Zhao, <strong><b>Hui Li</b></strong>, Yi Li*<br/>
       Signal Processing, Volume 245, August 2026, 110590. <br/>
       [<a href="https://doi.org/10.1016/j.sigpro.2026.110590">paper</a>][arxiv][code]
@@ -61,9 +61,9 @@ permalink: /journal-publication/
 </div>
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/36-journal-buseref.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/37-journal-buseref.png" height="120" width="200" class="papericon">
    <div class="media-body">
-      <b>36. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
+      <b>37. BusReF: Infrared-visible images registration and fusion focus on reconstructible area using one set of features</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiaojun Wu*, Congcong Bian, Josef Kittler <br/>
       ACM Transactions on Multimedia Computing, Communications and Applications (<b>ACM TOMM</b>), 2026, Volume 22, Issue 1, Pages 1-19. <br/>
       [<a href="https://doi.org/10.1145/3773769">paper</a>][arxiv][<a href="https://github.com/Yukarizz/BusReF">code</a>]
@@ -76,6 +76,16 @@ permalink: /journal-publication/
 ### 2025
 
 <div class="papers-container papers-selected">
+
+<div class="publication media paperhi">
+   <img src="{{ site.baseurl }}/images/journal/36-journal-scafnet.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>36. SCAFNet: Multimodal stroke medical image synthesis and fusion network based on self attention and cross attention</b><br>
+      Yu Zhu, Liqiang Song, Junli Zhao, Guodong Wang, <strong><b>Hui Li</b></strong>, Yi Li <br/>
+      Computer Vision and Image Understanding (<b>CVIU</b>), 2025, 104611. <br/>
+      [<a href="https://doi.org/10.1016/j.cviu.2025.104611">paper</a>][arxiv][code]
+   </div>
+</div> 
 
 <div class="publication media paperhi">
    <img src="{{ site.baseurl }}/images/journal/35-journal-refinefuse.png" height="120" width="200" class="papericon">
@@ -93,7 +103,7 @@ permalink: /journal-publication/
       <b>34. SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
       International Journal of Computer Vision (<b>IJCV</b>), Volume 133, pages 8642–8663, (2025). <br/>
-      [<a href="https://doi.org/10.1007/s11263-025-02578-1">paper</a>][arxiv][code]
+      [<a href="https://doi.org/10.1007/s11263-025-02578-1">paper</a>][arxiv][<a href="https://github.com/Shaoyun2023">code</a>]
    </div>
 </div> 
 
@@ -123,7 +133,7 @@ permalink: /journal-publication/
       <b>31. GrFormer: A novel Transformer on Grassmann manifold for infrared and visible image fusion</b><br>
       Huan Kang, <strong><b>Hui Li</b></strong>, Xiao-Jun Wu*, Tianyang Xu, Rui Wang, Chunyang Cheng, Josef Kittler <br/>
       Information Fusion (<b>InfFus</b>), Volume: 125, November 2025, 103402. <br/>
-      [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][code]
+      [<a href="https://doi.org/10.1016/j.inffus.2025.103402">paper</a>][<a href="https://arxiv.org/abs/2506.14384v1">arxiv</a>][<a href="https://github.com/Shaoyun2023/GrFormer">code</a>]
    </div>
 </div> 
 
@@ -284,7 +294,7 @@ permalink: /journal-publication/
 </div>  
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/14-journal-crossfuse.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/15-journal-crossfuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
 	   <b>15. CrossFuse: A Novel Cross Attention Mechanism based Infrared and Visible Image Fusion Approach</b><br>
    	<strong><b>Hui Li*</b></strong>, Xiao-Jun Wu <br/>
@@ -301,7 +311,7 @@ permalink: /journal-publication/
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-   <img src="{{ site.baseurl }}/images/journal/15-journal-guidefuse.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/14-journal-guidefuse.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>14. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
       Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
