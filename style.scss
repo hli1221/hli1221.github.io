@@ -334,6 +334,12 @@ color: #cc0000;
 font-size: 14px;
 }
 
+.hl {
+background: linear-gradient(to bottom, transparent 55%, rgba(255, 200, 150, 0.35) 55%);
+font-weight: 600;
+padding: 0 2px;
+}
+
 .papericon {
 border-radius: 8px; 
 -moz-box-shadow: 3px 3px 6px #888;

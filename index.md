@@ -3,14 +3,14 @@ layout: default
 body_class: home-page
 ---
 
-I received B.A. degree from School of Internet of Things Engineering at Jiangnan University, in 2015. For two years up to 2018, I studied as a Master student in Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University. I received my Ph.D. degree at Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, [Jiangnan University](http://www.jiangnan.edu.cn/), in December of 2021, supervised by [Pro. Xiao-Jun Wu](http://ai.jiangnan.edu.cn/info/1013/1500.htm). 
+I received my B.A. degree from the School of Internet of Things Engineering at Jiangnan University in 2015. From 2016 to 2018, I pursued my Master's degree at the Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence, Jiangnan University. I earned my Ph.D. degree from the same laboratory at [Jiangnan University](http://www.jiangnan.edu.cn/) in December 2021, under the supervision of [Prof. Xiao-Jun Wu](http://ai.jiangnan.edu.cn/info/1013/1500.htm).
 
-I am currently an Associate Professor ([home page](https://ai.jiangnan.edu.cn/info/1014/4428.htm)) at the School of Artificial Intelligence and Computer Science and the International Joint Laboratory on Artificial Intelligence of Jiangsu Province, Jiangnan University, Wuxi, China. My research interests include computer vision, multi-modal image fusion, multi-modal super-resolution and multi-modal detection/tracking. 
+I am currently an <span class="hl">Associate Professor</span> ([home page](https://ai.jiangnan.edu.cn/info/1014/4428.htm)) at the School of Artificial Intelligence and Computer Science and the International Joint Laboratory on Artificial Intelligence of Jiangsu Province, Jiangnan University, Wuxi, China. My research interests include computer vision, <span class="hl">multi-modal image fusion</span>, multi-modal super-resolution, and multi-modal detection/tracking.
 
-I have published several scientific papers (8 highly cited papers, 2 hot papers), including IEEE TPAMI, IEEE TIP, IJCV, CVPR, ICML, NeurIPS, Information Fusion etc. I achieved top tracking performance in several competitions, including the VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21) and Anti-UAV challenge (ICCV21). I have been chosen among [the World's Top 2% Scientists ranking in the single recent year dataset published by Stanford University (2022, 2023, 2024, 2025)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8).
+I have published numerous scientific papers, including <span class="hl">8 highly cited papers</span> and <span class="hl">2 hot papers</span>, in top-tier venues such as <span class="hl">IEEE TPAMI, IEEE TIP, IJCV, CVPR, ICML, NeurIPS, and Information Fusion</span>. I achieved top tracking performance in several international competitions, including the <span class="hl">VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21), and Anti-UAV challenge (ICCV21)</span>. I have been consistently recognized in the <span class="hl"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" style="color:inherit;text-decoration:inherit;">World's Top 2% Scientists ranking</a></span> published by Stanford University (2022, 2023, 2024, 2025).
 
 **Current research:**
-+ Embodied intelligence, AI4Science  
++ Multimodal Large Language Model, AI4Science  
 + Medical image processing, Remote sensing  
 + Multi-modal fusion, super-resolution  
 + Multi-modal detection, tracking 
