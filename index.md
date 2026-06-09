@@ -10,7 +10,7 @@ I am currently an <span class="hl">Associate Professor</span> ([home page](https
 I have published numerous scientific papers, including <span class="hl">8 highly cited papers</span> and <span class="hl">2 hot papers</span>, in top-tier venues such as <span class="hl">IEEE TPAMI, IEEE TIP, IJCV, CVPR, ICML, NeurIPS, and Information Fusion</span>. I achieved top tracking performance in several international competitions, including the <span class="hl">VOT2020 RGBT challenge (ECCV20), VOT2021 RGBD challenge (ICCV21), and Anti-UAV challenge (ICCV21)</span>. I have been consistently recognized in the <span class="hl"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" style="color:inherit;text-decoration:inherit;">World's Top 2% Scientists ranking</a></span> published by Stanford University (2022, 2023, 2024, 2025).
 
 **Current research:**
-+ Multimodal Large Language Model, AI4Science  
++ Multimodal Large Model, AI4Science  
 + Medical image processing, Remote sensing  
 + Multi-modal fusion, super-resolution  
 + Multi-modal detection, tracking 
