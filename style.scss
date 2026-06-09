@@ -316,13 +316,22 @@ background: linear-gradient(135deg, #fff5f5, #ffe0e0);
 color: #cc0000;
 font-weight: bold;
 font-size: 13px;
-padding: 2px 10px;
+padding: 2px 10px 2px 22px;
 border-radius: 12px;
 border: 1.5px solid #cc0000;
-margin-left: 6px;
 white-space: nowrap;
 vertical-align: middle;
 box-shadow: 0 1px 4px rgba(204, 0, 0, 0.15);
+position: relative;
+}
+.award-badge::before {
+content: "★";
+position: absolute;
+left: 6px;
+top: 50%;
+transform: translateY(-50%);
+color: #cc0000;
+font-size: 14px;
 }
 
 .papericon {
