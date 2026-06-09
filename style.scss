@@ -310,6 +310,21 @@ margin-top:5px;
 padding-left:20px;
 }
 
+.award-badge {
+display: inline-block;
+background: linear-gradient(135deg, #fff5f5, #ffe0e0);
+color: #cc0000;
+font-weight: bold;
+font-size: 13px;
+padding: 2px 10px;
+border-radius: 12px;
+border: 1.5px solid #cc0000;
+margin-left: 6px;
+white-space: nowrap;
+vertical-align: middle;
+box-shadow: 0 1px 4px rgba(204, 0, 0, 0.15);
+}
+
 .papericon {
 border-radius: 8px; 
 -moz-box-shadow: 3px 3px 6px #888;

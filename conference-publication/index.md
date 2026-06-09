@@ -35,7 +35,7 @@ permalink: /conference-publication/
       <div class="media-body">
          <b>19. FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration</b><br>
          Congcong Bian, Haolong Ma, <strong><b>Hui Li*</b></strong>, Zhongwei Shen, Xiaoqing Luo, Xiaoning Song, Xiao-Jun Wu <br/>
-         IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026: 41551-41561. <br/>
+         IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR 2026</b>), 2026: 41551-41561. <span class="award-badge">🏆 CVPR Compute Transparency Champion Award</span> <br/>
          [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bian_FusionRegister_Every_Infrared_and_Visible_Image_Fusion_Deserves_Registration_CVPR_2026_paper.html">paper</a>][<a href="https://arxiv.org/abs/2603.07667">arxiv</a>][<a href="https://github.com/bociic/FusionRegister">code</a>]
       </div>
    </div> 

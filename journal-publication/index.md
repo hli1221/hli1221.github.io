@@ -83,7 +83,7 @@ permalink: /journal-publication/
       <b>36. SCAFNet: Multimodal stroke medical image synthesis and fusion network based on self attention and cross attention</b><br>
       Yu Zhu, Liqiang Song, Junli Zhao, Guodong Wang, <strong><b>Hui Li</b></strong>, Yi Li <br/>
       Computer Vision and Image Understanding (<b>CVIU</b>), 2025, 104611. <br/>
-      [<a href="https://doi.org/10.1016/j.cviu.2025.104611">paper</a>][arxiv][<a href="https://github.com/zhuyu369/SCAFNet">code</a>]
+      [<a href="https://doi.org/10.1016/j.cviu.2025.104611">paper</a>][arxiv][code]
    </div>
 </div> 
 
