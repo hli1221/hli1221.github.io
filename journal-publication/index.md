@@ -356,7 +356,7 @@ permalink: /journal-publication/
 	   <b>10. LRRNet: A novel representation learning guided fusion framework for infrared and visible images</b><br>
    	<strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Jiwen Lu, Josef Kittler <br/>
 	   IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), Volume: 45, Issue: 9, pp. 11040-11052, April 2023 <br/>
-      <span class="award-badge">Highly Cited Paper</span> <br/>
+      <span class="award-badge">Highly Cited Paper, Hot Paper</span> <br/>
    	[<a href="https://doi.org/10.1109/TPAMI.2023.3268209">paper</a>][<a href="https://arxiv.org/abs/2304.05172">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-LRRNet">code</a>]
    </div>
 </div>  
