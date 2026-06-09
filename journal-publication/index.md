@@ -16,7 +16,7 @@ permalink: /journal-publication/
       <b>41. EvaNet: Towards More Efficient and Consistent Infrared and Visible Image Fusion Assessment</b><br>
       Chunyang Cheng, Tianyang Xu, Xiao-Jun Wu*, Tao Zhou, <strong><b>Hui Li</b></strong>, Zhangyong Tang, Josef Kittler <br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026. <br/>
-      [paper][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
+      [<a href="https://doi.org/10.1109/TPAMI.2026.3681958">paper</a>][<a href="https://arxiv.org/abs/2604.02896">arxiv</a>][<a href="https://github.com/AWCXV/EvaNet">code</a>]
    </div>
 </div> 
 
