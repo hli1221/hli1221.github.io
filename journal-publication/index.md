@@ -10,6 +10,17 @@ permalink: /journal-publication/
 
 <div class="papers-container papers-selected">
 
+
+<div class="publication media paperhi">
+   <img src="{{ site.baseurl }}/images/journal/43-journal-spatioprompt.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>43. SpatioPrompt: Learning Spatial Attention and Dynamic Prompts for Few-Shot Medical Image Anomaly Detection</b><br>
+      Liqiang Song, Yu Zhu, Junli Zhao, Guodong Wang, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
+      IEEE Journal of Biomedical and Health Informatics (<b>JBHI</b>), 2026, pp. 1-8. <br/>
+      [<a href="https://doi.org/10.1109/JBHI.2026.3706621">paper</a>][arxiv][code]
+   </div>
+</div> 
+
 <div class="publication media paperhi">
    <img src="{{ site.baseurl }}/images/journal/42-journal-evanet.png" height="120" width="200" class="papericon">
    <div class="media-body">
