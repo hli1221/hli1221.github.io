@@ -13,7 +13,7 @@ permalink: /journal-publication/
 
 <div class="publication media paperhi">
    <!-- <img src="{{ site.baseurl }}/images/journal/43-journal-spatioprompt.png" height="120" width="200" class="papericon"> -->
-   <img src="{{ site.baseurl }}/images/journal/0-journal.png.png" height="120" width="200" class="papericon">
+   <img src="{{ site.baseurl }}/images/journal/0-journal.png" height="120" width="200" class="papericon">
    <div class="media-body">
       <b>43. SpatioPrompt: Learning Spatial Attention and Dynamic Prompts for Few-Shot Medical Image Anomaly Detection</b><br>
       Liqiang Song, Yu Zhu, Junli Zhao, Guodong Wang, <strong><b>Hui Li</b></strong>, Yi Li* <br/>
