@@ -11,6 +11,16 @@ permalink: /conference-publication/
 <div class="papers-container papers-selected">
 
    <div class="publication media paperhi">
+      <img src="{{ site.baseurl }}/images/conf/22-conf-crif.png" height="120" width="200" class="papericon">
+      <div class="media-body">
+         <b>22. CRIF: Precision-Oriented Parallel Guidance for Controllable Referring Infrared and Visible Fusion</b><br>
+         Kang Wang, Zhancheng Zhang, Lin Guo, zhongzhen sun, <strong><b>Hui Li</b></strong>, Xiaoning Song, Xiaoqing Luo* <br/>
+         34th ACM International Conference on Multimedia (<b>ACM MM 2026</b>), 2026. <br/>
+         [paper][arxiv][code]
+      </div>
+   </div> 
+
+   <div class="publication media paperhi">
       <img src="{{ site.baseurl }}/images/conf/21-conf-radet.png" height="120" width="200" class="papericon">
       <div class="media-body">
          <b>21. RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry</b><br>

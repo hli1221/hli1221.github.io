@@ -10,6 +10,16 @@ permalink: /journal-publication/
 
 <div class="papers-container papers-selected">
 
+<div class="publication media paperhi">
+   <!-- <img src="{{ site.baseurl }}/images/journal/43-journal-spatioprompt.png" height="120" width="200" class="papericon"> -->
+   <img src="{{ site.baseurl }}/images/journal/44-journal-cfm.png.png" height="120" width="200" class="papericon">
+   <div class="media-body">
+      <b>44. Controllable Foundation Model for Visible and Infrared Image Fusion with All-in-One Bad Weather Removal</b><br>
+      Zeyang Zhang, Tianyang Xu, <strong><b>Hui Li</b></strong>, Chunyang Cheng, ChengCheng Song, Linze Li, Xiao-Jun Wu*, Muhammad Awais, Josef Kittler <br/>
+      IEEE Transactions on Multimedia (<b>TMM</b>), 2026, Early Access. <br/>
+      [<a href="https://doi.org/10.1109/TMM.2026.3710080">paper</a>][arxiv][code]
+   </div>
+</div> 
 
 <div class="publication media paperhi">
    <!-- <img src="{{ site.baseurl }}/images/journal/43-journal-spatioprompt.png" height="120" width="200" class="papericon"> -->
