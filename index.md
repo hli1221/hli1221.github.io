@@ -85,16 +85,17 @@ I am currently an Associate Professor ([home page](https://ai.jiangnan.edu.cn/in
 Mater students (Co-advised with [Prof. Xiaoning Song](https://ai.jiangnan.edu.cn/info/1013/1507.htm) and [Prof. Xiaoqing Luo](https://ai.jiangnan.edu.cn/info/1013/3246.htm))  
 - [Yongbiao Xiao (Graduated)](https://github.com/draymondbiao)  
 - [Tianyu Shen (Graduated)](https://github.com/stywmy)  
-- [Haolong Ma](https://github.com/zipper112)  
+- [Haolong Ma (Graduated)](https://github.com/zipper112)  
+- [Zhiming Meng (Graduated)](https://github.com/ZhimingMeng)  
+- [Jiancong Xu (Graduated)](https://github.com/xjcong404)  
 - [Congcong Bian](https://github.com/bociic)  
-- [Zhiming Meng](https://github.com/ZhimingMeng)  
-- [Jiancong Xu](https://github.com/xjcong404)  
 - Sheng Huang  
 - [Ziyang Liu](https://github.com/Vegetvigbird)  
 - Zhijia Din  
 - Jingwen Tan  
 - Zhenpeng Gao
-- [Xinchang Wang (undergraduate)](https://github.com/dongdongunique)
+
+<!-- - [Xinchang Wang (undergraduate)](https://github.com/dongdongunique) -->
 
 	
 ---
