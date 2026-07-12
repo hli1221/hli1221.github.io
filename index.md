@@ -34,6 +34,7 @@ I am currently an Associate Professor ([home page](https://ai.jiangnan.edu.cn/in
 ---
 # News
 
+- **2026.07:** One paper led by Kang Wang weas accepted by ACM MM 2026.
 - **2026.05:** Two papers led by Huan Kang and Xinchang Wang were accepted by ICML 2026.
 - **2026.04:** [EvaJudge](http://www.evanet.online:5001/), a converged online image fusion evaluation platform based on our TPAMI work (**EvaNet**), is now available. **It provides a unified evaluation environment and a public leaderboard mechanism, supporting efficient evaluation of image fusion methods**.
 - **2026.02:** Two papers led by Congcong Bian and Yanglin Deng were accepted by CVPR 2026.
